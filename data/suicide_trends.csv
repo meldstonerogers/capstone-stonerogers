@@ -1,0 +1,2244 @@
+﻿state,year,sex,race,deaths,population,crude_rate,age_adjusted_rate,years_pll
+Alabama,2023,Males,White,578,1734260,33.33,32.24,"10,506"
+Alabama,2023,Males,Black,91,633291,14.37,14.87,"2,416"
+Alabama,2023,Males,American Indian / Alaska Native,0**,19472,0.00**,0.00**,
+Alabama,2023,Females,White,160,1785216,8.96,8.9,"3,009"
+Alabama,2023,Females,Black,21,726984,2.89,2.89,602
+Alabama,2022,Males,White,570,1723722,33.07,31.62,"9,637"
+Alabama,2022,Males,Black,98,631445,15.52,16.04,"2,811"
+Alabama,2022,Males,HI Native / Pacific Islander,0**,3131,0.00**,0.00**,
+Alabama,2022,Females,White,145,1773310,8.18,8,"2,503"
+Alabama,2022,Females,Black,13**,723405,1.80**,1.83**,426
+Alabama,2022,Females,American Indian / Alaska Native,0**,18361,0.00**,0.00**,
+Alabama,2022,Females,HI Native / Pacific Islander,0**,2741,0.00**,0.00**,
+Alabama,2022,Females,More than One Race,0**,50110,0.00**,0.00**,
+Alabama,2021,Males,White,566,1717594,32.95,31.42,"10,696"
+Alabama,2021,Males,Black,102,629970,16.19,16.12,"3,053"
+Alabama,2021,Females,White,124,1765593,7.02,6.46,"1,952"
+Alabama,2021,Females,Black,17**,721263,2.36**,2.32**,452
+Alabama,2021,Females,HI Native / Pacific Islander,0**,2685,0.00**,0.00**,
+Alabama,2020,Males,White,547,1713900,31.92,31.59,"10,844"
+Alabama,2020,Males,Black,71,629604,11.28,11.38,"1,849"
+Alabama,2020,Females,White,148,1758459,8.42,8.32,"2,845"
+Alabama,2020,Females,Black,12**,719266,1.67**,1.71**,364
+Alabama,2020,Females,HI Native / Pacific Islander,0**,2675,0.00**,0.00**,
+Alabama,2019,Males,White,552,1662779,33.2,32.62,"10,523"
+Alabama,2019,Males,Black,67,611076,10.96,10.85,"1,831"
+Alabama,2019,Males,HI Native / Pacific Islander,0**,2757,0.00**,0.00**,
+Alabama,2019,Females,White,155,1727706,8.97,8.89,"2,830"
+Alabama,2019,Females,Black,15**,704780,2.13**,2.16**,496
+Alabama,2019,Females,HI Native / Pacific Islander,0**,2451,0.00**,0.00**,
+Alabama,2018,Males,White,561,1659759,33.8,32.66,"10,909"
+Alabama,2018,Males,Black,74,609677,12.14,12,"2,102"
+Alabama,2018,Males,American Indian / Alaska Native,0**,17171,0.00**,0.00**,
+Alabama,2018,Males,HI Native / Pacific Islander,0**,2725,0.00**,0.00**,
+Alabama,2018,Males,More than One Race,0**,41703,0.00**,0.00**,
+Alabama,2018,Females,White,160,1722566,9.29,9.47,"3,290"
+Alabama,2018,Females,Black,17**,702416,2.42**,2.35**,530
+Alabama,2018,Females,HI Native / Pacific Islander,0**,2443,0.00**,0.00**,
+Alabama,2018,Females,More than One Race,0**,43091,0.00**,0.00**,
+Alaska,2023,Males,White,90,251491,35.79,33.86,"1,613"
+Alaska,2023,Males,American Indian / Alaska Native,47,58325,80.58,79.66,"1,513"
+Alaska,2023,Males,More than One Race,14**,30259,46.27**,63.09**,406
+Alaska,2023,Females,White,18**,219006,8.22**,7.64**,390
+Alaska,2023,Females,American Indian / Alaska Native,21,56061,37.46,40.99,670
+Alaska,2022,Males,White,101,251778,40.12,37.74,"2,186"
+Alaska,2022,Males,American Indian / Alaska Native,43,58486,73.52,70.37,"1,459"
+Alaska,2022,Males,More than One Race,12**,29843,40.21**,89.00**,296
+Alaska,2022,Females,White,11**,219519,5.01**,4.66**,242
+Alaska,2022,Females,Black,0**,11601,0.00**,0.00**,
+Alaska,2022,Females,American Indian / Alaska Native,21,56207,37.36,36.9,776
+Alaska,2022,Females,HI Native / Pacific Islander,0**,5929,0.00**,0.00**,
+Alaska,2021,Males,White,96,252911,37.96,36.41,"2,116"
+Alaska,2021,Males,American Indian / Alaska Native,54,58710,91.98,86.97,"2,009"
+Alaska,2021,Males,More than One Race,14**,29569,47.35**,55.76**,458
+Alaska,2021,Females,White,23,220495,10.43,10.95,619
+Alaska,2021,Females,American Indian / Alaska Native,20**,56386,35.47**,36.36**,721
+Alaska,2020,Males,White,92,252961,36.37,34.2,"1,810"
+Alaska,2020,Males,American Indian / Alaska Native,51,58452,87.25,82.09,"1,742"
+Alaska,2020,Males,More than One Race,18**,28967,62.14**,77.86**,595
+Alaska,2020,Females,White,20**,220603,9.07**,8.23**,436
+Alaska,2020,Females,American Indian / Alaska Native,15**,56288,26.65**,25.55**,554
+Alaska,2020,Females,Asian,0**,25478,0.00**,0.00**,
+Alaska,2020,Females,HI Native / Pacific Islander,0**,5704,0.00**,0.00**,
+Alaska,2019,Males,White,92,252569,36.43,34.14,"2,072"
+Alaska,2019,Males,American Indian / Alaska Native,61,57537,106.02,108.69,"2,170"
+Alaska,2019,Males,HI Native / Pacific Islander,0**,5928,0.00**,0.00**,
+Alaska,2019,Males,More than One Race,11**,28663,38.38**,38.91**,406
+Alaska,2019,Females,White,20**,223950,8.93**,7.78**,316
+Alaska,2019,Females,American Indian / Alaska Native,15**,56035,26.77**,28.45**,536
+Alaska,2019,Females,HI Native / Pacific Islander,0**,5671,0.00**,0.00**,
+Alaska,2018,Males,White,92,254447,36.16,33.88,"1,880"
+Alaska,2018,Males,American Indian / Alaska Native,38,57496,66.09,59.16,"1,443"
+Alaska,2018,Males,HI Native / Pacific Islander,0**,5780,0.00**,0.00**,
+Alaska,2018,Females,White,22,225732,9.75,9.41,448
+Alaska,2018,Females,Black,0**,12101,0.00**,0.00**,
+Alaska,2018,Females,American Indian / Alaska Native,13**,56011,23.21**,21.68**,474
+Alaska,2018,Females,Asian,0**,25217,0.00**,0.00**,
+Alaska,2018,Females,HI Native / Pacific Islander,0**,5546,0.00**,0.00**,
+Arizona,2023,Males,White,"1,027",3023640,33.97,31.35,"17,447"
+Arizona,2023,Males,Black,53,218308,24.28,22.33,"1,550"
+Arizona,2023,Males,American Indian / Alaska Native,69,188710,36.56,34.37,"2,277"
+Arizona,2023,Males,Asian,10**,144324,6.93**,6.67**,244
+Arizona,2023,Males,More than One Race,26,121216,21.45,25.23,837
+Arizona,2023,Females,White,255,3032719,8.41,7.88,"4,281"
+Arizona,2023,Females,Black,17**,204290,8.32**,8.29**,444
+Arizona,2023,Females,American Indian / Alaska Native,31,194886,15.91,15.94,"1,039"
+Arizona,2022,Males,White,"1,135",3006400,37.75,34.57,"19,204"
+Arizona,2022,Males,Black,48,212784,22.56,20.96,"1,476"
+Arizona,2022,Males,American Indian / Alaska Native,74,187607,39.44,39.61,"2,253"
+Arizona,2022,Males,Asian,21,139103,15.1,15.09,445
+Arizona,2022,Males,More than One Race,22,117676,18.7,22.47,684
+Arizona,2022,Females,White,250,3014917,8.29,7.79,"4,219"
+Arizona,2022,Females,Black,10**,199515,5.01**,4.97**,319
+Arizona,2022,Females,American Indian / Alaska Native,27,193346,13.97,13.37,956
+Arizona,2021,Males,White,985,2979402,33.06,30.4,"17,435"
+Arizona,2021,Males,Black,45,206127,21.83,20.26,"1,430"
+Arizona,2021,Males,American Indian / Alaska Native,96,186459,51.49,48.27,"3,134"
+Arizona,2021,Males,Asian,17**,134402,12.65**,11.77**,421
+Arizona,2021,Males,HI Native / Pacific Islander,0**,11010,0.00**,0.00**,
+Arizona,2021,Males,More than One Race,40,113692,35.18,45.31,"1,200"
+Arizona,2021,Females,White,242,2984429,8.11,7.74,"4,476"
+Arizona,2021,Females,American Indian / Alaska Native,28,191427,14.63,13.88,"1,069"
+Arizona,2021,Females,Asian,10**,148086,6.75**,6.74**,213
+Arizona,2021,Females,HI Native / Pacific Islander,0**,9757,0.00**,0.00**,
+Arizona,2020,Males,White,921,2951505,31.2,29.15,"16,379"
+Arizona,2020,Males,Black,42,200741,20.92,19.91,"1,334"
+Arizona,2020,Males,American Indian / Alaska Native,64,186225,34.37,32.63,"2,116"
+Arizona,2020,Males,Asian,14**,131331,10.66**,9.84**,329
+Arizona,2020,Males,More than One Race,25,109886,22.75,24.23,843
+Arizona,2020,Females,White,254,2953322,8.6,8.29,"4,781"
+Arizona,2020,Females,American Indian / Alaska Native,20**,190304,10.51**,9.74**,782
+Arizona,2020,Females,HI Native / Pacific Islander,0**,9496,0.00**,0.00**,
+Arizona,2019,Males,White,979,2988668,32.76,30.62,"17,174"
+Arizona,2019,Males,Black,27,196355,13.75,12.39,864
+Arizona,2019,Males,American Indian / Alaska Native,67,190381,35.19,33.63,"2,140"
+Arizona,2019,Males,Asian,11**,128585,8.56**,8.91**,221
+Arizona,2019,Males,More than One Race,17**,108014,15.74**,18.76**,512
+Arizona,2019,Females,White,265,3024523,8.76,8.08,"4,148"
+Arizona,2019,Females,Black,18**,185249,9.72**,9.11**,485
+Arizona,2019,Females,American Indian / Alaska Native,19**,196329,9.68**,10.05**,595
+Arizona,2019,Females,HI Native / Pacific Islander,0**,9512,0.00**,0.00**,
+Arizona,2018,Males,White,982,2944748,33.35,31.16,"17,275"
+Arizona,2018,Males,Black,43,189351,22.71,21.92,"1,286"
+Arizona,2018,Males,American Indian / Alaska Native,89,187929,47.36,44.94,"2,996"
+Arizona,2018,Males,Asian,10**,124098,8.06**,8.54**,223
+Arizona,2018,Males,More than One Race,23,103567,22.21,25.82,707
+Arizona,2018,Females,White,249,2978676,8.36,7.77,"4,040"
+Arizona,2018,Females,Black,10**,178476,5.60**,5.61**,278
+Arizona,2018,Females,American Indian / Alaska Native,18**,193627,9.30**,9.28**,706
+Arizona,2018,Females,HI Native / Pacific Islander,0**,9171,0.00**,0.00**,
+Arkansas,2023,Males,White,464,1193904,38.86,37.89,"8,651"
+Arkansas,2023,Males,Black,40,228233,17.53,17.62,"1,228"
+Arkansas,2023,Males,American Indian / Alaska Native,0**,17469,0.00**,0.00**,
+Arkansas,2023,Males,More than One Race,0**,37767,0.00**,0.00**,
+Arkansas,2023,Females,White,100,1211832,8.25,7.83,"1,826"
+Arkansas,2023,Females,Black,12**,250014,4.80**,5.13**,391
+Arkansas,2023,Females,Asian,0**,29333,0.00**,0.00**,
+Arkansas,2023,Females,HI Native / Pacific Islander,0**,7010,0.00**,0.00**,
+Arkansas,2022,Males,White,397,1187480,33.43,33.23,"7,982"
+Arkansas,2022,Males,Black,35,227377,15.39,16.33,"1,068"
+Arkansas,2022,Females,White,97,1205032,8.05,7.91,"1,893"
+Arkansas,2022,Females,American Indian / Alaska Native,0**,16745,0.00**,0.00**,
+Arkansas,2022,Females,More than One Race,0**,37087,0.00**,0.00**,
+Arkansas,2021,Males,White,438,1182452,37.04,36.29,"8,146"
+Arkansas,2021,Males,Black,41,227246,18.04,18.74,"1,307"
+Arkansas,2021,Females,White,116,1198594,9.68,10.44,"2,763"
+Arkansas,2021,Females,American Indian / Alaska Native,0**,16316,0.00**,0.00**,
+Arkansas,2021,Females,HI Native / Pacific Islander,0**,6268,0.00**,0.00**,
+Arkansas,2021,Females,More than One Race,0**,35776,0.00**,0.00**,
+Arkansas,2020,Males,White,428,1178616,36.31,36.15,"8,877"
+Arkansas,2020,Males,Black,45,227216,19.81,19.48,"1,541"
+Arkansas,2020,Females,White,91,1193829,7.62,7.07,"1,640"
+Arkansas,2020,Females,American Indian / Alaska Native,0**,15950,0.00**,0.00**,
+Arkansas,2020,Females,HI Native / Pacific Islander,0**,6008,0.00**,0.00**,
+Arkansas,2019,Males,White,404,1176907,34.33,33.19,"8,045"
+Arkansas,2019,Males,Black,29,225941,12.84,13.52,852
+Arkansas,2019,Males,HI Native / Pacific Islander,0**,6579,0.00**,0.00**,
+Arkansas,2019,Females,White,100,1207424,8.28,8.56,"2,111"
+Arkansas,2019,Females,More than One Race,0**,33666,0.00**,0.00**,
+Arkansas,2018,Males,White,406,1175871,34.53,33.82,"8,282"
+Arkansas,2018,Males,Black,25,225206,11.1,11.93,567
+Arkansas,2018,Males,Asian,0**,24445,0.00**,0.00**,
+Arkansas,2018,Males,More than One Race,0**,32152,0.00**,0.00**,
+Arkansas,2018,Females,White,111,1205260,9.21,9.61,"2,425"
+Arkansas,2018,Females,American Indian / Alaska Native,0**,15325,0.00**,0.00**,
+Arkansas,2018,Females,Asian,0**,26047,0.00**,0.00**,
+Arkansas,2018,Females,HI Native / Pacific Islander,0**,5523,0.00**,0.00**,
+California,2023,Males,White,"2,710",13807100,19.63,18.48,"47,804"
+California,2023,Males,Black,150,1263186,11.88,11.31,"3,947"
+California,2023,Males,American Indian / Alaska Native,16**,344729,4.64**,4.62**,427
+California,2023,Males,Asian,281,3084483,9.11,8.65,"6,135"
+California,2023,Males,HI Native / Pacific Islander,12**,102051,11.76**,10.43**,252
+California,2023,Males,More than One Race,100,844104,11.85,13.11,"3,248"
+California,2023,Females,White,702,13620613,5.15,4.77,"12,484"
+California,2023,Females,Black,46,1264907,3.64,3.56,"1,291"
+California,2023,Females,Asian,128,3353393,3.82,3.64,"2,790"
+California,2023,Females,More than One Race,43,845028,5.09,5.45,"1,248"
+California,2022,Males,White,"2,768",13906692,19.9,18.89,"47,356"
+California,2022,Males,Black,167,1268476,13.17,12.33,"4,182"
+California,2022,Males,American Indian / Alaska Native,18**,341780,5.27**,4.85**,525
+California,2022,Males,Asian,300,3043536,9.86,9.25,"6,871"
+California,2022,Males,HI Native / Pacific Islander,16**,101817,15.71**,14.75**,546
+California,2022,Males,More than One Race,114,834195,13.67,17.37,"3,089"
+California,2022,Females,White,713,13699508,5.21,4.83,"12,721"
+California,2022,Females,Black,50,1268877,3.94,3.65,"1,275"
+California,2022,Females,Asian,122,3308114,3.69,3.44,"2,498"
+California,2022,Females,More than One Race,33,835634,3.95,4.77,937
+California,2021,Males,White,"2,678",14022088,19.1,18.28,"49,793"
+California,2021,Males,Black,175,1272730,13.75,13.5,"4,799"
+California,2021,Males,American Indian / Alaska Native,25,340145,7.35,7.25,664
+California,2021,Males,Asian,284,2999790,9.47,9.07,"6,190"
+California,2021,Males,HI Native / Pacific Islander,11**,101783,10.81**,10.58**,314
+California,2021,Males,More than One Race,84,824022,10.19,11.6,"2,660"
+California,2021,Females,White,679,13794394,4.92,4.69,"13,475"
+California,2021,Females,Black,44,1273612,3.46,3.47,"1,388"
+California,2021,Females,Asian,121,3260953,3.71,3.55,"2,624"
+California,2021,Females,More than One Race,35,826157,4.24,4.82,993
+California,2020,Males,White,"2,670",14205977,18.8,17.96,"48,459"
+California,2020,Males,Black,155,1285186,12.06,11.1,"4,143"
+California,2020,Males,American Indian / Alaska Native,15**,340410,4.41**,4.44**,352
+California,2020,Males,Asian,282,2998922,9.4,8.84,"5,578"
+California,2020,Males,HI Native / Pacific Islander,17**,101884,16.69**,17.12**,365
+California,2020,Males,More than One Race,83,820341,10.12,10.99,"2,721"
+California,2020,Females,White,699,13955702,5.01,4.75,"13,390"
+California,2020,Females,Black,56,1284945,4.36,4.2,"1,550"
+California,2020,Females,Asian,118,3257839,3.62,3.37,"2,407"
+California,2020,Females,More than One Race,42,822748,5.11,4.92,"1,542"
+California,2019,Males,White,"2,926",14162402,20.66,19.66,"52,342"
+California,2019,Males,Black,155,1269373,12.21,11.32,"4,148"
+California,2019,Males,American Indian / Alaska Native,15**,335943,4.47**,4.50**,458
+California,2019,Males,Asian,281,2937247,9.57,9,"5,930"
+California,2019,Males,HI Native / Pacific Islander,11**,100780,10.92**,10.62**,329
+California,2019,Males,More than One Race,95,802780,11.83,13.35,"2,994"
+California,2019,Females,White,754,14071436,5.36,5.02,"13,021"
+California,2019,Females,Black,50,1284303,3.89,3.7,"1,251"
+California,2019,Females,Asian,110,3234976,3.4,3.16,"2,262"
+California,2019,Females,More than One Race,26,811011,3.21,3.53,807
+California,2018,Males,White,"2,913",14218905,20.49,19.6,"50,775"
+California,2018,Males,Black,143,1267041,11.29,10.71,"3,718"
+California,2018,Males,American Indian / Alaska Native,24,333601,7.19,7.46,560
+California,2018,Males,Asian,287,2898663,9.9,9.36,"5,835"
+California,2018,Males,HI Native / Pacific Islander,13**,99972,13.00**,11.80**,369
+California,2018,Males,More than One Race,106,789640,13.42,16.73,"3,107"
+California,2018,Females,White,813,14125907,5.76,5.46,"15,135"
+California,2018,Females,Black,42,1284668,3.27,3.04,"1,022"
+California,2018,Females,Asian,115,3196437,3.6,3.37,"2,487"
+California,2018,Females,More than One Race,27,798539,3.38,3.77,878
+Colorado,2023,Males,White,905,2558184,35.38,32.96,"18,295"
+Colorado,2023,Males,Black,43,151433,28.4,25.69,"1,367"
+Colorado,2023,Males,American Indian / Alaska Native,15**,50352,29.79**,32.62**,403
+Colorado,2023,Males,Asian,14**,105977,13.21**,11.74**,410
+Colorado,2023,Males,More than One Race,16**,103363,15.48**,19.34**,456
+Colorado,2023,Females,White,264,2493801,10.59,10.04,"5,254"
+Colorado,2023,Females,Black,13**,131275,9.90**,9.53**,345
+Colorado,2023,Females,Asian,11**,119478,9.21**,9.94**,392
+Colorado,2022,Males,White,936,2550214,36.7,34.7,"18,892"
+Colorado,2022,Males,Black,32,148301,21.58,21.1,997
+Colorado,2022,Males,Asian,12**,102384,11.72**,11.82**,371
+Colorado,2022,Males,More than One Race,11**,100496,10.95**,14.39**,300
+Colorado,2022,Females,White,263,2485644,10.58,10.04,"5,456"
+Colorado,2022,Females,Black,10**,128410,7.79**,7.65**,362
+Colorado,2022,Females,Asian,10**,115824,8.63**,8.82**,215
+Colorado,2021,Males,White,997,2545331,39.17,37.3,"20,600"
+Colorado,2021,Males,Black,45,145558,30.92,29.04,"1,337"
+Colorado,2021,Males,Asian,14**,99110,14.13**,13.37**,433
+Colorado,2021,Males,More than One Race,15**,97754,15.35**,25.91**,456
+Colorado,2021,Females,White,271,2479267,10.93,10.38,"5,703"
+Colorado,2021,Females,Black,12**,126444,9.49**,9.80**,327
+Colorado,2021,Females,Asian,12**,112643,10.65**,10.66**,259
+Colorado,2021,Females,HI Native / Pacific Islander,0**,6240,0.00**,0.00**,
+Colorado,2020,Males,White,947,2540765,37.27,35.64,"20,252"
+Colorado,2020,Males,Black,33,143316,23.03,20.18,958
+Colorado,2020,Males,American Indian / Alaska Native,12**,48414,24.79**,23.35**,390
+Colorado,2020,Males,Asian,15**,96482,15.55**,15.69**,533
+Colorado,2020,Males,More than One Race,18**,94779,18.99**,20.12**,611
+Colorado,2020,Females,White,248,2473713,10.03,9.72,"5,481"
+Colorado,2020,Females,Black,11**,124440,8.84**,8.60**,338
+Colorado,2019,Males,White,930,2519997,36.91,35.46,"20,421"
+Colorado,2019,Males,Black,34,141133,24.09,22.03,"1,112"
+Colorado,2019,Males,American Indian / Alaska Native,13**,48292,26.92**,29.46**,348
+Colorado,2019,Males,Asian,12**,93729,12.80**,15.01**,253
+Colorado,2019,Males,More than One Race,12**,91637,13.10**,13.22**,437
+Colorado,2019,Females,White,287,2480948,11.57,11.08,"6,010"
+Colorado,2019,Females,HI Native / Pacific Islander,0**,5821,0.00**,0.00**,
+Colorado,2018,Males,White,905,2495321,36.27,34.82,"19,378"
+Colorado,2018,Males,Black,30,138592,21.65,19.1,868
+Colorado,2018,Males,American Indian / Alaska Native,14**,47384,29.55**,27.98**,392
+Colorado,2018,Males,Asian,15**,91876,16.33**,17.32**,397
+Colorado,2018,Males,More than One Race,17**,89124,19.08**,20.75**,623
+Colorado,2018,Females,White,284,2459722,11.55,11.23,"6,336"
+Colorado,2018,Females,HI Native / Pacific Islander,0**,5562,0.00**,0.00**,
+Connecticut,2023,Males,White,259,1388654,18.65,17,"4,214"
+Connecticut,2023,Males,Black,21,227231,9.24,8.82,554
+Connecticut,2023,Males,American Indian / Alaska Native,0**,14660,0.00**,0.00**,
+Connecticut,2023,Males,HI Native / Pacific Islander,0**,2260,0.00**,0.00**,
+Connecticut,2023,Females,White,63,1433192,4.4,3.91,994
+Connecticut,2023,Females,American Indian / Alaska Native,0**,13509,0.00**,0.00**,
+Connecticut,2023,Females,HI Native / Pacific Islander,0**,2070,0.00**,0.00**,
+Connecticut,2023,Females,More than One Race,0**,51564,0.00**,0.00**,
+Connecticut,2022,Males,White,259,1392194,18.6,17.35,"4,175"
+Connecticut,2022,Males,Black,30,223010,13.45,13.4,790
+Connecticut,2022,Males,American Indian / Alaska Native,0**,13796,0.00**,0.00**,
+Connecticut,2022,Males,Asian,10**,90245,11.08**,10.43**,209
+Connecticut,2022,Males,HI Native / Pacific Islander,0**,2213,0.00**,0.00**,
+Connecticut,2022,Females,White,79,1436322,5.5,5.44,"1,536"
+Connecticut,2022,Females,HI Native / Pacific Islander,0**,2038,0.00**,0.00**,
+Connecticut,2021,Males,White,261,1398449,18.66,16.59,"4,347"
+Connecticut,2021,Males,Black,22,218133,10.09,9.85,678
+Connecticut,2021,Males,American Indian / Alaska Native,0**,12829,0.00**,0.00**,
+Connecticut,2021,Males,HI Native / Pacific Islander,0**,2162,0.00**,0.00**,
+Connecticut,2021,Males,More than One Race,0**,47138,0.00**,0.00**,
+Connecticut,2021,Females,White,101,1441999,7,5.87,"1,483"
+Connecticut,2021,Females,American Indian / Alaska Native,0**,12002,0.00**,0.00**,
+Connecticut,2021,Females,HI Native / Pacific Islander,0**,1961,0.00**,0.00**,
+Connecticut,2021,Females,More than One Race,0**,48606,0.00**,0.00**,
+Connecticut,2020,Males,White,255,1395066,18.28,16.48,"4,004"
+Connecticut,2020,Males,Black,21,213804,9.82,10.74,505
+Connecticut,2020,Males,American Indian / Alaska Native,0**,12108,0.00**,0.00**,
+Connecticut,2020,Males,HI Native / Pacific Islander,0**,2149,0.00**,0.00**,
+Connecticut,2020,Females,White,76,1436336,5.29,4.65,"1,104"
+Connecticut,2020,Females,American Indian / Alaska Native,0**,11174,0.00**,0.00**,
+Connecticut,2020,Females,HI Native / Pacific Islander,0**,1933,0.00**,0.00**,
+Connecticut,2020,Females,More than One Race,0**,46947,0.00**,0.00**,
+Connecticut,2019,Males,White,294,1386800,21.2,19.31,"5,033"
+Connecticut,2019,Males,Black,29,208821,13.89,13.52,820
+Connecticut,2019,Males,American Indian / Alaska Native,0**,11555,0.00**,0.00**,
+Connecticut,2019,Males,HI Native / Pacific Islander,0**,2108,0.00**,0.00**,
+Connecticut,2019,Females,White,94,1448663,6.49,5.98,"1,581"
+Connecticut,2019,Females,American Indian / Alaska Native,0**,10758,0.00**,0.00**,
+Connecticut,2019,Females,HI Native / Pacific Islander,0**,1859,0.00**,0.00**,
+Connecticut,2018,Males,White,293,1396807,20.98,18.61,"4,559"
+Connecticut,2018,Males,Black,15**,205542,7.30**,7.57**,355
+Connecticut,2018,Males,American Indian / Alaska Native,0**,11171,0.00**,0.00**,
+Connecticut,2018,Males,HI Native / Pacific Islander,0**,2066,0.00**,0.00**,
+Connecticut,2018,Females,White,93,1458758,6.38,5.36,"1,331"
+Connecticut,2018,Females,Black,11**,225699,4.87**,4.84**,347
+Connecticut,2018,Females,American Indian / Alaska Native,0**,10479,0.00**,0.00**,
+Connecticut,2018,Females,HI Native / Pacific Islander,0**,1828,0.00**,0.00**,
+Connecticut,2018,Females,More than One Race,0**,44655,0.00**,0.00**,
+Delaware,2023,Males,White,96,339841,28.25,25.68,"1,651"
+Delaware,2023,Males,Black,17**,116841,14.55**,13.11**,373
+Delaware,2023,Males,Asian,0**,22382,0.00**,0.00**,
+Delaware,2023,Males,HI Native / Pacific Islander,0**,606,0.00**,0.00**,
+Delaware,2023,Females,White,23,357253,6.44,5.91,347
+Delaware,2023,Females,American Indian / Alaska Native,0**,3732,0.00**,0.00**,
+Delaware,2023,Females,Asian,0**,23247,0.00**,0.00**,
+Delaware,2023,Females,HI Native / Pacific Islander,0**,591,0.00**,0.00**,
+Delaware,2023,Females,More than One Race,0**,16326,0.00**,0.00**,
+Delaware,2022,Males,White,88,338295,26.01,21.49,"1,194"
+Delaware,2022,Males,Black,16**,114341,13.99**,16.17**,344
+Delaware,2022,Males,American Indian / Alaska Native,0**,3735,0.00**,0.00**,
+Delaware,2022,Males,HI Native / Pacific Islander,0**,599,0.00**,0.00**,
+Delaware,2022,Females,White,19**,354527,5.36**,4.98**,255
+Delaware,2022,Females,American Indian / Alaska Native,0**,3669,0.00**,0.00**,
+Delaware,2022,Females,HI Native / Pacific Islander,0**,576,0.00**,0.00**,
+Delaware,2022,Females,More than One Race,0**,15787,0.00**,0.00**,
+Delaware,2021,Males,White,88,336142,26.18,26.4,"1,706"
+Delaware,2021,Males,Black,19**,111384,17.06**,17.58**,549
+Delaware,2021,Males,American Indian / Alaska Native,0**,3666,0.00**,0.00**,
+Delaware,2021,Males,HI Native / Pacific Islander,0**,606,0.00**,0.00**,
+Delaware,2021,Females,White,23,351324,6.55,6.52,421
+Delaware,2021,Females,American Indian / Alaska Native,0**,3591,0.00**,0.00**,
+Delaware,2021,Females,Asian,0**,21655,0.00**,0.00**,
+Delaware,2021,Females,HI Native / Pacific Islander,0**,562,0.00**,0.00**,
+Delaware,2021,Females,More than One Race,0**,15211,0.00**,0.00**,
+Delaware,2020,Males,White,93,333350,27.9,26.21,"1,630"
+Delaware,2020,Males,Black,12**,109070,11.00**,10.85**,365
+Delaware,2020,Males,American Indian / Alaska Native,0**,3619,0.00**,0.00**,
+Delaware,2020,Males,HI Native / Pacific Islander,0**,609,0.00**,0.00**,
+Delaware,2020,Females,White,11**,348016,3.16**,3.10**,143
+Delaware,2020,Females,American Indian / Alaska Native,0**,3546,0.00**,0.00**,
+Delaware,2020,Females,Asian,0**,21219,0.00**,0.00**,
+Delaware,2020,Females,HI Native / Pacific Islander,0**,558,0.00**,0.00**,
+Delaware,2019,Males,White,73,327622,22.28,20.99,"1,215"
+Delaware,2019,Males,American Indian / Alaska Native,0**,3371,0.00**,0.00**,
+Delaware,2019,Males,HI Native / Pacific Islander,0**,563,0.00**,0.00**,
+Delaware,2019,Males,More than One Race,0**,13521,0.00**,0.00**,
+Delaware,2019,Females,White,26,345827,7.52,8.08,537
+Delaware,2019,Females,American Indian / Alaska Native,0**,3325,0.00**,0.00**,
+Delaware,2019,Females,Asian,0**,20792,0.00**,0.00**,
+Delaware,2019,Females,HI Native / Pacific Islander,0**,526,0.00**,0.00**,
+Delaware,2019,Females,More than One Race,0**,14345,0.00**,0.00**,
+Delaware,2018,Males,White,77,326291,23.6,22.53,"1,620"
+Delaware,2018,Males,Black,14**,104889,13.35**,12.39**,453
+Delaware,2018,Males,American Indian / Alaska Native,0**,3309,0.00**,0.00**,
+Delaware,2018,Males,HI Native / Pacific Islander,0**,527,0.00**,0.00**,
+Delaware,2018,Males,More than One Race,0**,13013,0.00**,0.00**,
+Delaware,2018,Females,White,18**,343987,5.23**,5.49**,419
+Delaware,2018,Females,American Indian / Alaska Native,0**,3234,0.00**,0.00**,
+Delaware,2018,Females,Asian,0**,20154,0.00**,0.00**,
+Delaware,2018,Females,HI Native / Pacific Islander,0**,502,0.00**,0.00**,
+Delaware,2018,Females,More than One Race,0**,13993,0.00**,0.00**,
+District of Columbia,2023,Males,White,13**,157615,8.25**,7.25**,297
+District of Columbia,2023,Males,Black,11**,136758,8.04**,8.80**,231
+District of Columbia,2023,Males,American Indian / Alaska Native,0**,2451,0.00**,0.00**,
+District of Columbia,2023,Males,Asian,0**,14074,0.00**,0.00**,
+District of Columbia,2023,Males,HI Native / Pacific Islander,0**,608,0.00**,0.00**,
+District of Columbia,2023,Males,More than One Race,0**,10209,0.00**,0.00**,
+District of Columbia,2023,Females,American Indian / Alaska Native,0**,2157,0.00**,0.00**,
+District of Columbia,2023,Females,Asian,0**,19284,0.00**,0.00**,
+District of Columbia,2023,Females,HI Native / Pacific Islander,0**,609,0.00**,0.00**,
+District of Columbia,2023,Females,More than One Race,0**,11948,0.00**,0.00**,
+District of Columbia,2022,Males,White,15**,154972,9.68**,7.19**,358
+District of Columbia,2022,Males,Black,19**,137229,13.85**,13.10**,438
+District of Columbia,2022,Males,American Indian / Alaska Native,0**,2380,0.00**,0.00**,
+District of Columbia,2022,Males,HI Native / Pacific Islander,0**,555,0.00**,0.00**,
+District of Columbia,2022,Females,American Indian / Alaska Native,0**,2063,0.00**,0.00**,
+District of Columbia,2022,Females,HI Native / Pacific Islander,0**,562,0.00**,0.00**,
+District of Columbia,2022,Females,More than One Race,0**,11491,0.00**,0.00**,
+District of Columbia,2021,Males,White,23,154014,14.93,14.09,436
+District of Columbia,2021,Males,Black,15**,139186,10.78**,10.04**,435
+District of Columbia,2021,Males,American Indian / Alaska Native,0**,2250,0.00**,0.00**,
+District of Columbia,2021,Males,Asian,0**,13007,0.00**,0.00**,
+District of Columbia,2021,Males,HI Native / Pacific Islander,0**,538,0.00**,0.00**,
+District of Columbia,2021,Females,American Indian / Alaska Native,0**,1980,0.00**,0.00**,
+District of Columbia,2021,Females,HI Native / Pacific Islander,0**,523,0.00**,0.00**,
+District of Columbia,2020,Males,White,12**,154557,7.76**,8.88**,225
+District of Columbia,2020,Males,Black,14**,141442,9.90**,10.16**,287
+District of Columbia,2020,Males,American Indian / Alaska Native,0**,2205,0.00**,0.00**,
+District of Columbia,2020,Males,HI Native / Pacific Islander,0**,535,0.00**,0.00**,
+District of Columbia,2020,Males,More than One Race,0**,9284,0.00**,0.00**,
+District of Columbia,2020,Females,American Indian / Alaska Native,0**,1891,0.00**,0.00**,
+District of Columbia,2020,Females,HI Native / Pacific Islander,0**,536,0.00**,0.00**,
+District of Columbia,2020,Females,More than One Race,0**,10666,0.00**,0.00**,
+District of Columbia,2019,Males,White,13**,162193,8.02**,7.43**,242
+District of Columbia,2019,Males,Black,16**,147896,10.82**,11.26**,498
+District of Columbia,2019,Males,American Indian / Alaska Native,0**,2326,0.00**,0.00**,
+District of Columbia,2019,Males,Asian,0**,13383,0.00**,0.00**,
+District of Columbia,2019,Males,HI Native / Pacific Islander,0**,552,0.00**,0.00**,
+District of Columbia,2019,Males,More than One Race,0**,9510,0.00**,0.00**,
+District of Columbia,2019,Females,American Indian / Alaska Native,0**,1992,0.00**,0.00**,
+District of Columbia,2019,Females,Asian,0**,18314,0.00**,0.00**,
+District of Columbia,2019,Females,HI Native / Pacific Islander,0**,548,0.00**,0.00**,
+District of Columbia,2019,Females,More than One Race,0**,11080,0.00**,0.00**,
+District of Columbia,2018,Males,White,26,159858,16.26,16.26,461
+District of Columbia,2018,Males,Black,12**,149405,8.03**,7.18**,344
+District of Columbia,2018,Males,American Indian / Alaska Native,0**,2310,0.00**,0.00**,
+District of Columbia,2018,Males,HI Native / Pacific Islander,0**,556,0.00**,0.00**,
+District of Columbia,2018,Females,American Indian / Alaska Native,0**,1954,0.00**,0.00**,
+District of Columbia,2018,Females,HI Native / Pacific Islander,0**,582,0.00**,0.00**,
+District of Columbia,2018,Females,More than One Race,0**,10819,0.00**,0.00**,
+Florida,2023,Males,White,"2,527",8557459,29.53,25.45,"35,938"
+Florida,2023,Males,Black,209,1852064,11.29,11.13,"5,712"
+Florida,2023,Males,Asian,51,339772,15.01,14.71,"1,382"
+Florida,2023,Males,More than One Race,28,277163,10.1,11.23,905
+Florida,2023,Females,White,723,8775872,8.24,7.44,"11,000"
+Florida,2023,Females,Black,59,1977350,2.98,2.92,"1,595"
+Florida,2023,Females,Asian,10**,388453,2.57**,2.28**,195
+Florida,2022,Males,White,"2,408",8431279,28.56,24.91,"35,504"
+Florida,2022,Males,Black,194,1825753,10.63,10.85,"5,488"
+Florida,2022,Males,Asian,37,325028,11.38,11.17,908
+Florida,2022,Males,More than One Race,25,266253,9.39,9.99,880
+Florida,2022,Females,White,690,8650619,7.98,7.34,"11,405"
+Florida,2022,Females,Black,59,1951278,3.02,2.93,"1,710"
+Florida,2022,Females,American Indian / Alaska Native,0**,58770,0.00**,0.00**,
+Florida,2022,Females,Asian,16**,371137,4.31**,4.23**,418
+Florida,2022,Females,HI Native / Pacific Islander,0**,13908,0.00**,0.00**,
+Florida,2022,Females,More than One Race,11**,273142,4.03**,4.20**,350
+Florida,2021,Males,White,"2,304",8284313,27.81,24.34,"35,121"
+Florida,2021,Males,Black,196,1797330,10.91,10.62,"5,916"
+Florida,2021,Males,Asian,25,312347,8,7.93,720
+Florida,2021,Males,More than One Race,24,253779,9.46,11.76,740
+Florida,2021,Females,White,705,8500149,8.29,7.48,"10,728"
+Florida,2021,Females,Black,60,1922449,3.12,3.1,"1,897"
+Florida,2021,Females,Asian,18**,356539,5.05**,4.86**,433
+Florida,2021,Females,More than One Race,10**,260613,3.84**,4.26**,289
+Florida,2020,Males,White,"2,188",8204167,26.67,23.47,"33,784"
+Florida,2020,Males,Black,176,1782167,9.88,9.64,"5,167"
+Florida,2020,Males,Asian,28,304140,9.21,8.96,667
+Florida,2020,Males,More than One Race,21,244204,8.6,11.76,558
+Florida,2020,Females,White,651,8413356,7.74,7.1,"10,899"
+Florida,2020,Females,Black,37,1905165,1.94,2.01,"1,224"
+Florida,2020,Females,Asian,17**,347663,4.89**,4.34**,280
+Florida,2020,Females,HI Native / Pacific Islander,0**,12842,0.00**,0.00**,
+Florida,2020,Females,More than One Race,10**,251548,3.98**,4.64**,324
+Florida,2019,Males,White,"2,434",8143000,29.89,25.81,"35,213"
+Florida,2019,Males,Black,181,1759298,10.29,10.28,"5,242"
+Florida,2019,Males,Asian,32,296426,10.8,10.04,759
+Florida,2019,Males,More than One Race,14**,235823,5.94**,5.96**,508
+Florida,2019,Females,White,739,8442364,8.75,7.96,"11,547"
+Florida,2019,Females,Black,41,1891339,2.17,2.18,"1,122"
+Florida,2019,Females,American Indian / Alaska Native,0**,53234,0.00**,0.00**,
+Florida,2019,Females,Asian,14**,343765,4.07**,3.81**,297
+Florida,2019,Females,HI Native / Pacific Islander,0**,12405,0.00**,0.00**,
+Florida,2018,Males,White,"2,575",8069093,31.91,27.86,"37,040"
+Florida,2018,Males,Black,176,1736258,10.14,10.24,"4,787"
+Florida,2018,Males,Asian,25,289157,8.65,8.09,474
+Florida,2018,Males,HI Native / Pacific Islander,0**,12279,0.00**,0.00**,
+Florida,2018,Males,More than One Race,18**,228123,7.89**,10.54**,520
+Florida,2018,Females,White,699,8360725,8.36,7.63,"11,274"
+Florida,2018,Females,Black,41,1867052,2.2,2.15,"1,054"
+Florida,2018,Females,Asian,15**,335701,4.47**,4.57**,424
+Florida,2018,Females,HI Native / Pacific Islander,0**,12021,0.00**,0.00**,
+Florida,2018,Females,More than One Race,10**,236365,4.23**,5.22**,225
+Georgia,2023,Males,White,987,3222469,30.63,29.25,"18,240"
+Georgia,2023,Males,Black,311,1714875,18.14,17.52,"9,515"
+Georgia,2023,Males,Asian,34,261905,12.98,13.11,753
+Georgia,2023,Females,White,257,3251080,7.91,7.44,"4,661"
+Georgia,2023,Females,Black,59,1946877,3.03,3,"1,867"
+Georgia,2023,Females,American Indian / Alaska Native,0**,30702,0.00**,0.00**,
+Georgia,2022,Males,White,978,3208693,30.48,29.52,"18,836"
+Georgia,2022,Males,Black,277,1691718,16.37,15.99,"8,035"
+Georgia,2022,Males,Asian,23,251221,9.16,9.79,671
+Georgia,2022,Females,White,255,3233506,7.89,7.56,"4,979"
+Georgia,2022,Females,Black,67,1919398,3.49,3.47,"2,053"
+Georgia,2022,Females,Asian,11**,264919,4.15**,4.14**,225
+Georgia,2022,Females,HI Native / Pacific Islander,0**,7296,0.00**,0.00**,
+Georgia,2021,Males,White,982,3196488,30.72,29.6,"19,374"
+Georgia,2021,Males,Black,300,1661838,18.05,17.89,"9,023"
+Georgia,2021,Males,Asian,38,240449,15.8,16.33,"1,055"
+Georgia,2021,Males,HI Native / Pacific Islander,0**,7726,0.00**,0.00**,
+Georgia,2021,Females,White,252,3219886,7.83,7.49,"4,868"
+Georgia,2021,Females,Black,77,1886739,4.08,4.06,"2,156"
+Georgia,2021,Females,Asian,15**,253785,5.91**,5.60**,371
+Georgia,2021,Females,HI Native / Pacific Islander,0**,7233,0.00**,0.00**,
+Georgia,2020,Males,White,930,3196389,29.1,28.37,"18,125"
+Georgia,2020,Males,Black,235,1651908,14.23,13.96,"7,138"
+Georgia,2020,Males,Asian,30,234743,12.78,12.33,855
+Georgia,2020,Males,HI Native / Pacific Islander,0**,7599,0.00**,0.00**,
+Georgia,2020,Females,White,228,3213292,7.1,6.88,"4,525"
+Georgia,2020,Females,Black,51,1867654,2.73,2.71,"1,742"
+Georgia,2020,Females,American Indian / Alaska Native,0**,28037,0.00**,0.00**,
+Georgia,2020,Females,HI Native / Pacific Islander,0**,7042,0.00**,0.00**,
+Georgia,2019,Males,White,996,3165955,31.46,30.41,"18,926"
+Georgia,2019,Males,Black,210,1620147,12.96,12.79,"5,812"
+Georgia,2019,Males,Asian,30,227664,13.18,13.09,847
+Georgia,2019,Females,White,278,3218889,8.64,8.5,"5,499"
+Georgia,2019,Females,Black,54,1844966,2.93,2.85,"1,587"
+Georgia,2019,Females,American Indian / Alaska Native,0**,26736,0.00**,0.00**,
+Georgia,2019,Females,HI Native / Pacific Islander,0**,6830,0.00**,0.00**,
+Georgia,2018,Males,White,963,3152732,30.55,29.27,"18,106"
+Georgia,2018,Males,Black,218,1595626,13.66,13.4,"6,582"
+Georgia,2018,Males,Asian,28,220252,12.71,12.43,753
+Georgia,2018,Females,White,289,3202933,9.02,8.66,"5,418"
+Georgia,2018,Females,Black,48,1815191,2.64,2.67,"1,217"
+Georgia,2018,Females,American Indian / Alaska Native,0**,26062,0.00**,0.00**,
+Georgia,2018,Females,Asian,12**,234167,5.13**,5.16**,271
+Georgia,2018,Females,HI Native / Pacific Islander,0**,6712,0.00**,0.00**,
+Hawaii,2023,Males,White,60,192757,31.13,26,771
+Hawaii,2023,Males,American Indian / Alaska Native,0**,3039,0.00**,0.00**,
+Hawaii,2023,Males,Asian,36,249881,14.41,13.64,655
+Hawaii,2023,Males,HI Native / Pacific Islander,26,75372,34.5,35.98,747
+Hawaii,2023,Males,More than One Race,49,179623,27.28,32.17,"1,213"
+Hawaii,2023,Females,White,18**,168758,10.67**,10.38**,257
+Hawaii,2023,Females,Black,0**,12275,0.00**,0.00**,
+Hawaii,2023,Females,American Indian / Alaska Native,0**,2600,0.00**,0.00**,
+Hawaii,2023,Females,Asian,12**,285895,4.20**,3.63**,177
+Hawaii,2023,Females,More than One Race,17**,173435,9.80**,10.30**,496
+Hawaii,2022,Males,White,60,193345,31.03,27.1,"1,075"
+Hawaii,2022,Males,Asian,44,251747,17.48,15.25,681
+Hawaii,2022,Males,HI Native / Pacific Islander,14**,75895,18.45**,19.19**,416
+Hawaii,2022,Males,More than One Race,69,179761,38.38,45.86,"1,622"
+Hawaii,2022,Females,White,23,167985,13.69,11.14,276
+Hawaii,2022,Females,Black,0**,12266,0.00**,0.00**,
+Hawaii,2022,Females,American Indian / Alaska Native,0**,2515,0.00**,0.00**,
+Hawaii,2022,Females,Asian,15**,287507,5.22**,5.09**,259
+Hawaii,2022,Females,More than One Race,17**,173306,9.81**,10.81**,482
+Hawaii,2021,Males,White,53,194778,27.21,23.97,814
+Hawaii,2021,Males,American Indian / Alaska Native,0**,2912,0.00**,0.00**,
+Hawaii,2021,Males,Asian,23,253931,9.06,8.16,412
+Hawaii,2021,Males,HI Native / Pacific Islander,12**,76608,15.66**,16.95**,391
+Hawaii,2021,Males,More than One Race,53,180627,29.34,34.02,"1,318"
+Hawaii,2021,Females,White,26,167361,15.54,12.66,367
+Hawaii,2021,Females,Black,0**,12208,0.00**,0.00**,
+Hawaii,2021,Females,American Indian / Alaska Native,0**,2510,0.00**,0.00**,
+Hawaii,2021,Females,Asian,15**,289000,5.19**,4.31**,188
+Hawaii,2021,Females,More than One Race,15**,173958,8.62**,9.59**,412
+Hawaii,2020,Males,White,53,196042,27.04,25.19,845
+Hawaii,2020,Males,American Indian / Alaska Native,0**,2837,0.00**,0.00**,
+Hawaii,2020,Males,Asian,20**,255292,7.83**,6.86**,337
+Hawaii,2020,Males,HI Native / Pacific Islander,10**,77318,12.93**,13.07**,290
+Hawaii,2020,Males,More than One Race,45,180484,24.93,28.9,"1,146"
+Hawaii,2020,Females,White,15**,166387,9.02**,7.91**,205
+Hawaii,2020,Females,American Indian / Alaska Native,0**,2498,0.00**,0.00**,
+Hawaii,2020,Females,Asian,19**,290351,6.54**,5.72**,308
+Hawaii,2020,Females,More than One Race,17**,173377,9.81**,11.78**,443
+Hawaii,2019,Males,White,66,192472,34.29,30.18,"1,022"
+Hawaii,2019,Males,Black,0**,18558,0.00**,0.00**,
+Hawaii,2019,Males,American Indian / Alaska Native,0**,2897,0.00**,0.00**,
+Hawaii,2019,Males,Asian,42,244228,17.2,16.52,778
+Hawaii,2019,Males,HI Native / Pacific Islander,21,75641,27.76,27.91,663
+Hawaii,2019,Males,More than One Race,53,175400,30.22,35.14,"1,452"
+Hawaii,2019,Females,White,18**,166168,10.83**,8.95**,264
+Hawaii,2019,Females,Black,0**,12256,0.00**,0.00**,
+Hawaii,2019,Females,American Indian / Alaska Native,0**,2533,0.00**,0.00**,
+Hawaii,2019,Females,Asian,12**,282302,4.25**,3.00**,115
+Hawaii,2019,Females,More than One Race,10**,170260,5.87**,6.05**,350
+Hawaii,2018,Males,White,54,194732,27.73,25.05,755
+Hawaii,2018,Males,Black,0**,18642,0.00**,0.00**,
+Hawaii,2018,Males,Asian,27,246047,10.97,8.36,343
+Hawaii,2018,Males,HI Native / Pacific Islander,15**,76071,19.72**,19.85**,535
+Hawaii,2018,Males,More than One Race,39,174955,22.29,25.16,"1,126"
+Hawaii,2018,Females,White,10**,167602,5.97**,4.41**,119
+Hawaii,2018,Females,American Indian / Alaska Native,0**,2519,0.00**,0.00**,
+Hawaii,2018,Females,Asian,15**,284317,5.28**,3.98**,173
+Hawaii,2018,Females,More than One Race,11**,169813,6.48**,6.89**,286
+Idaho,2023,Males,White,352,914394,38.5,38.72,"7,252"
+Idaho,2023,Males,HI Native / Pacific Islander,0**,2520,0.00**,0.00**,
+Idaho,2023,Females,White,92,902195,10.2,9.61,"1,821"
+Idaho,2023,Females,Asian,0**,18904,0.00**,0.00**,
+Idaho,2023,Females,HI Native / Pacific Islander,0**,2181,0.00**,0.00**,
+Idaho,2022,Males,White,336,903812,37.18,36.04,"6,564"
+Idaho,2022,Females,White,87,892609,9.75,9.54,"1,823"
+Idaho,2022,Females,Black,0**,8128,0.00**,0.00**,
+Idaho,2021,Males,White,311,888429,35.01,35.22,"6,976"
+Idaho,2021,Males,Black,0**,10193,0.00**,0.00**,
+Idaho,2021,Males,HI Native / Pacific Islander,0**,2320,0.00**,0.00**,
+Idaho,2021,Females,White,60,878734,6.83,6.96,"1,461"
+Idaho,2021,Females,Black,0**,7819,0.00**,0.00**,
+Idaho,2021,Females,HI Native / Pacific Islander,0**,2076,0.00**,0.00**,
+Idaho,2021,Females,More than One Race,0**,25402,0.00**,0.00**,
+Idaho,2020,Males,White,333,863646,38.56,39.11,"7,151"
+Idaho,2020,Females,White,77,854617,9.01,9.2,"1,826"
+Idaho,2020,Females,Black,0**,7425,0.00**,0.00**,
+Idaho,2020,Females,HI Native / Pacific Islander,0**,1966,0.00**,0.00**,
+Idaho,2020,Females,More than One Race,0**,23964,0.00**,0.00**,
+Idaho,2019,Males,White,265,834872,31.74,31.42,"4,995"
+Idaho,2019,Females,White,73,829480,8.8,8.83,"1,593"
+Idaho,2019,Females,Black,0**,6863,0.00**,0.00**,
+Idaho,2019,Females,HI Native / Pacific Islander,0**,1882,0.00**,0.00**,
+Idaho,2018,Males,White,305,818418,37.27,37.23,"6,526"
+Idaho,2018,Males,American Indian / Alaska Native,16**,15349,104.24**,107.56**,541
+Idaho,2018,Males,HI Native / Pacific Islander,0**,1988,0.00**,0.00**,
+Idaho,2018,Females,White,87,813246,10.7,10.72,"1,779"
+Idaho,2018,Females,Asian,0**,15348,0.00**,0.00**,
+Idaho,2018,Females,HI Native / Pacific Islander,0**,1838,0.00**,0.00**,
+Illinois,2023,Males,White,"1,047",4760058,22,20.53,"18,861"
+Illinois,2023,Males,Black,136,864808,15.73,15.33,"3,827"
+Illinois,2023,Males,Asian,25,385041,6.49,6.32,708
+Illinois,2023,Males,HI Native / Pacific Islander,0**,4502,0.00**,0.00**,
+Illinois,2023,Females,White,295,4780637,6.17,5.82,"5,240"
+Illinois,2023,Females,Black,34,971297,3.5,3.49,"1,008"
+Illinois,2023,Females,American Indian / Alaska Native,0**,39236,0.00**,0.00**,
+Illinois,2023,Females,Asian,12**,408719,2.94**,2.76**,321
+Illinois,2022,Males,White,"1,046",4782937,21.87,20.72,"19,506"
+Illinois,2022,Males,Black,117,869164,13.46,13.43,"3,364"
+Illinois,2022,Males,Asian,30,379182,7.91,7.89,690
+Illinois,2022,Males,HI Native / Pacific Islander,0**,4500,0.00**,0.00**,
+Illinois,2022,Females,White,282,4802126,5.87,5.78,"5,834"
+Illinois,2022,Females,Black,38,975673,3.9,4.1,"1,202"
+Illinois,2022,Females,American Indian / Alaska Native,0**,38755,0.00**,0.00**,
+Illinois,2021,Males,White,966,4834153,19.98,19.07,"18,019"
+Illinois,2021,Males,Black,128,878781,14.57,14.41,"3,959"
+Illinois,2021,Males,American Indian / Alaska Native,0**,41591,0.00**,0.00**,
+Illinois,2021,Males,Asian,30,375839,7.98,7.49,754
+Illinois,2021,Males,HI Native / Pacific Islander,0**,4542,0.00**,0.00**,
+Illinois,2021,Females,White,256,4851568,5.28,5.1,"5,219"
+Illinois,2021,Females,Black,48,985153,4.87,4.91,"1,698"
+Illinois,2021,Females,American Indian / Alaska Native,0**,38624,0.00**,0.00**,
+Illinois,2021,Females,Asian,10**,398511,2.51**,2.33**,228
+Illinois,2021,Females,HI Native / Pacific Islander,0**,4180,0.00**,0.00**,
+Illinois,2020,Males,White,915,4881439,18.74,18.06,"17,698"
+Illinois,2020,Males,Black,116,885349,13.1,12.76,"3,394"
+Illinois,2020,Males,American Indian / Alaska Native,0**,41594,0.00**,0.00**,
+Illinois,2020,Males,Asian,33,374110,8.82,8.55,"1,045"
+Illinois,2020,Males,HI Native / Pacific Islander,0**,4483,0.00**,0.00**,
+Illinois,2020,Males,More than One Race,12**,136296,8.80**,13.49**,317
+Illinois,2020,Females,White,227,4898154,4.63,4.61,"4,863"
+Illinois,2020,Females,Black,33,992884,3.32,3.27,745
+Illinois,2020,Females,American Indian / Alaska Native,0**,38549,0.00**,0.00**,
+Illinois,2020,Females,Asian,18**,396734,4.54**,4.70**,542
+Illinois,2020,Females,HI Native / Pacific Islander,0**,4173,0.00**,0.00**,
+Illinois,2019,Males,White,978,4809438,20.34,19.3,"18,064"
+Illinois,2019,Males,Black,88,874435,10.06,9.86,"2,361"
+Illinois,2019,Males,Asian,37,364538,10.15,9.65,995
+Illinois,2019,Females,White,286,4893608,5.84,5.66,"5,599"
+Illinois,2019,Females,Black,25,984874,2.54,2.54,663
+Illinois,2019,Females,American Indian / Alaska Native,0**,36893,0.00**,0.00**,
+Illinois,2019,Females,Asian,12**,391145,3.07**,2.91**,204
+Illinois,2018,Males,White,"1,028",4841268,21.23,20.29,"19,653"
+Illinois,2018,Males,Black,94,877287,10.72,10.73,"2,707"
+Illinois,2018,Males,Asian,31,360918,8.59,8.16,798
+Illinois,2018,Males,HI Native / Pacific Islander,0**,4267,0.00**,0.00**,
+Illinois,2018,Females,White,285,4926004,5.79,5.66,"6,012"
+Illinois,2018,Females,Black,26,988717,2.63,2.71,819
+Illinois,2018,Females,American Indian / Alaska Native,0**,36362,0.00**,0.00**,
+Illinois,2018,Females,Asian,14**,387376,3.61**,3.81**,466
+Illinois,2018,Females,HI Native / Pacific Islander,0**,3966,0.00**,0.00**,
+Indiana,2023,Males,White,901,2854507,31.56,30.42,"16,919"
+Indiana,2023,Males,Black,66,346507,19.05,19.38,"1,961"
+Indiana,2023,Males,Asian,11**,99971,11.00**,9.15**,346
+Indiana,2023,Males,HI Native / Pacific Islander,0**,2908,0.00**,0.00**,
+Indiana,2023,Females,White,179,2888961,6.2,6.29,"3,795"
+Indiana,2023,Females,Black,16**,368649,4.34**,4.62**,324
+Indiana,2023,Females,American Indian / Alaska Native,0**,15592,0.00**,0.00**,
+Indiana,2023,Females,HI Native / Pacific Islander,0**,2773,0.00**,0.00**,
+Indiana,2023,Females,More than One Race,0**,84492,0.00**,0.00**,
+Indiana,2022,Males,White,860,2852061,30.15,29.1,"15,759"
+Indiana,2022,Males,Black,59,340603,17.32,17.19,"1,694"
+Indiana,2022,Males,Asian,14**,96127,14.56**,12.97**,412
+Indiana,2022,Males,HI Native / Pacific Islander,0**,2774,0.00**,0.00**,
+Indiana,2022,Males,More than One Race,10**,81511,12.27**,10.62**,386
+Indiana,2022,Females,White,183,2886345,6.34,6.26,"3,723"
+Indiana,2022,Females,Black,16**,362734,4.41**,4.48**,487
+Indiana,2022,Females,HI Native / Pacific Islander,0**,2617,0.00**,0.00**,
+Indiana,2021,Males,White,845,2854053,29.61,29.1,"17,392"
+Indiana,2021,Males,Black,58,336114,17.26,18.07,"1,648"
+Indiana,2021,Males,American Indian / Alaska Native,0**,15821,0.00**,0.00**,
+Indiana,2021,Males,Asian,17**,92747,18.33**,18.77**,554
+Indiana,2021,Males,HI Native / Pacific Islander,0**,2611,0.00**,0.00**,
+Indiana,2021,Females,White,184,2887191,6.37,6.42,"4,358"
+Indiana,2021,Females,Black,11**,358124,3.07**,2.86**,329
+Indiana,2021,Females,American Indian / Alaska Native,0**,15071,0.00**,0.00**,
+Indiana,2020,Males,White,749,2852484,26.26,25.93,"15,179"
+Indiana,2020,Males,Black,63,331024,19.03,19.3,"1,817"
+Indiana,2020,Females,White,175,2885967,6.06,6.31,"4,116"
+Indiana,2020,Females,Black,15**,353473,4.24**,4.03**,541
+Indiana,2020,Females,HI Native / Pacific Islander,0**,2388,0.00**,0.00**,
+Indiana,2019,Males,White,734,2817091,26.06,25.43,"14,166"
+Indiana,2019,Males,Black,48,325198,14.76,14.48,"1,418"
+Indiana,2019,Males,HI Native / Pacific Islander,0**,2351,0.00**,0.00**,
+Indiana,2019,Females,White,166,2886220,5.75,5.74,"3,509"
+Indiana,2019,Females,Black,10**,348502,2.87**,3.04**,303
+Indiana,2019,Females,American Indian / Alaska Native,0**,14020,0.00**,0.00**,
+Indiana,2019,Females,Asian,0**,86463,0.00**,0.00**,
+Indiana,2019,Females,More than One Race,0**,74118,0.00**,0.00**,
+Indiana,2018,Males,White,772,2812038,27.45,26.88,"16,236"
+Indiana,2018,Males,Black,45,320197,14.05,13.35,"1,510"
+Indiana,2018,Males,American Indian / Alaska Native,0**,14212,0.00**,0.00**,
+Indiana,2018,Males,HI Native / Pacific Islander,0**,2289,0.00**,0.00**,
+Indiana,2018,Females,White,231,2880676,8.02,7.97,"4,925"
+Indiana,2018,Females,Black,15**,343777,4.36**,4.55**,409
+Indiana,2018,Females,HI Native / Pacific Islander,0**,2205,0.00**,0.00**,
+Indiana,2018,Females,More than One Race,0**,71930,0.00**,0.00**,
+Iowa,2023,Males,White,386,1435652,26.89,26.58,"7,685"
+Iowa,2023,Males,Black,14**,77367,18.10**,14.84**,556
+Iowa,2023,Females,White,85,1439021,5.91,5.72,"1,752"
+Iowa,2023,Females,American Indian / Alaska Native,0**,9819,0.00**,0.00**,
+Iowa,2023,Females,Asian,0**,43444,0.00**,0.00**,
+Iowa,2022,Males,White,444,1435395,30.93,30.37,"8,449"
+Iowa,2022,Males,Black,18**,75616,23.80**,24.24**,580
+Iowa,2022,Males,HI Native / Pacific Islander,0**,3946,0.00**,0.00**,
+Iowa,2022,Females,White,104,1439309,7.23,7.2,"2,047"
+Iowa,2022,Females,American Indian / Alaska Native,0**,9469,0.00**,0.00**,
+Iowa,2022,Females,HI Native / Pacific Islander,0**,3674,0.00**,0.00**,
+Iowa,2021,Males,White,426,1438721,29.61,29.74,"8,670"
+Iowa,2021,Males,Black,16**,73662,21.72**,20.62**,472
+Iowa,2021,Females,White,89,1442343,6.17,6.52,"1,992"
+Iowa,2021,Females,HI Native / Pacific Islander,0**,3103,0.00**,0.00**,
+Iowa,2020,Males,White,431,1439182,29.95,30.86,"9,142"
+Iowa,2020,Males,HI Native / Pacific Islander,0**,2868,0.00**,0.00**,
+Iowa,2020,Females,White,91,1443366,6.31,6.59,"1,743"
+Iowa,2020,Females,HI Native / Pacific Islander,0**,2665,0.00**,0.00**,
+Iowa,2019,Males,White,405,1417123,28.58,27.99,"8,402"
+Iowa,2019,Males,Black,14**,69081,20.27**,17.15**,480
+Iowa,2019,Females,White,89,1440897,6.18,6.56,"2,134"
+Iowa,2019,Females,More than One Race,0**,31333,0.00**,0.00**,
+Iowa,2018,Males,White,389,1416516,27.46,26.88,"7,862"
+Iowa,2018,Females,White,83,1441367,5.76,5.99,"1,736"
+Iowa,2018,Females,HI Native / Pacific Islander,0**,2094,0.00**,0.00**,
+Kansas,2023,Males,White,397,1263241,31.43,31.34,"8,574"
+Kansas,2023,Males,Black,26,95417,27.25,25.73,761
+Kansas,2023,Males,More than One Race,13**,49235,26.40**,38.40**,367
+Kansas,2023,Females,White,103,1261250,8.17,8.25,"2,135"
+Kansas,2023,Females,HI Native / Pacific Islander,0**,2132,0.00**,0.00**,
+Kansas,2022,Males,White,426,1263099,33.73,33.91,"9,009"
+Kansas,2022,Males,Black,27,95325,28.32,25.25,861
+Kansas,2022,Males,More than One Race,13**,48354,26.89**,29.44**,431
+Kansas,2022,Females,White,104,1259999,8.25,8.56,"2,298"
+Kansas,2021,Males,White,434,1264857,34.31,34.64,"9,902"
+Kansas,2021,Males,Black,24,95456,25.14,26.68,712
+Kansas,2021,Males,HI Native / Pacific Islander,0**,2218,0.00**,0.00**,
+Kansas,2021,Females,White,79,1261128,6.26,6.72,"2,042"
+Kansas,2021,Females,HI Native / Pacific Islander,0**,1930,0.00**,0.00**,
+Kansas,2020,Males,White,377,1266415,29.77,29.56,"8,754"
+Kansas,2020,Males,Black,20**,95207,21.01**,19.52**,739
+Kansas,2020,Males,More than One Race,13**,46760,27.80**,38.13**,398
+Kansas,2020,Females,White,100,1262426,7.92,8.29,"2,165"
+Kansas,2020,Females,HI Native / Pacific Islander,0**,1851,0.00**,0.00**,
+Kansas,2019,Males,White,380,1247542,30.46,30.47,"8,300"
+Kansas,2019,Males,Black,19**,92835,20.47**,19.25**,597
+Kansas,2019,Males,HI Native / Pacific Islander,0**,2037,0.00**,0.00**,
+Kansas,2019,Males,More than One Race,14**,45208,30.97**,37.64**,453
+Kansas,2019,Females,White,99,1263311,7.84,8.21,"2,300"
+Kansas,2019,Females,HI Native / Pacific Islander,0**,1775,0.00**,0.00**,
+Kansas,2018,Males,White,395,1250100,31.6,31.38,"8,972"
+Kansas,2018,Males,Black,19**,92686,20.50**,19.05**,649
+Kansas,2018,Males,Asian,11**,44966,24.46**,28.42**,334
+Kansas,2018,Males,HI Native / Pacific Islander,0**,2012,0.00**,0.00**,
+Kansas,2018,Females,White,104,1264082,8.23,8.46,"2,307"
+Kansas,2018,Females,HI Native / Pacific Islander,0**,1680,0.00**,0.00**,
+Kentucky,2023,Males,White,600,1941889,30.9,29.92,"11,691"
+Kentucky,2023,Males,Black,49,198261,24.72,24.79,"1,252"
+Kentucky,2023,Males,American Indian / Alaska Native,0**,8022,0.00**,0.00**,
+Kentucky,2023,Females,White,147,1980748,7.42,7.16,"2,897"
+Kentucky,2023,Females,Asian,0**,41911,0.00**,0.00**,
+Kentucky,2023,Females,HI Native / Pacific Islander,0**,2603,0.00**,0.00**,
+Kentucky,2022,Males,White,625,1940592,32.21,31.82,"12,000"
+Kentucky,2022,Males,Black,45,196201,22.94,21.58,"1,399"
+Kentucky,2022,Females,White,130,1978188,6.57,6.48,"2,474"
+Kentucky,2022,Females,Black,11**,195596,5.62**,5.67**,331
+Kentucky,2022,Females,HI Native / Pacific Islander,0**,2484,0.00**,0.00**,
+Kentucky,2021,Males,White,653,1944130,33.59,33.07,"12,892"
+Kentucky,2021,Males,Black,36,193422,18.61,16.91,"1,044"
+Kentucky,2021,Females,White,112,1981420,5.65,5.63,"2,339"
+Kentucky,2021,Females,American Indian / Alaska Native,0**,6941,0.00**,0.00**,
+Kentucky,2021,Females,HI Native / Pacific Islander,0**,2300,0.00**,0.00**,
+Kentucky,2021,Females,More than One Race,0**,49335,0.00**,0.00**,
+Kentucky,2020,Males,White,632,1949500,32.42,32.19,"12,700"
+Kentucky,2020,Males,Black,34,192534,17.66,16.74,"1,012"
+Kentucky,2020,Males,American Indian / Alaska Native,0**,7414,0.00**,0.00**,
+Kentucky,2020,Males,HI Native / Pacific Islander,0**,2487,0.00**,0.00**,
+Kentucky,2020,Females,White,114,1984281,5.75,5.65,"2,244"
+Kentucky,2020,Females,American Indian / Alaska Native,0**,6774,0.00**,0.00**,
+Kentucky,2020,Females,HI Native / Pacific Islander,0**,2235,0.00**,0.00**,
+Kentucky,2019,Males,White,554,1924203,28.79,27.37,"10,143"
+Kentucky,2019,Males,Black,28,188710,14.84,15.44,851
+Kentucky,2019,Males,HI Native / Pacific Islander,0**,2373,0.00**,0.00**,
+Kentucky,2019,Females,White,152,1986455,7.65,7.92,"3,374"
+Kentucky,2019,Females,American Indian / Alaska Native,0**,6400,0.00**,0.00**,
+Kentucky,2019,Females,HI Native / Pacific Islander,0**,2073,0.00**,0.00**,
+Kentucky,2019,Females,More than One Race,0**,46147,0.00**,0.00**,
+Kentucky,2018,Males,White,623,1924762,32.37,31.18,"11,781"
+Kentucky,2018,Males,Black,31,186391,16.63,15.47,959
+Kentucky,2018,Males,American Indian / Alaska Native,0**,6921,0.00**,0.00**,
+Kentucky,2018,Females,White,132,1986948,6.64,6.71,"2,690"
+Kentucky,2018,Females,American Indian / Alaska Native,0**,6355,0.00**,0.00**,
+Kentucky,2018,Females,HI Native / Pacific Islander,0**,2014,0.00**,0.00**,
+Louisiana,2023,Males,White,455,1420098,32.04,30.48,"8,077"
+Louisiana,2023,Males,Black,112,705518,15.88,15.94,"3,524"
+Louisiana,2023,Males,HI Native / Pacific Islander,0**,1607,0.00**,0.00**,
+Louisiana,2023,Females,White,118,1440883,8.19,8.07,"2,182"
+Louisiana,2023,Females,Black,23,785492,2.93,2.93,559
+Louisiana,2023,Females,American Indian / Alaska Native,0**,20068,0.00**,0.00**,
+Louisiana,2023,Females,HI Native / Pacific Islander,0**,1570,0.00**,0.00**,
+Louisiana,2023,Females,More than One Race,0**,45616,0.00**,0.00**,
+Louisiana,2022,Males,White,468,1428143,32.77,31.36,"8,489"
+Louisiana,2022,Males,Black,117,707873,16.53,16.83,"3,283"
+Louisiana,2022,Males,HI Native / Pacific Islander,0**,1621,0.00**,0.00**,
+Louisiana,2022,Females,White,114,1447053,7.88,7.64,"2,079"
+Louisiana,2022,Females,Black,15**,786847,1.91**,1.98**,475
+Louisiana,2022,Females,Asian,0**,44461,0.00**,0.00**,
+Louisiana,2022,Females,HI Native / Pacific Islander,0**,1605,0.00**,0.00**,
+Louisiana,2021,Males,White,449,1442855,31.12,30.33,"8,677"
+Louisiana,2021,Males,Black,91,716152,12.71,13.27,"2,554"
+Louisiana,2021,Males,HI Native / Pacific Islander,0**,1625,0.00**,0.00**,
+Louisiana,2021,Females,White,113,1458820,7.75,7.41,"2,255"
+Louisiana,2021,Females,Black,22,793462,2.77,2.96,672
+Louisiana,2021,Females,HI Native / Pacific Islander,0**,1600,0.00**,0.00**,
+Louisiana,2020,Males,White,429,1455036,29.48,28.7,"8,228"
+Louisiana,2020,Males,Black,82,719367,11.4,11.34,"2,460"
+Louisiana,2020,Males,HI Native / Pacific Islander,0**,1573,0.00**,0.00**,
+Louisiana,2020,Females,White,104,1467820,7.09,7.11,"2,090"
+Louisiana,2020,Females,Black,15**,796451,1.88**,1.78**,396
+Louisiana,2020,Females,HI Native / Pacific Islander,0**,1579,0.00**,0.00**,
+Louisiana,2020,Females,More than One Race,0**,43089,0.00**,0.00**,
+Louisiana,2019,Males,White,472,1444399,32.68,31.78,"9,386"
+Louisiana,2019,Males,Black,80,725719,11.02,11.02,"2,153"
+Louisiana,2019,Males,HI Native / Pacific Islander,0**,1530,0.00**,0.00**,
+Louisiana,2019,Females,White,120,1476013,8.13,7.98,"2,114"
+Louisiana,2019,Females,Black,16**,805322,1.99**,2.07**,393
+Louisiana,2019,Females,HI Native / Pacific Islander,0**,1471,0.00**,0.00**,
+Louisiana,2018,Males,White,469,1449954,32.35,31.12,"9,092"
+Louisiana,2018,Males,Black,80,725893,11.02,11.02,"2,080"
+Louisiana,2018,Males,More than One Race,0**,38823,0.00**,0.00**,
+Louisiana,2018,Females,White,130,1480698,8.78,8.53,"2,325"
+Louisiana,2018,Females,Black,26,804332,3.23,3.18,804
+Louisiana,2018,Females,HI Native / Pacific Islander,0**,1422,0.00**,0.00**,
+Maine,2023,Males,White,203,643388,31.55,28.98,"3,338"
+Maine,2023,Males,HI Native / Pacific Islander,0**,319,0.00**,0.00**,
+Maine,2023,Females,White,58,664462,8.73,8.57,"1,066"
+Maine,2023,Females,American Indian / Alaska Native,0**,4953,0.00**,0.00**,
+Maine,2023,Females,Asian,0**,10933,0.00**,0.00**,
+Maine,2023,Females,HI Native / Pacific Islander,0**,259,0.00**,0.00**,
+Maine,2022,Males,White,198,642144,30.83,27.55,"2,816"
+Maine,2022,Males,HI Native / Pacific Islander,0**,306,0.00**,0.00**,
+Maine,2022,Females,White,51,662709,7.7,7.59,968
+Maine,2022,Females,HI Native / Pacific Islander,0**,250,0.00**,0.00**,
+Maine,2022,Females,More than One Race,0**,13679,0.00**,0.00**,
+Maine,2021,Males,White,222,638874,34.75,32.94,"4,018"
+Maine,2021,Males,HI Native / Pacific Islander,0**,289,0.00**,0.00**,
+Maine,2021,Males,More than One Race,0**,13154,0.00**,0.00**,
+Maine,2021,Females,White,47,659164,7.13,7.36,"1,023"
+Maine,2021,Females,American Indian / Alaska Native,0**,4885,0.00**,0.00**,
+Maine,2021,Females,Asian,0**,10421,0.00**,0.00**,
+Maine,2021,Females,HI Native / Pacific Islander,0**,255,0.00**,0.00**,
+Maine,2021,Females,More than One Race,0**,13242,0.00**,0.00**,
+Maine,2020,Males,White,187,633589,29.51,28.05,"3,408"
+Maine,2020,Males,HI Native / Pacific Islander,0**,270,0.00**,0.00**,
+Maine,2020,Females,White,38,653206,5.82,5.35,594
+Maine,2020,Females,Black,0**,10859,0.00**,0.00**,
+Maine,2020,Females,More than One Race,0**,12667,0.00**,0.00**,
+Maine,2019,Males,White,221,621453,35.56,33.13,"3,753"
+Maine,2019,Males,American Indian / Alaska Native,0**,4722,0.00**,0.00**,
+Maine,2019,Males,Asian,0**,7851,0.00**,0.00**,
+Maine,2019,Females,White,48,649080,7.4,7.34,917
+Maine,2019,Females,American Indian / Alaska Native,0**,4822,0.00**,0.00**,
+Maine,2019,Females,HI Native / Pacific Islander,0**,220,0.00**,0.00**,
+Maine,2019,Females,More than One Race,0**,12260,0.00**,0.00**,
+Maine,2018,Males,White,208,619855,33.56,30.56,"3,431"
+Maine,2018,Males,Asian,0**,7525,0.00**,0.00**,
+Maine,2018,Males,HI Native / Pacific Islander,0**,245,0.00**,0.00**,
+Maine,2018,Females,White,50,647609,7.72,7.06,884
+Maine,2018,Females,American Indian / Alaska Native,0**,4764,0.00**,0.00**,
+Maine,2018,Females,Asian,0**,9563,0.00**,0.00**,
+Maine,2018,Females,HI Native / Pacific Islander,0**,222,0.00**,0.00**,
+Maine,2018,Females,More than One Race,0**,11911,0.00**,0.00**,
+Maryland,2023,Males,White,318,1756171,18.11,16.96,"5,669"
+Maryland,2023,Males,Black,105,912663,11.51,11.32,"3,092"
+Maryland,2023,Males,Asian,31,208616,14.86,14.73,654
+Maryland,2023,Females,White,105,1777854,5.91,5.12,"1,394"
+Maryland,2023,Females,Black,21,1038001,2.02,1.99,499
+Maryland,2023,Females,HI Native / Pacific Islander,0**,3960,0.00**,0.00**,
+Maryland,2022,Males,White,342,1761509,19.42,17.84,"5,712"
+Maryland,2022,Males,Black,107,908334,11.78,11.88,"2,987"
+Maryland,2022,Males,American Indian / Alaska Native,0**,23131,0.00**,0.00**,
+Maryland,2022,Males,Asian,19**,204960,9.27**,9.25**,454
+Maryland,2022,Males,HI Native / Pacific Islander,0**,4129,0.00**,0.00**,
+Maryland,2022,Females,White,92,1782355,5.16,4.87,"1,804"
+Maryland,2022,Females,Black,33,1032077,3.2,3.11,893
+Maryland,2022,Females,Asian,10**,224708,4.45**,4.63**,283
+Maryland,2022,Females,HI Native / Pacific Islander,0**,3900,0.00**,0.00**,
+Maryland,2022,Females,More than One Race,0**,100970,0.00**,0.00**,
+Maryland,2021,Males,White,394,1774274,22.21,20.87,"6,926"
+Maryland,2021,Males,Black,93,908316,10.24,10.82,"2,565"
+Maryland,2021,Males,American Indian / Alaska Native,0**,22163,0.00**,0.00**,
+Maryland,2021,Males,Asian,14**,202661,6.91**,7.55**,362
+Maryland,2021,Females,White,85,1794389,4.74,4.43,"1,533"
+Maryland,2021,Females,Black,25,1030168,2.43,2.42,786
+Maryland,2021,Females,American Indian / Alaska Native,0**,20951,0.00**,0.00**,
+Maryland,2021,Females,HI Native / Pacific Islander,0**,3858,0.00**,0.00**,
+Maryland,2021,Females,More than One Race,0**,98948,0.00**,0.00**,
+Maryland,2020,Males,White,363,1782717,20.36,18.79,"5,904"
+Maryland,2020,Males,Black,95,905178,10.5,10.64,"2,702"
+Maryland,2020,Males,American Indian / Alaska Native,0**,21522,0.00**,0.00**,
+Maryland,2020,Males,Asian,15**,200304,7.49**,7.30**,353
+Maryland,2020,Males,HI Native / Pacific Islander,0**,4089,0.00**,0.00**,
+Maryland,2020,Females,White,82,1802093,4.55,4.52,"1,652"
+Maryland,2020,Females,Black,19**,1026418,1.85**,1.88**,595
+Maryland,2020,Females,HI Native / Pacific Islander,0**,3783,0.00**,0.00**,
+Maryland,2019,Males,White,408,1744953,23.38,21.55,"7,046"
+Maryland,2019,Males,Black,94,881032,10.67,10.69,"2,620"
+Maryland,2019,Males,Asian,22,195429,11.26,11.17,459
+Maryland,2019,Males,HI Native / Pacific Islander,0**,3761,0.00**,0.00**,
+Maryland,2019,Females,White,98,1787291,5.48,5.18,"1,771"
+Maryland,2019,Females,Black,22,1004502,2.19,2.07,578
+Maryland,2019,Females,American Indian / Alaska Native,0**,18264,0.00**,0.00**,
+Maryland,2019,Females,HI Native / Pacific Islander,0**,3509,0.00**,0.00**,
+Maryland,2018,Males,White,388,1750702,22.16,20.52,"6,850"
+Maryland,2018,Males,Black,75,875004,8.57,8.45,"1,950"
+Maryland,2018,Males,American Indian / Alaska Native,0**,19058,0.00**,0.00**,
+Maryland,2018,Males,Asian,20**,192816,10.37**,10.59**,487
+Maryland,2018,Males,HI Native / Pacific Islander,0**,3745,0.00**,0.00**,
+Maryland,2018,Females,White,127,1792873,7.08,6.51,"1,961"
+Maryland,2018,Females,Black,27,997066,2.71,2.47,621
+Maryland,2018,Females,American Indian / Alaska Native,0**,17844,0.00**,0.00**,
+Maryland,2018,Females,HI Native / Pacific Islander,0**,3444,0.00**,0.00**,
+Massachusetts,2023,Males,White,448,2703821,16.57,14.99,"7,407"
+Massachusetts,2023,Males,Black,29,329972,8.79,9.27,794
+Massachusetts,2023,Males,American Indian / Alaska Native,0**,19736,0.00**,0.00**,
+Massachusetts,2023,Males,Asian,17**,264260,6.43**,7.43**,298
+Massachusetts,2023,Males,HI Native / Pacific Islander,0**,3863,0.00**,0.00**,
+Massachusetts,2023,Females,White,142,2826540,5.02,4.42,"2,228"
+Massachusetts,2023,Females,Black,13**,345331,3.77**,3.68**,373
+Massachusetts,2023,Females,American Indian / Alaska Native,0**,18941,0.00**,0.00**,
+Massachusetts,2023,Females,HI Native / Pacific Islander,0**,4099,0.00**,0.00**,
+Massachusetts,2023,Females,More than One Race,0**,99429,0.00**,0.00**,
+Massachusetts,2022,Males,White,446,2712011,16.45,15.05,"7,782"
+Massachusetts,2022,Males,Black,34,323348,10.52,10.1,967
+Massachusetts,2022,Males,Asian,10**,257717,3.88**,3.50**,344
+Massachusetts,2022,Males,HI Native / Pacific Islander,0**,3798,0.00**,0.00**,
+Massachusetts,2022,Females,White,115,2835290,4.06,3.71,"2,076"
+Massachusetts,2022,Females,American Indian / Alaska Native,0**,18347,0.00**,0.00**,
+Massachusetts,2022,Females,HI Native / Pacific Islander,0**,4048,0.00**,0.00**,
+Massachusetts,2021,Males,White,418,2729891,15.31,14.01,"7,527"
+Massachusetts,2021,Males,Black,29,318033,9.12,8.69,907
+Massachusetts,2021,Males,American Indian / Alaska Native,0**,18743,0.00**,0.00**,
+Massachusetts,2021,Males,Asian,16**,253515,6.31**,5.79**,514
+Massachusetts,2021,Males,HI Native / Pacific Islander,0**,3804,0.00**,0.00**,
+Massachusetts,2021,Males,More than One Race,0**,93387,0.00**,0.00**,
+Massachusetts,2021,Females,White,125,2852635,4.38,3.84,"1,981"
+Massachusetts,2021,Females,American Indian / Alaska Native,0**,17949,0.00**,0.00**,
+Massachusetts,2021,Females,Asian,11**,272441,4.04**,3.92**,215
+Massachusetts,2021,Females,HI Native / Pacific Islander,0**,4012,0.00**,0.00**,
+Massachusetts,2020,Males,White,432,2744190,15.74,14.44,"7,509"
+Massachusetts,2020,Males,Black,21,313413,6.7,7.21,568
+Massachusetts,2020,Males,Asian,14**,249819,5.60**,5.23**,342
+Massachusetts,2020,Males,HI Native / Pacific Islander,0**,3759,0.00**,0.00**,
+Massachusetts,2020,Males,More than One Race,0**,91239,0.00**,0.00**,
+Massachusetts,2020,Females,White,133,2866692,4.64,4.49,"2,834"
+Massachusetts,2020,Females,American Indian / Alaska Native,0**,17789,0.00**,0.00**,
+Massachusetts,2020,Females,Asian,11**,267356,4.11**,3.99**,234
+Massachusetts,2020,Females,HI Native / Pacific Islander,0**,3906,0.00**,0.00**,
+Massachusetts,2020,Females,More than One Race,0**,92104,0.00**,0.00**,
+Massachusetts,2019,Males,White,451,2692164,16.75,14.91,"7,727"
+Massachusetts,2019,Males,Black,32,304267,10.52,10.19,"1,029"
+Massachusetts,2019,Males,American Indian / Alaska Native,0**,17816,0.00**,0.00**,
+Massachusetts,2019,Males,HI Native / Pacific Islander,0**,3640,0.00**,0.00**,
+Massachusetts,2019,Males,More than One Race,0**,87609,0.00**,0.00**,
+Massachusetts,2019,Females,White,144,2853401,5.05,4.88,"2,729"
+Massachusetts,2019,Females,American Indian / Alaska Native,0**,17174,0.00**,0.00**,
+Massachusetts,2019,Females,Asian,10**,261522,3.82**,3.39**,220
+Massachusetts,2019,Females,HI Native / Pacific Islander,0**,3780,0.00**,0.00**,
+Massachusetts,2018,Males,White,510,2701363,18.88,17.27,"8,709"
+Massachusetts,2018,Males,Black,31,299058,10.37,10.32,941
+Massachusetts,2018,Males,Asian,14**,234646,5.97**,5.51**,427
+Massachusetts,2018,Males,HI Native / Pacific Islander,0**,3546,0.00**,0.00**,
+Massachusetts,2018,Females,White,164,2863932,5.73,5.24,"3,020"
+Massachusetts,2018,Females,Black,11**,318028,3.46**,3.18**,293
+Massachusetts,2018,Females,American Indian / Alaska Native,0**,16865,0.00**,0.00**,
+Massachusetts,2018,Females,HI Native / Pacific Islander,0**,3673,0.00**,0.00**,
+Michigan,2023,Males,White,"1,076",3940416,27.31,26.51,"20,640"
+Michigan,2023,Males,Black,110,674589,16.31,15.79,"3,292"
+Michigan,2023,Males,Asian,23,177417,12.96,11.77,598
+Michigan,2023,Males,HI Native / Pacific Islander,0**,2494,0.00**,0.00**,
+Michigan,2023,Females,White,256,3958261,6.47,6.46,"5,251"
+Michigan,2023,Females,Black,27,741568,3.64,3.66,698
+Michigan,2023,Females,HI Native / Pacific Islander,0**,2367,0.00**,0.00**,
+Michigan,2022,Males,White,"1,037",3944843,26.29,25.18,"18,742"
+Michigan,2022,Males,Black,98,675719,14.5,14.52,"2,636"
+Michigan,2022,Males,Asian,15**,173860,8.63**,7.97**,431
+Michigan,2022,Males,HI Native / Pacific Islander,0**,2406,0.00**,0.00**,
+Michigan,2022,Males,More than One Race,17**,137912,12.33**,15.45**,564
+Michigan,2022,Females,White,280,3961831,7.07,6.92,"5,455"
+Michigan,2022,Females,Black,30,742716,4.04,4.05,902
+Michigan,2022,Females,Asian,14**,176919,7.91**,7.24**,460
+Michigan,2022,Females,HI Native / Pacific Islander,0**,2300,0.00**,0.00**,
+Michigan,2021,Males,White,"1,027",3952734,25.98,24.7,"19,187"
+Michigan,2021,Males,Black,121,679023,17.82,17.67,"3,497"
+Michigan,2021,Males,American Indian / Alaska Native,12**,37171,32.28**,32.73**,284
+Michigan,2021,Males,Asian,16**,170471,9.39**,9.08**,517
+Michigan,2021,Males,HI Native / Pacific Islander,0**,2292,0.00**,0.00**,
+Michigan,2021,Males,More than One Race,23,134708,17.07,22.26,718
+Michigan,2021,Females,White,242,3966947,6.1,5.84,"4,672"
+Michigan,2021,Females,Black,31,745039,4.16,4.33,877
+Michigan,2021,Females,HI Native / Pacific Islander,0**,2218,0.00**,0.00**,
+Michigan,2020,Males,White,"1,005",3969840,25.32,24.02,"18,333"
+Michigan,2020,Males,Black,97,682242,14.22,14.39,"2,677"
+Michigan,2020,Males,American Indian / Alaska Native,12**,36917,32.51**,28.90**,303
+Michigan,2020,Males,Asian,12**,169794,7.07**,5.93**,407
+Michigan,2020,Males,HI Native / Pacific Islander,0**,2250,0.00**,0.00**,
+Michigan,2020,Males,More than One Race,16**,132085,12.11**,17.29**,470
+Michigan,2020,Females,White,253,3984189,6.35,6.12,"4,998"
+Michigan,2020,Females,Black,34,747484,4.55,4.82,869
+Michigan,2020,Females,HI Native / Pacific Islander,0**,2151,0.00**,0.00**,
+Michigan,2019,Males,White,"1,034",3917243,26.4,25.07,"18,964"
+Michigan,2019,Males,Black,100,668778,14.95,15.06,"2,976"
+Michigan,2019,Males,Asian,12**,166381,7.21**,6.89**,296
+Michigan,2019,Males,HI Native / Pacific Islander,0**,2194,0.00**,0.00**,
+Michigan,2019,Males,More than One Race,17**,127108,13.37**,16.28**,639
+Michigan,2019,Females,White,259,3987042,6.5,6.3,"4,917"
+Michigan,2019,Females,Black,23,740211,3.11,3,648
+Michigan,2019,Females,Asian,10**,170565,5.86**,5.33**,281
+Michigan,2019,Females,HI Native / Pacific Islander,0**,2108,0.00**,0.00**,
+Michigan,2018,Males,White,"1,084",3922207,27.64,26.51,"21,371"
+Michigan,2018,Males,Black,106,669078,15.84,16.75,"2,899"
+Michigan,2018,Males,Asian,14**,164933,8.49**,7.29**,432
+Michigan,2018,Males,HI Native / Pacific Islander,0**,2115,0.00**,0.00**,
+Michigan,2018,Males,More than One Race,24,124086,19.34,30.99,588
+Michigan,2018,Females,White,272,3993854,6.81,6.65,"5,401"
+Michigan,2018,Females,Black,29,739908,3.92,3.93,915
+Michigan,2018,Females,Asian,11**,169300,6.50**,5.96**,354
+Michigan,2018,Females,HI Native / Pacific Islander,0**,2065,0.00**,0.00**,
+Michigan,2018,Females,More than One Race,0**,127292,0.00**,0.00**,
+Minnesota,2023,Males,White,564,2364284,23.86,22.56,"10,361"
+Minnesota,2023,Males,Black,26,230128,11.3,11.03,782
+Minnesota,2023,Males,American Indian / Alaska Native,13**,40930,31.76**,36.88**,309
+Minnesota,2023,Males,Asian,28,155196,18.04,18.53,875
+Minnesota,2023,Males,HI Native / Pacific Islander,0**,2645,0.00**,0.00**,
+Minnesota,2023,Males,More than One Race,11**,82192,13.38**,14.16**,393
+Minnesota,2023,Females,White,142,2355367,6.03,5.97,"3,044"
+Minnesota,2023,Females,HI Native / Pacific Islander,0**,2542,0.00**,0.00**,
+Minnesota,2022,Males,White,588,2364799,24.87,23.98,"11,554"
+Minnesota,2022,Males,Black,32,223695,14.31,13.12,"1,073"
+Minnesota,2022,Males,American Indian / Alaska Native,15**,40191,37.32**,36.09**,569
+Minnesota,2022,Males,Asian,17**,152719,11.13**,9.13**,502
+Minnesota,2022,Males,More than One Race,16**,80191,19.95**,42.54**,363
+Minnesota,2022,Females,White,169,2355639,7.17,7.21,"3,472"
+Minnesota,2022,Females,HI Native / Pacific Islander,0**,2463,0.00**,0.00**,
+Minnesota,2021,Males,White,559,2377875,23.51,22.37,"10,631"
+Minnesota,2021,Males,Black,24,217648,11.03,10.11,789
+Minnesota,2021,Males,American Indian / Alaska Native,23,39876,57.68,62.62,648
+Minnesota,2021,Males,Asian,30,150770,19.9,18.13,968
+Minnesota,2021,Males,HI Native / Pacific Islander,0**,2519,0.00**,0.00**,
+Minnesota,2021,Males,More than One Race,13**,78614,16.54**,17.68**,479
+Minnesota,2021,Females,White,134,2366857,5.66,5.72,"2,929"
+Minnesota,2021,Females,HI Native / Pacific Islander,0**,2387,0.00**,0.00**,
+Minnesota,2020,Males,White,532,2383268,22.32,21.3,"9,746"
+Minnesota,2020,Males,Black,27,212220,12.72,12.82,832
+Minnesota,2020,Males,American Indian / Alaska Native,17**,39515,43.02**,41.36**,616
+Minnesota,2020,Males,Asian,17**,148832,11.42**,11.36**,519
+Minnesota,2020,Males,HI Native / Pacific Islander,0**,2398,0.00**,0.00**,
+Minnesota,2020,Males,More than One Race,13**,77016,16.88**,18.77**,477
+Minnesota,2020,Females,White,131,2372696,5.52,5.31,"2,657"
+Minnesota,2020,Females,HI Native / Pacific Islander,0**,2269,0.00**,0.00**,
+Minnesota,2019,Males,White,556,2345964,23.7,22.69,"11,005"
+Minnesota,2019,Males,Black,26,203843,12.76,12.66,756
+Minnesota,2019,Males,American Indian / Alaska Native,18**,38588,46.65**,45.66**,608
+Minnesota,2019,Males,Asian,26,144809,17.96,16.54,826
+Minnesota,2019,Males,HI Native / Pacific Islander,0**,2305,0.00**,0.00**,
+Minnesota,2019,Males,More than One Race,12**,73881,16.24**,23.93**,389
+Minnesota,2019,Females,White,158,2368586,6.67,6.27,"2,853"
+Minnesota,2019,Females,Black,10**,195437,5.12**,5.47**,276
+Minnesota,2019,Females,American Indian / Alaska Native,12**,38397,31.25**,34.90**,401
+Minnesota,2019,Females,Asian,10**,151362,6.61**,7.49**,269
+Minnesota,2019,Females,HI Native / Pacific Islander,0**,2207,0.00**,0.00**,
+Minnesota,2018,Males,White,543,2342858,23.18,22.52,"11,594"
+Minnesota,2018,Males,Black,17**,196434,8.65**,8.37**,532
+Minnesota,2018,Males,American Indian / Alaska Native,14**,38333,36.52**,42.70**,471
+Minnesota,2018,Males,Asian,19**,141713,13.41**,12.33**,592
+Minnesota,2018,Females,White,123,2365753,5.2,5.19,"2,586"
+Minnesota,2018,Females,HI Native / Pacific Islander,0**,2147,0.00**,0.00**,
+Mississippi,2023,Males,White,285,854281,33.36,32.45,"4,822"
+Mississippi,2023,Males,Black,75,522199,14.36,14.94,"2,242"
+Mississippi,2023,Males,HI Native / Pacific Islander,0**,1087,0.00**,0.00**,
+Mississippi,2023,Females,White,77,872201,8.83,8.96,"1,593"
+Mississippi,2023,Females,Black,12**,589485,2.04**,2.26**,361
+Mississippi,2023,Females,Asian,0**,18747,0.00**,0.00**,
+Mississippi,2023,Females,HI Native / Pacific Islander,0**,1003,0.00**,0.00**,
+Mississippi,2022,Males,White,255,855490,29.81,28.53,"4,690"
+Mississippi,2022,Males,Black,58,522815,11.09,11.61,"1,531"
+Mississippi,2022,Males,HI Native / Pacific Islander,0**,1067,0.00**,0.00**,
+Mississippi,2022,Females,White,72,872457,8.25,7.99,"1,154"
+Mississippi,2022,Females,Black,19**,589577,3.22**,3.48**,498
+Mississippi,2022,Females,HI Native / Pacific Islander,0**,932,0.00**,0.00**,
+Mississippi,2022,Females,More than One Race,0**,22228,0.00**,0.00**,
+Mississippi,2021,Males,White,302,859529,35.14,34.58,"5,763"
+Mississippi,2021,Males,Black,74,526276,14.06,14.24,"2,153"
+Mississippi,2021,Males,HI Native / Pacific Islander,0**,1036,0.00**,0.00**,
+Mississippi,2021,Females,White,80,875204,9.14,8.43,"1,376"
+Mississippi,2021,Females,Black,10**,592113,1.69**,1.62**,309
+Mississippi,2021,Females,American Indian / Alaska Native,0**,9442,0.00**,0.00**,
+Mississippi,2021,Females,Asian,0**,17707,0.00**,0.00**,
+Mississippi,2021,Females,HI Native / Pacific Islander,0**,910,0.00**,0.00**,
+Mississippi,2021,Females,More than One Race,0**,21510,0.00**,0.00**,
+Mississippi,2020,Males,White,280,863245,32.44,32.06,"5,364"
+Mississippi,2020,Males,Black,63,528727,11.92,12.31,"1,789"
+Mississippi,2020,Males,Asian,0**,15481,0.00**,0.00**,
+Mississippi,2020,Males,HI Native / Pacific Islander,0**,1030,0.00**,0.00**,
+Mississippi,2020,Females,White,52,877962,5.92,6.32,"1,250"
+Mississippi,2020,Females,American Indian / Alaska Native,0**,9349,0.00**,0.00**,
+Mississippi,2020,Females,Asian,0**,17497,0.00**,0.00**,
+Mississippi,2020,Females,HI Native / Pacific Islander,0**,913,0.00**,0.00**,
+Mississippi,2020,Females,More than One Race,0**,20911,0.00**,0.00**,
+Mississippi,2019,Males,White,289,868363,33.28,32.14,"5,715"
+Mississippi,2019,Males,Black,63,529867,11.89,12.29,"1,612"
+Mississippi,2019,Males,American Indian / Alaska Native,0**,9242,0.00**,0.00**,
+Mississippi,2019,Males,HI Native / Pacific Islander,0**,1005,0.00**,0.00**,
+Mississippi,2019,Females,White,71,889367,7.98,7.73,"1,199"
+Mississippi,2019,Females,Asian,0**,17417,0.00**,0.00**,
+Mississippi,2019,Females,HI Native / Pacific Islander,0**,859,0.00**,0.00**,
+Mississippi,2018,Males,White,286,871411,32.82,31.11,"5,371"
+Mississippi,2018,Males,Black,51,530949,9.61,9.47,"1,392"
+Mississippi,2018,Males,HI Native / Pacific Islander,0**,1014,0.00**,0.00**,
+Mississippi,2018,Females,White,72,891245,8.08,7.91,"1,309"
+Mississippi,2018,Females,American Indian / Alaska Native,0**,9190,0.00**,0.00**,
+Mississippi,2018,Females,HI Native / Pacific Islander,0**,837,0.00**,0.00**,
+Missouri,2023,Males,White,826,2531614,32.63,31.17,"14,841"
+Missouri,2023,Males,Black,87,345625,25.17,24.9,"2,712"
+Missouri,2023,Females,White,186,2573369,7.23,7.29,"3,673"
+Missouri,2023,Females,Black,11**,379829,2.90**,2.83**,305
+Missouri,2022,Males,White,890,2527466,35.21,33.55,"16,111"
+Missouri,2022,Males,Black,71,346165,20.51,21.7,"2,067"
+Missouri,2022,Males,HI Native / Pacific Islander,0**,6019,0.00**,0.00**,
+Missouri,2022,Males,More than One Race,13**,82099,15.84**,19.33**,412
+Missouri,2022,Females,White,213,2567214,8.3,8.07,"3,887"
+Missouri,2022,Females,Black,16**,379654,4.21**,4.31**,448
+Missouri,2022,Females,American Indian / Alaska Native,0**,18985,0.00**,0.00**,
+Missouri,2022,Females,HI Native / Pacific Islander,0**,5888,0.00**,0.00**,
+Missouri,2021,Males,White,884,2526984,34.98,33.94,"18,322"
+Missouri,2021,Males,Black,83,348180,23.84,22.49,"2,499"
+Missouri,2021,Females,White,179,2565055,6.98,6.93,"3,731"
+Missouri,2021,Females,Black,11**,381671,2.88**,3.06**,303
+Missouri,2021,Females,HI Native / Pacific Islander,0**,5455,0.00**,0.00**,
+Missouri,2020,Males,White,825,2522756,32.7,32.42,"16,857"
+Missouri,2020,Males,Black,60,348588,17.21,17.47,"1,674"
+Missouri,2020,Females,White,193,2561157,7.54,7.39,"4,103"
+Missouri,2020,Females,Black,14**,382022,3.67**,3.46**,501
+Missouri,2019,Males,White,871,2506406,34.75,33.67,"17,290"
+Missouri,2019,Males,Black,42,344933,12.18,12.52,"1,358"
+Missouri,2019,Males,HI Native / Pacific Islander,0**,5088,0.00**,0.00**,
+Missouri,2019,Females,White,188,2579848,7.29,7.11,"3,728"
+Missouri,2019,Females,Black,15**,380795,3.94**,3.79**,518
+Missouri,2019,Females,American Indian / Alaska Native,0**,17741,0.00**,0.00**,
+Missouri,2019,Females,HI Native / Pacific Islander,0**,4976,0.00**,0.00**,
+Missouri,2018,Males,White,874,2505386,34.89,33.39,"17,012"
+Missouri,2018,Males,Black,67,344785,19.43,19.55,"1,924"
+Missouri,2018,Males,More than One Race,10**,72274,13.84**,17.42**,373
+Missouri,2018,Females,White,249,2576657,9.66,9.44,"5,273"
+Missouri,2018,Females,Black,10**,379650,2.63**,2.45**,266
+Missouri,2018,Females,HI Native / Pacific Islander,0**,4758,0.00**,0.00**,
+Montana,2023,Males,White,212,510418,41.54,39.55,"3,738"
+Montana,2023,Males,American Indian / Alaska Native,24,36340,66.04,67.34,756
+Montana,2023,Males,Asian,0**,4875,0.00**,0.00**,
+Montana,2023,Males,HI Native / Pacific Islander,0**,573,0.00**,0.00**,
+Montana,2023,Females,White,49,494481,9.91,9.28,815
+Montana,2023,Females,Black,0**,2931,0.00**,0.00**,
+Montana,2023,Females,American Indian / Alaska Native,10**,36547,27.36**,28.41**,323
+Montana,2023,Females,HI Native / Pacific Islander,0**,596,0.00**,0.00**,
+Montana,2022,Males,White,241,506076,47.62,45.03,"4,456"
+Montana,2022,Males,American Indian / Alaska Native,31,36100,85.87,88.26,"1,053"
+Montana,2022,Males,HI Native / Pacific Islander,0**,549,0.00**,0.00**,
+Montana,2022,Females,White,42,490619,8.56,9.1,974
+Montana,2022,Females,Asian,0**,7004,0.00**,0.00**,
+Montana,2022,Females,HI Native / Pacific Islander,0**,556,0.00**,0.00**,
+Montana,2021,Males,White,250,499113,50.09,49.9,"5,324"
+Montana,2021,Males,Black,0**,4112,0.00**,0.00**,
+Montana,2021,Males,American Indian / Alaska Native,28,35816,78.18,90.78,904
+Montana,2021,Males,Asian,0**,4614,0.00**,0.00**,
+Montana,2021,Females,White,54,483539,11.17,11.32,"1,140"
+Montana,2021,Females,Black,0**,2758,0.00**,0.00**,
+Montana,2021,Females,HI Native / Pacific Islander,0**,477,0.00**,0.00**,
+Montana,2020,Males,White,208,490779,42.38,37.69,"3,422"
+Montana,2020,Males,Black,0**,3949,0.00**,0.00**,
+Montana,2020,Males,American Indian / Alaska Native,23,35535,64.73,68.11,713
+Montana,2020,Males,HI Native / Pacific Islander,0**,498,0.00**,0.00**,
+Montana,2020,Females,White,48,475243,10.1,9.81,905
+Montana,2020,Females,Black,0**,2621,0.00**,0.00**,
+Montana,2020,Females,American Indian / Alaska Native,11**,35943,30.60**,33.03**,373
+Montana,2020,Females,Asian,0**,6246,0.00**,0.00**,
+Montana,2020,Females,More than One Race,0**,15567,0.00**,0.00**,
+Montana,2019,Males,White,183,479769,38.14,36.15,"3,263"
+Montana,2019,Males,American Indian / Alaska Native,19**,34944,54.37**,51.69**,698
+Montana,2019,Males,Asian,0**,4294,0.00**,0.00**,
+Montana,2019,Males,HI Native / Pacific Islander,0**,508,0.00**,0.00**,
+Montana,2019,Females,White,68,471727,14.42,13.34,"1,286"
+Montana,2019,Females,Black,0**,2566,0.00**,0.00**,
+Montana,2019,Females,HI Native / Pacific Islander,0**,440,0.00**,0.00**,
+Montana,2018,Males,White,189,476491,39.67,38.26,"3,708"
+Montana,2018,Males,American Indian / Alaska Native,12**,34878,34.41**,30.73**,465
+Montana,2018,Males,Asian,0**,4040,0.00**,0.00**,
+Montana,2018,Males,HI Native / Pacific Islander,0**,509,0.00**,0.00**,
+Montana,2018,Females,White,47,468676,10.03,10.37,945
+Nebraska,2023,Males,White,216,866819,24.92,24.49,"4,651"
+Nebraska,2023,Males,Black,10**,56230,17.78**,16.78**,311
+Nebraska,2023,Males,HI Native / Pacific Islander,0**,1503,0.00**,0.00**,
+Nebraska,2023,Males,More than One Race,0**,25776,0.00**,0.00**,
+Nebraska,2023,Females,White,38,859370,4.42,4.81,992
+Nebraska,2023,Females,HI Native / Pacific Islander,0**,1369,0.00**,0.00**,
+Nebraska,2022,Males,White,243,864356,28.11,28.09,"5,030"
+Nebraska,2022,Males,HI Native / Pacific Islander,0**,1425,0.00**,0.00**,
+Nebraska,2022,Females,White,46,857267,5.37,5.61,"1,189"
+Nebraska,2022,Females,Asian,0**,28204,0.00**,0.00**,
+Nebraska,2022,Females,HI Native / Pacific Islander,0**,1322,0.00**,0.00**,
+Nebraska,2021,Males,White,204,864717,23.59,23.62,"4,415"
+Nebraska,2021,Males,HI Native / Pacific Islander,0**,1388,0.00**,0.00**,
+Nebraska,2021,Females,White,62,856957,7.24,7.94,"1,607"
+Nebraska,2021,Females,Black,0**,50473,0.00**,0.00**,
+Nebraska,2021,Females,HI Native / Pacific Islander,0**,1282,0.00**,0.00**,
+Nebraska,2021,Females,More than One Race,0**,24243,0.00**,0.00**,
+Nebraska,2020,Males,White,220,865808,25.41,25.72,"4,713"
+Nebraska,2020,Males,Black,12**,53937,22.25**,21.04**,450
+Nebraska,2020,Females,White,37,858508,4.31,4.3,734
+Nebraska,2020,Females,Asian,0**,27483,0.00**,0.00**,
+Nebraska,2020,Females,HI Native / Pacific Islander,0**,1218,0.00**,0.00**,
+Nebraska,2019,Males,White,228,848006,26.89,26.19,"4,437"
+Nebraska,2019,Males,HI Native / Pacific Islander,0**,1292,0.00**,0.00**,
+Nebraska,2019,Females,White,56,852821,6.57,6.75,"1,119"
+Nebraska,2019,Females,American Indian / Alaska Native,0**,15119,0.00**,0.00**,
+Nebraska,2019,Females,HI Native / Pacific Islander,0**,1145,0.00**,0.00**,
+Nebraska,2018,Males,White,215,846341,25.4,23.81,"4,218"
+Nebraska,2018,Males,HI Native / Pacific Islander,0**,1266,0.00**,0.00**,
+Nebraska,2018,Females,White,43,851620,5.05,4.87,740
+Nebraska,2018,Females,Asian,0**,26559,0.00**,0.00**,
+Nebraska,2018,Females,HI Native / Pacific Islander,0**,1126,0.00**,0.00**,
+Nevada,2023,Males,White,460,1167901,39.39,35.57,"7,167"
+Nevada,2023,Males,Black,41,174308,23.52,24.46,"1,066"
+Nevada,2023,Males,Asian,21,141608,14.83,14.3,424
+Nevada,2023,Males,More than One Race,11**,82589,13.32**,13.72**,406
+Nevada,2023,Females,White,124,1115626,11.12,10.08,"2,068"
+Nevada,2023,Females,Black,11**,177038,6.21**,5.98**,362
+Nevada,2023,Females,American Indian / Alaska Native,0**,27362,0.00**,0.00**,
+Nevada,2022,Males,White,447,1169741,38.21,35.25,"7,124"
+Nevada,2022,Males,Black,45,171366,26.26,26.34,"1,268"
+Nevada,2022,Males,Asian,28,137108,20.42,20.57,806
+Nevada,2022,Males,More than One Race,14**,80244,17.45**,22.46**,366
+Nevada,2022,Females,White,126,1117215,11.28,10.81,"2,503"
+Nevada,2022,Females,Black,16**,174550,9.17**,9.49**,458
+Nevada,2022,Females,HI Native / Pacific Islander,0**,14086,0.00**,0.00**,
+Nevada,2021,Males,White,454,1169847,38.81,37.11,"8,079"
+Nevada,2021,Males,Black,34,166545,20.42,20.82,"1,027"
+Nevada,2021,Males,Asian,19**,131246,14.48**,14.53**,581
+Nevada,2021,Males,More than One Race,11**,77335,14.22**,16.33**,365
+Nevada,2021,Females,White,136,1116784,12.18,11.5,"2,407"
+Nevada,2021,Females,Black,15**,168925,8.88**,9.06**,481
+Nevada,2021,Females,HI Native / Pacific Islander,0**,13658,0.00**,0.00**,
+Nevada,2020,Males,White,410,1167179,35.13,32.52,"6,725"
+Nevada,2020,Males,Black,31,162142,19.12,18.81,911
+Nevada,2020,Males,Asian,22,127313,17.28,15.55,460
+Nevada,2020,Males,More than One Race,13**,74590,17.43**,28.06**,364
+Nevada,2020,Females,White,96,1113051,8.63,8.22,"1,746"
+Nevada,2019,Males,White,444,1157963,38.34,35.61,"7,821"
+Nevada,2019,Males,Black,31,157819,19.64,18.93,822
+Nevada,2019,Males,Asian,17**,123075,13.81**,13.10**,484
+Nevada,2019,Females,White,115,1118060,10.29,9.62,"1,865"
+Nevada,2018,Males,White,430,1143220,37.61,35.47,"7,487"
+Nevada,2018,Males,Black,25,152496,16.39,16.33,699
+Nevada,2018,Males,Asian,24,118409,20.27,19.41,625
+Nevada,2018,Females,White,139,1103536,12.6,11.74,"2,468"
+Nevada,2018,Females,Black,11**,155265,7.09**,7.70**,290
+Nevada,2018,Females,HI Native / Pacific Islander,0**,12476,0.00**,0.00**,
+New Hampshire,2023,Males,White,179,645828,27.72,25.97,"3,299"
+New Hampshire,2023,Males,American Indian / Alaska Native,0**,2457,0.00**,0.00**,
+New Hampshire,2023,Males,Asian,0**,21106,0.00**,0.00**,
+New Hampshire,2023,Males,HI Native / Pacific Islander,0**,417,0.00**,0.00**,
+New Hampshire,2023,Females,White,36,651403,5.53,4.68,605
+New Hampshire,2023,Females,American Indian / Alaska Native,0**,2102,0.00**,0.00**,
+New Hampshire,2023,Females,Asian,0**,22762,0.00**,0.00**,
+New Hampshire,2023,Females,HI Native / Pacific Islander,0**,429,0.00**,0.00**,
+New Hampshire,2022,Males,White,189,645115,29.3,26.83,"3,300"
+New Hampshire,2022,Males,American Indian / Alaska Native,0**,2397,0.00**,0.00**,
+New Hampshire,2022,Males,Asian,0**,21125,0.00**,0.00**,
+New Hampshire,2022,Males,HI Native / Pacific Islander,0**,431,0.00**,0.00**,
+New Hampshire,2022,Females,White,50,650247,7.69,7.65,974
+New Hampshire,2022,Females,American Indian / Alaska Native,0**,2067,0.00**,0.00**,
+New Hampshire,2022,Females,HI Native / Pacific Islander,0**,409,0.00**,0.00**,
+New Hampshire,2022,Females,More than One Race,0**,12835,0.00**,0.00**,
+New Hampshire,2021,Males,White,172,641096,26.83,25.47,"3,091"
+New Hampshire,2021,Males,American Indian / Alaska Native,0**,2314,0.00**,0.00**,
+New Hampshire,2021,Males,HI Native / Pacific Islander,0**,411,0.00**,0.00**,
+New Hampshire,2021,Males,More than One Race,0**,12968,0.00**,0.00**,
+New Hampshire,2021,Females,White,49,646255,7.58,7.15,926
+New Hampshire,2021,Females,Black,0**,11758,0.00**,0.00**,
+New Hampshire,2021,Females,American Indian / Alaska Native,0**,2033,0.00**,0.00**,
+New Hampshire,2021,Females,Asian,0**,22155,0.00**,0.00**,
+New Hampshire,2021,Females,HI Native / Pacific Islander,0**,389,0.00**,0.00**,
+New Hampshire,2021,Females,More than One Race,0**,12479,0.00**,0.00**,
+New Hampshire,2020,Males,White,174,637548,27.29,26.67,"3,549"
+New Hampshire,2020,Males,American Indian / Alaska Native,0**,2283,0.00**,0.00**,
+New Hampshire,2020,Males,HI Native / Pacific Islander,0**,383,0.00**,0.00**,
+New Hampshire,2020,Females,White,53,643637,8.23,7.62,983
+New Hampshire,2020,Females,Black,0**,11369,0.00**,0.00**,
+New Hampshire,2020,Females,American Indian / Alaska Native,0**,1974,0.00**,0.00**,
+New Hampshire,2020,Females,Asian,0**,21770,0.00**,0.00**,
+New Hampshire,2020,Females,HI Native / Pacific Islander,0**,356,0.00**,0.00**,
+New Hampshire,2019,Males,White,199,625617,31.81,29.42,"3,818"
+New Hampshire,2019,Males,American Indian / Alaska Native,0**,2191,0.00**,0.00**,
+New Hampshire,2019,Males,HI Native / Pacific Islander,0**,360,0.00**,0.00**,
+New Hampshire,2019,Females,White,47,640416,7.34,6.85,910
+New Hampshire,2019,Females,American Indian / Alaska Native,0**,1917,0.00**,0.00**,
+New Hampshire,2019,Females,Asian,0**,21432,0.00**,0.00**,
+New Hampshire,2019,Females,HI Native / Pacific Islander,0**,352,0.00**,0.00**,
+New Hampshire,2019,Females,More than One Race,0**,11852,0.00**,0.00**,
+New Hampshire,2018,Males,White,217,624596,34.74,32.13,"3,877"
+New Hampshire,2018,Males,American Indian / Alaska Native,0**,2169,0.00**,0.00**,
+New Hampshire,2018,Males,HI Native / Pacific Islander,0**,338,0.00**,0.00**,
+New Hampshire,2018,Males,More than One Race,0**,11896,0.00**,0.00**,
+New Hampshire,2018,Females,White,55,638461,8.61,8.53,"1,108"
+New Hampshire,2018,Females,Black,0**,10252,0.00**,0.00**,
+New Hampshire,2018,Females,American Indian / Alaska Native,0**,1921,0.00**,0.00**,
+New Hampshire,2018,Females,Asian,0**,20975,0.00**,0.00**,
+New Hampshire,2018,Females,HI Native / Pacific Islander,0**,324,0.00**,0.00**,
+New Jersey,2023,Males,White,453,3238520,13.99,12.95,"7,716"
+New Jersey,2023,Males,Black,67,689989,9.71,9.65,"1,975"
+New Jersey,2023,Males,Asian,36,484745,7.43,7.31,763
+New Jersey,2023,Males,HI Native / Pacific Islander,0**,6882,0.00**,0.00**,
+New Jersey,2023,Females,White,128,3302462,3.88,3.43,"1,895"
+New Jersey,2023,Females,Black,15**,752911,1.99**,2.11**,466
+New Jersey,2023,Females,American Indian / Alaska Native,0**,35262,0.00**,0.00**,
+New Jersey,2023,Females,HI Native / Pacific Islander,0**,6730,0.00**,0.00**,
+New Jersey,2022,Males,White,503,3243163,15.51,13.92,"7,512"
+New Jersey,2022,Males,Black,55,682966,8.05,7.93,"1,382"
+New Jersey,2022,Males,Asian,39,475948,8.19,7.83,773
+New Jersey,2022,Males,HI Native / Pacific Islander,0**,6436,0.00**,0.00**,
+New Jersey,2022,Females,White,126,3309429,3.81,3.44,"2,182"
+New Jersey,2022,Females,Black,17**,746958,2.28**,2.34**,464
+New Jersey,2022,Females,American Indian / Alaska Native,0**,33541,0.00**,0.00**,
+New Jersey,2022,Females,Asian,20**,494501,4.04**,4.05**,576
+New Jersey,2022,Females,HI Native / Pacific Islander,0**,6350,0.00**,0.00**,
+New Jersey,2021,Males,White,457,3261182,14.01,13.24,"8,228"
+New Jersey,2021,Males,Black,50,678175,7.37,7.49,"1,131"
+New Jersey,2021,Males,American Indian / Alaska Native,0**,34149,0.00**,0.00**,
+New Jersey,2021,Males,Asian,29,471192,6.16,6.36,793
+New Jersey,2021,Males,HI Native / Pacific Islander,0**,5941,0.00**,0.00**,
+New Jersey,2021,Females,White,125,3329302,3.76,3.41,"1,965"
+New Jersey,2021,Females,Black,11**,742019,1.48**,1.49**,333
+New Jersey,2021,Females,American Indian / Alaska Native,0**,32079,0.00**,0.00**,
+New Jersey,2021,Females,Asian,12**,488606,2.46**,2.56**,322
+New Jersey,2021,Females,HI Native / Pacific Islander,0**,5988,0.00**,0.00**,
+New Jersey,2020,Males,White,441,3275076,13.47,12.35,"7,465"
+New Jersey,2020,Males,Black,44,675135,6.52,5.94,"1,282"
+New Jersey,2020,Males,American Indian / Alaska Native,0**,33144,0.00**,0.00**,
+New Jersey,2020,Males,Asian,37,465955,7.94,8.15,785
+New Jersey,2020,Males,HI Native / Pacific Islander,0**,5701,0.00**,0.00**,
+New Jersey,2020,Females,White,128,3343350,3.83,3.44,"2,021"
+New Jersey,2020,Females,Black,13**,738364,1.76**,1.80**,432
+New Jersey,2020,Females,American Indian / Alaska Native,0**,30968,0.00**,0.00**,
+New Jersey,2020,Females,Asian,11**,482866,2.28**,2.16**,260
+New Jersey,2020,Females,HI Native / Pacific Islander,0**,5757,0.00**,0.00**,
+New Jersey,2019,Males,White,479,3131021,15.3,14.08,"8,339"
+New Jersey,2019,Males,Black,51,639479,7.98,7.93,"1,210"
+New Jersey,2019,Males,American Indian / Alaska Native,0**,30442,0.00**,0.00**,
+New Jersey,2019,Males,Asian,36,439099,8.2,8.12,953
+New Jersey,2019,Males,HI Native / Pacific Islander,0**,5279,0.00**,0.00**,
+New Jersey,2019,Females,White,160,3243220,4.93,4.51,"2,801"
+New Jersey,2019,Females,Black,18**,704811,2.55**,2.53**,470
+New Jersey,2019,Females,American Indian / Alaska Native,0**,28537,0.00**,0.00**,
+New Jersey,2019,Females,Asian,13**,460542,2.82**,2.56**,202
+New Jersey,2019,Females,HI Native / Pacific Islander,0**,5376,0.00**,0.00**,
+New Jersey,2018,Males,White,515,3142699,16.39,15.29,"9,011"
+New Jersey,2018,Males,Black,41,635090,6.46,6.2,"1,138"
+New Jersey,2018,Males,American Indian / Alaska Native,0**,29696,0.00**,0.00**,
+New Jersey,2018,Males,Asian,33,433306,7.62,8.28,799
+New Jersey,2018,Males,HI Native / Pacific Islander,0**,5096,0.00**,0.00**,
+New Jersey,2018,Females,White,157,3256772,4.82,4.66,"3,036"
+New Jersey,2018,Females,Black,12**,701725,1.71**,1.56**,196
+New Jersey,2018,Females,American Indian / Alaska Native,0**,27834,0.00**,0.00**,
+New Jersey,2018,Females,Asian,13**,454742,2.86**,2.82**,352
+New Mexico,2023,Males,White,359,849799,42.25,40.62,"7,870"
+New Mexico,2023,Males,American Indian / Alaska Native,44,116838,37.66,37.97,"1,365"
+New Mexico,2023,Females,White,58,857086,6.77,6.79,"1,353"
+New Mexico,2023,Females,Asian,0**,23190,0.00**,0.00**,
+New Mexico,2023,Females,HI Native / Pacific Islander,0**,1779,0.00**,0.00**,
+New Mexico,2022,Males,White,343,850786,40.32,38.89,"6,646"
+New Mexico,2022,Males,American Indian / Alaska Native,54,116794,46.24,45.87,"1,675"
+New Mexico,2022,Males,HI Native / Pacific Islander,0**,1773,0.00**,0.00**,
+New Mexico,2022,Females,White,90,858530,10.48,10.1,"1,656"
+New Mexico,2022,Females,American Indian / Alaska Native,23,123889,18.57,19.07,791
+New Mexico,2022,Females,Asian,0**,22744,0.00**,0.00**,
+New Mexico,2022,Females,HI Native / Pacific Islander,0**,1726,0.00**,0.00**,
+New Mexico,2021,Males,White,355,854243,41.56,40.18,"7,178"
+New Mexico,2021,Males,American Indian / Alaska Native,67,116742,57.39,56.28,"2,029"
+New Mexico,2021,Males,HI Native / Pacific Islander,0**,1767,0.00**,0.00**,
+New Mexico,2021,Females,White,82,861650,9.52,9.55,"1,790"
+New Mexico,2021,Females,Black,0**,26176,0.00**,0.00**,
+New Mexico,2021,Females,American Indian / Alaska Native,10**,123634,8.09**,7.90**,324
+New Mexico,2021,Females,HI Native / Pacific Islander,0**,1713,0.00**,0.00**,
+New Mexico,2020,Males,White,335,856520,39.11,38.11,"6,964"
+New Mexico,2020,Males,Black,10**,31701,31.55**,35.15**,270
+New Mexico,2020,Males,American Indian / Alaska Native,59,116549,50.62,50.68,"1,858"
+New Mexico,2020,Males,HI Native / Pacific Islander,0**,1743,0.00**,0.00**,
+New Mexico,2020,Females,White,89,863754,10.3,9.79,"1,804"
+New Mexico,2020,Females,American Indian / Alaska Native,12**,122987,9.76**,10.19**,300
+New Mexico,2020,Females,HI Native / Pacific Islander,0**,1731,0.00**,0.00**,
+New Mexico,2019,Males,White,335,848880,39.46,37.55,"6,602"
+New Mexico,2019,Males,American Indian / Alaska Native,46,112700,40.82,42.11,"1,486"
+New Mexico,2019,Males,HI Native / Pacific Islander,0**,1707,0.00**,0.00**,
+New Mexico,2019,Females,White,97,865642,11.21,10.89,"1,925"
+New Mexico,2019,Females,American Indian / Alaska Native,13**,119631,10.87**,11.83**,440
+New Mexico,2019,Females,Asian,0**,20991,0.00**,0.00**,
+New Mexico,2019,Females,HI Native / Pacific Islander,0**,1692,0.00**,0.00**,
+New Mexico,2018,Males,White,335,848516,39.48,37.5,"6,380"
+New Mexico,2018,Males,Black,10**,29655,33.72**,29.64**,316
+New Mexico,2018,Males,American Indian / Alaska Native,45,112372,40.05,38.75,"1,553"
+New Mexico,2018,Males,HI Native / Pacific Islander,0**,1697,0.00**,0.00**,
+New Mexico,2018,Females,White,106,864923,12.26,11.8,"2,014"
+New Mexico,2018,Females,American Indian / Alaska Native,17**,118883,14.30**,13.02**,635
+New Mexico,2018,Females,HI Native / Pacific Islander,0**,1688,0.00**,0.00**,
+New York,2023,Males,White,"1,090",6620847,16.46,15.25,"17,721"
+New York,2023,Males,Black,146,1628628,8.97,8.91,"3,550"
+New York,2023,Males,Asian,55,911966,6.03,5.77,"1,213"
+New York,2023,Males,More than One Race,12**,274821,4.37**,5.32**,344
+New York,2023,Females,White,308,6787945,4.54,4.35,"5,811"
+New York,2023,Females,Black,64,1828829,3.5,3.4,"1,637"
+New York,2023,Females,Asian,31,992293,3.12,2.93,798
+New York,2023,Females,HI Native / Pacific Islander,0**,14654,0.00**,0.00**,
+New York,2022,Males,White,"1,127",6672712,16.89,15.7,"19,740"
+New York,2022,Males,Black,148,1640305,9.02,9.03,"3,881"
+New York,2022,Males,Asian,71,903646,7.86,7.73,"1,583"
+New York,2022,Males,More than One Race,10**,270432,3.70**,4.12**,340
+New York,2022,Females,White,308,6838873,4.5,4.27,"5,769"
+New York,2022,Females,Black,39,1846740,2.11,1.99,878
+New York,2022,Females,Asian,49,980907,5,4.4,"1,050"
+New York,2022,Females,HI Native / Pacific Islander,0**,14515,0.00**,0.00**,
+New York,2021,Males,White,"1,070",6751233,15.85,14.76,"18,820"
+New York,2021,Males,Black,117,1661832,7.04,7.1,"3,248"
+New York,2021,Males,Asian,87,898119,9.69,8.81,"2,077"
+New York,2021,Males,More than One Race,13**,267509,4.86**,5.59**,410
+New York,2021,Females,White,293,6914881,4.24,4.02,"5,695"
+New York,2021,Females,Black,28,1872066,1.5,1.46,862
+New York,2021,Females,American Indian / Alaska Native,0**,102151,0.00**,0.00**,
+New York,2021,Females,Asian,43,972897,4.42,4.35,"1,031"
+New York,2020,Males,White,"1,063",6854393,15.51,14.53,"18,912"
+New York,2020,Males,Black,122,1680735,7.26,6.9,"3,184"
+New York,2020,Males,Asian,79,899760,8.78,8.52,"1,585"
+New York,2020,Males,HI Native / Pacific Islander,0**,14412,0.00**,0.00**,
+New York,2020,Females,White,306,7018189,4.36,4.16,"5,529"
+New York,2020,Females,Black,32,1897033,1.69,1.6,812
+New York,2020,Females,American Indian / Alaska Native,0**,102116,0.00**,0.00**,
+New York,2020,Females,Asian,26,974424,2.67,2.4,542
+New York,2020,Females,HI Native / Pacific Islander,0**,14619,0.00**,0.00**,
+New York,2019,Males,White,"1,127",6637868,16.98,15.86,"21,051"
+New York,2019,Males,Black,110,1602742,6.86,6.36,"2,890"
+New York,2019,Males,Asian,72,847800,8.49,7.99,"1,734"
+New York,2019,Females,White,296,6884800,4.3,4.07,"5,552"
+New York,2019,Females,Black,38,1822994,2.08,2.07,"1,168"
+New York,2019,Females,American Indian / Alaska Native,0**,97624,0.00**,0.00**,
+New York,2019,Females,Asian,49,927309,5.28,4.92,981
+New York,2019,Females,HI Native / Pacific Islander,0**,13998,0.00**,0.00**,
+New York,2018,Males,White,"1,138",6683846,17.03,15.7,"20,159"
+New York,2018,Males,Black,134,1607502,8.34,8.06,"3,412"
+New York,2018,Males,Asian,67,841223,7.97,7.72,"1,501"
+New York,2018,Males,HI Native / Pacific Islander,0**,13568,0.00**,0.00**,
+New York,2018,Females,White,302,6930818,4.36,4.13,"5,653"
+New York,2018,Females,Black,41,1831538,2.24,2.31,"1,231"
+New York,2018,Females,American Indian / Alaska Native,0**,97203,0.00**,0.00**,
+New York,2018,Females,Asian,32,919061,3.48,3.55,851
+North Carolina,2023,Males,White,"1,067",3739141,28.54,26.76,"19,547"
+North Carolina,2023,Males,Black,163,1126136,14.47,15.21,"4,411"
+North Carolina,2023,Males,American Indian / Alaska Native,13**,85552,15.20**,15.67**,358
+North Carolina,2023,Males,Asian,17**,196087,8.67**,9.52**,407
+North Carolina,2023,Males,More than One Race,11**,141008,7.80**,7.29**,433
+North Carolina,2023,Females,White,270,3825385,7.06,6.7,"5,176"
+North Carolina,2023,Females,Black,38,1266281,3,3.05,"1,263"
+North Carolina,2023,Females,HI Native / Pacific Islander,0**,8079,0.00**,0.00**,
+North Carolina,2022,Males,White,"1,062",3701686,28.69,26.62,"18,681"
+North Carolina,2022,Males,Black,151,1114143,13.55,13.31,"4,519"
+North Carolina,2022,Males,American Indian / Alaska Native,20**,83902,23.84**,24.99**,607
+North Carolina,2022,Males,Asian,28,185923,15.06,15.32,785
+North Carolina,2022,Males,HI Native / Pacific Islander,0**,8322,0.00**,0.00**,
+North Carolina,2022,Females,White,277,3784978,7.32,6.89,"4,770"
+North Carolina,2022,Females,Black,55,1251771,4.39,4.37,"1,635"
+North Carolina,2022,Females,HI Native / Pacific Islander,0**,7803,0.00**,0.00**,
+North Carolina,2021,Males,White,988,3670058,26.92,25.53,"19,091"
+North Carolina,2021,Males,Black,145,1101833,13.16,12.76,"4,439"
+North Carolina,2021,Males,American Indian / Alaska Native,12**,82532,14.54**,17.02**,222
+North Carolina,2021,Males,Asian,17**,177189,9.59**,9.97**,386
+North Carolina,2021,Females,White,234,3747611,6.24,5.88,"4,403"
+North Carolina,2021,Females,Black,34,1236498,2.75,2.74,849
+North Carolina,2020,Males,White,973,3643423,26.71,25.57,"18,729"
+North Carolina,2020,Males,Black,132,1091948,12.09,12.15,"3,774"
+North Carolina,2020,Males,Asian,20**,170763,11.71**,12.02**,592
+North Carolina,2020,Females,White,261,3712027,7.03,6.76,"5,155"
+North Carolina,2020,Females,Black,23,1222253,1.88,1.89,733
+North Carolina,2020,Females,Asian,10**,177972,5.62**,5.74**,257
+North Carolina,2020,Females,HI Native / Pacific Islander,0**,7397,0.00**,0.00**,
+North Carolina,2019,Males,White,902,3636461,24.8,23.45,"16,733"
+North Carolina,2019,Males,Black,120,1094285,10.97,10.88,"3,439"
+North Carolina,2019,Males,Asian,16**,165591,9.66**,9.57**,462
+North Carolina,2019,Males,HI Native / Pacific Islander,0**,7526,0.00**,0.00**,
+North Carolina,2019,Females,White,271,3757224,7.21,7,"5,007"
+North Carolina,2019,Females,Black,25,1242540,2.01,1.99,584
+North Carolina,2019,Females,HI Native / Pacific Islander,0**,7150,0.00**,0.00**,
+North Carolina,2018,Males,White,"1,024",3607513,28.39,26.53,"18,488"
+North Carolina,2018,Males,Black,111,1082872,10.25,10.33,"2,984"
+North Carolina,2018,Males,Asian,12**,159291,7.53**,7.16**,351
+North Carolina,2018,Females,White,296,3725860,7.94,7.49,"5,136"
+North Carolina,2018,Females,Black,25,1228387,2.04,2.09,759
+North Carolina,2018,Females,American Indian / Alaska Native,0**,83041,0.00**,0.00**,
+North Carolina,2018,Females,HI Native / Pacific Islander,0**,6954,0.00**,0.00**,
+North Dakota,2023,Males,White,100,347411,28.78,26.93,"2,103"
+North Dakota,2023,Males,HI Native / Pacific Islander,0**,637,0.00**,0.00**,
+North Dakota,2023,Females,White,25,330284,7.57,8.18,637
+North Dakota,2023,Females,Black,0**,13197,0.00**,0.00**,
+North Dakota,2023,Females,Asian,0**,6908,0.00**,0.00**,
+North Dakota,2023,Females,HI Native / Pacific Islander,0**,582,0.00**,0.00**,
+North Dakota,2022,Males,White,134,346587,38.66,38.72,"3,055"
+North Dakota,2022,Males,American Indian / Alaska Native,10**,20306,49.25**,58.66**,290
+North Dakota,2022,Males,Asian,0**,6569,0.00**,0.00**,
+North Dakota,2022,Males,HI Native / Pacific Islander,0**,515,0.00**,0.00**,
+North Dakota,2022,Males,More than One Race,0**,10143,0.00**,0.00**,
+North Dakota,2022,Females,White,18**,329506,5.46**,6.05**,504
+North Dakota,2022,Females,Asian,0**,6614,0.00**,0.00**,
+North Dakota,2022,Females,HI Native / Pacific Islander,0**,469,0.00**,0.00**,
+North Dakota,2021,Males,White,108,346991,31.13,30.49,"2,468"
+North Dakota,2021,Males,Asian,0**,6661,0.00**,0.00**,
+North Dakota,2021,Males,HI Native / Pacific Islander,0**,389,0.00**,0.00**,
+North Dakota,2021,Females,White,22,329762,6.67,7.39,591
+North Dakota,2021,Females,Black,0**,12031,0.00**,0.00**,
+North Dakota,2020,Males,White,92,348661,26.39,26.51,"2,010"
+North Dakota,2020,Males,American Indian / Alaska Native,13**,20279,64.11**,55.99**,513
+North Dakota,2020,Males,Asian,0**,6643,0.00**,0.00**,
+North Dakota,2020,Males,HI Native / Pacific Islander,0**,344,0.00**,0.00**,
+North Dakota,2020,Females,White,19**,330643,5.75**,6.41**,461
+North Dakota,2020,Females,Black,0**,11692,0.00**,0.00**,
+North Dakota,2020,Females,Asian,0**,6638,0.00**,0.00**,
+North Dakota,2020,Females,HI Native / Pacific Islander,0**,337,0.00**,0.00**,
+North Dakota,2019,Males,White,103,339158,30.37,29.67,"2,274"
+North Dakota,2019,Males,HI Native / Pacific Islander,0**,313,0.00**,0.00**,
+North Dakota,2019,Females,White,18**,324339,5.55**,6.86**,508
+North Dakota,2019,Females,Asian,0**,6635,0.00**,0.00**,
+North Dakota,2019,Females,HI Native / Pacific Islander,0**,292,0.00**,0.00**,
+North Dakota,2018,Males,White,101,338252,29.86,28.22,"2,353"
+North Dakota,2018,Males,Asian,0**,6684,0.00**,0.00**,
+North Dakota,2018,Males,HI Native / Pacific Islander,0**,281,0.00**,0.00**,
+North Dakota,2018,Females,White,29,323657,8.96,9.09,635
+North Dakota,2018,Females,HI Native / Pacific Islander,0**,269,0.00**,0.00**,
+North Dakota,2018,Females,More than One Race,0**,8169,0.00**,0.00**,
+Ohio,2023,Males,White,"1,272",4704879,27.04,25.77,"23,420"
+Ohio,2023,Males,Black,156,761713,20.48,20.12,"4,334"
+Ohio,2023,Males,Asian,17**,161181,10.55**,10.87**,340
+Ohio,2023,Females,White,287,4798065,5.98,5.92,"5,862"
+Ohio,2023,Females,Black,40,820464,4.88,5.01,"1,232"
+Ohio,2023,Females,HI Native / Pacific Islander,0**,4227,0.00**,0.00**,
+Ohio,2022,Males,White,"1,265",4708684,26.87,26.03,"24,234"
+Ohio,2022,Males,Black,148,755208,19.6,20.27,"4,290"
+Ohio,2022,Males,American Indian / Alaska Native,0**,18852,0.00**,0.00**,
+Ohio,2022,Males,Asian,18**,156660,11.49**,11.82**,403
+Ohio,2022,Males,HI Native / Pacific Islander,0**,4480,0.00**,0.00**,
+Ohio,2022,Females,White,312,4801706,6.5,6.4,"6,326"
+Ohio,2022,Females,Black,41,813812,5.04,5.13,"1,207"
+Ohio,2022,Females,American Indian / Alaska Native,0**,17883,0.00**,0.00**,
+Ohio,2021,Males,White,"1,276",4726179,27,26.01,"24,994"
+Ohio,2021,Males,Black,136,751429,18.1,17.99,"4,189"
+Ohio,2021,Males,American Indian / Alaska Native,0**,18404,0.00**,0.00**,
+Ohio,2021,Males,Asian,21,152196,13.8,14.52,608
+Ohio,2021,Males,HI Native / Pacific Islander,0**,4309,0.00**,0.00**,
+Ohio,2021,Females,White,290,4816578,6.02,5.88,"5,618"
+Ohio,2021,Females,Black,27,809871,3.33,3.4,923
+Ohio,2021,Females,HI Native / Pacific Islander,0**,3881,0.00**,0.00**,
+Ohio,2020,Males,White,"1,184",4753048,24.91,24.19,"23,050"
+Ohio,2020,Males,Black,129,748712,17.23,18.02,"3,500"
+Ohio,2020,Males,Asian,13**,149218,8.71**,8.76**,391
+Ohio,2020,Females,White,273,4843100,5.64,5.5,"5,531"
+Ohio,2020,Females,Black,26,807355,3.22,3.3,873
+Ohio,2020,Females,HI Native / Pacific Islander,0**,3763,0.00**,0.00**,
+Ohio,2019,Males,White,"1,300",4694002,27.7,26.71,"24,661"
+Ohio,2019,Males,Black,123,733643,16.77,17.24,"3,350"
+Ohio,2019,Males,Asian,19**,144225,13.17**,13.37**,391
+Ohio,2019,Males,More than One Race,10**,140700,7.11**,9.96**,301
+Ohio,2019,Females,White,322,4849017,6.64,6.63,"6,774"
+Ohio,2019,Females,Black,24,796423,3.01,2.97,724
+Ohio,2019,Females,HI Native / Pacific Islander,0**,3597,0.00**,0.00**,
+Ohio,2018,Males,White,"1,312",4700372,27.91,26.68,"24,909"
+Ohio,2018,Males,Black,120,727921,16.49,16.84,"3,850"
+Ohio,2018,Males,Asian,13**,139058,9.35**,8.93**,383
+Ohio,2018,Males,HI Native / Pacific Islander,0**,3750,0.00**,0.00**,
+Ohio,2018,Females,White,354,4857215,7.29,7.04,"6,955"
+Ohio,2018,Females,Black,31,791240,3.92,3.84,869
+Ohio,2018,Females,American Indian / Alaska Native,0**,16401,0.00**,0.00**,
+Ohio,2018,Females,HI Native / Pacific Islander,0**,3456,0.00**,0.00**,
+Ohio,2018,Females,More than One Race,0**,139319,0.00**,0.00**,
+Oklahoma,2023,Males,White,575,1470995,39.09,37.3,"10,807"
+Oklahoma,2023,Males,Black,33,162319,20.33,19.7,976
+Oklahoma,2023,Males,American Indian / Alaska Native,60,191885,31.27,33.18,"1,619"
+Oklahoma,2023,Males,More than One Race,42,135134,31.08,42.53,"1,252"
+Oklahoma,2023,Females,White,137,1483237,9.24,8.77,"2,656"
+Oklahoma,2023,Females,Black,11**,159008,6.92**,6.27**,437
+Oklahoma,2023,Females,American Indian / Alaska Native,13**,195010,6.67**,6.86**,400
+Oklahoma,2023,Females,HI Native / Pacific Islander,0**,4980,0.00**,0.00**,
+Oklahoma,2023,Females,More than One Race,10**,139009,7.19**,8.49**,271
+Oklahoma,2022,Males,White,548,1463574,37.44,35.82,"9,913"
+Oklahoma,2022,Males,Black,42,160478,26.17,26.56,"1,268"
+Oklahoma,2022,Males,American Indian / Alaska Native,67,189804,35.3,41.37,"1,581"
+Oklahoma,2022,Males,More than One Race,39,131858,29.58,46.14,"1,042"
+Oklahoma,2022,Females,White,129,1474698,8.75,8.72,"2,600"
+Oklahoma,2022,Females,American Indian / Alaska Native,17**,192621,8.83**,8.97**,562
+Oklahoma,2022,Females,HI Native / Pacific Islander,0**,4785,0.00**,0.00**,
+Oklahoma,2021,Males,White,551,1459807,37.75,36.8,"10,672"
+Oklahoma,2021,Males,Black,34,159175,21.36,20.49,"1,016"
+Oklahoma,2021,Males,American Indian / Alaska Native,82,188180,43.58,47.32,"2,208"
+Oklahoma,2021,Males,More than One Race,28,128823,21.74,28.77,851
+Oklahoma,2021,Females,White,135,1468012,9.2,9.1,"2,653"
+Oklahoma,2021,Females,American Indian / Alaska Native,17**,190414,8.93**,9.11**,591
+Oklahoma,2021,Females,HI Native / Pacific Islander,0**,4571,0.00**,0.00**,
+Oklahoma,2021,Females,More than One Race,12**,132763,9.04**,9.21**,428
+Oklahoma,2020,Males,White,544,1456017,37.36,36.1,"10,420"
+Oklahoma,2020,Males,Black,39,157196,24.81,22.6,"1,268"
+Oklahoma,2020,Males,American Indian / Alaska Native,68,186066,36.55,39.36,"2,093"
+Oklahoma,2020,Males,More than One Race,29,126033,23.01,29.42,844
+Oklahoma,2020,Females,White,142,1462496,9.71,9.84,"3,141"
+Oklahoma,2020,Females,American Indian / Alaska Native,20**,188364,10.62**,10.72**,750
+Oklahoma,2019,Males,White,537,1446505,37.12,35.67,"10,406"
+Oklahoma,2019,Males,Black,37,154369,23.97,23.59,"1,166"
+Oklahoma,2019,Males,American Indian / Alaska Native,48,188446,25.47,27.87,"1,245"
+Oklahoma,2019,Males,More than One Race,24,122589,19.58,28.06,653
+Oklahoma,2019,Females,White,131,1472303,8.9,8.72,"2,782"
+Oklahoma,2019,Females,American Indian / Alaska Native,16**,192697,8.30**,8.67**,471
+Oklahoma,2019,Females,HI Native / Pacific Islander,0**,4178,0.00**,0.00**,
+Oklahoma,2018,Males,White,513,1444581,35.51,34.35,"10,245"
+Oklahoma,2018,Males,Black,26,153169,16.98,16.31,866
+Oklahoma,2018,Males,American Indian / Alaska Native,47,187322,25.09,28.56,"1,154"
+Oklahoma,2018,Males,More than One Race,28,119824,23.37,29.24,756
+Oklahoma,2018,Females,White,137,1469460,9.32,9.13,"2,580"
+Oklahoma,2018,Females,American Indian / Alaska Native,18**,191257,9.41**,9.61**,564
+Oklahoma,2018,Females,Asian,0**,48742,0.00**,0.00**,
+Oklahoma,2018,Females,HI Native / Pacific Islander,0**,3957,0.00**,0.00**,
+Oregon,2023,Males,White,621,1805109,34.4,31.67,"11,125"
+Oregon,2023,Males,Black,18**,55179,32.62**,28.46**,532
+Oregon,2023,Males,American Indian / Alaska Native,12**,41420,28.97**,28.38**,348
+Oregon,2023,Males,Asian,10**,102931,9.72**,10.52**,265
+Oregon,2023,Males,More than One Race,18**,92799,19.40**,20.09**,590
+Oregon,2023,Females,White,180,1819156,9.9,8.95,"3,068"
+Oregon,2023,Females,HI Native / Pacific Islander,0**,10368,0.00**,0.00**,
+Oregon,2022,Males,White,634,1814455,34.94,32.16,"11,112"
+Oregon,2022,Males,Black,13**,53918,24.11**,21.34**,425
+Oregon,2022,Males,American Indian / Alaska Native,11**,41125,26.75**,27.81**,252
+Oregon,2022,Males,Asian,16**,101177,15.81**,15.08**,449
+Oregon,2022,Males,More than One Race,14**,91215,15.35**,16.84**,458
+Oregon,2022,Females,White,175,1825964,9.58,8.82,"3,149"
+Oregon,2022,Females,Black,0**,45282,0.00**,0.00**,
+Oregon,2021,Males,White,645,1830284,35.24,32.54,"11,402"
+Oregon,2021,Males,Black,10**,52722,18.97**,17.16**,374
+Oregon,2021,Males,More than One Race,16**,89560,17.87**,19.82**,499
+Oregon,2021,Females,White,182,1838202,9.9,8.93,"3,155"
+Oregon,2021,Females,HI Native / Pacific Islander,0**,9917,0.00**,0.00**,
+Oregon,2020,Males,White,626,1830667,34.2,31.84,"11,464"
+Oregon,2020,Males,Asian,12**,97103,12.36**,10.66**,371
+Oregon,2020,Males,More than One Race,16**,87246,18.34**,18.75**,535
+Oregon,2020,Females,White,156,1837317,8.49,7.63,"2,572"
+Oregon,2020,Females,Black,0**,43447,0.00**,0.00**,
+Oregon,2020,Females,HI Native / Pacific Islander,0**,9756,0.00**,0.00**,
+Oregon,2019,Males,White,632,1810398,34.91,32.69,"11,994"
+Oregon,2019,Males,American Indian / Alaska Native,11**,39653,27.74**,27.05**,327
+Oregon,2019,Males,Asian,13**,95227,13.65**,13.34**,220
+Oregon,2019,Males,More than One Race,18**,84282,21.36**,22.42**,604
+Oregon,2019,Females,White,201,1840469,10.92,10.33,"3,327"
+Oregon,2018,Males,White,599,1800700,33.27,31.18,"11,132"
+Oregon,2018,Females,White,197,1830153,10.76,10.05,"3,844"
+Oregon,2018,Females,HI Native / Pacific Islander,0**,9426,0.00**,0.00**,
+Pennsylvania,2023,Males,White,"1,430",5164211,27.69,25.22,"23,279"
+Pennsylvania,2023,Males,Black,126,767960,16.41,16.6,"3,337"
+Pennsylvania,2023,Males,American Indian / Alaska Native,0**,31023,0.00**,0.00**,
+Pennsylvania,2023,Males,Asian,29,264280,10.97,10.58,737
+Pennsylvania,2023,Males,More than One Race,11**,156101,7.05**,7.40**,393
+Pennsylvania,2023,Females,White,337,5277197,6.39,6.04,"6,018"
+Pennsylvania,2023,Females,Black,28,820560,3.41,3.73,742
+Pennsylvania,2023,Females,American Indian / Alaska Native,0**,30005,0.00**,0.00**,
+Pennsylvania,2023,Females,Asian,12**,277932,4.32**,4.11**,329
+Pennsylvania,2023,Females,HI Native / Pacific Islander,0**,6528,0.00**,0.00**,
+Pennsylvania,2022,Males,White,"1,386",5182358,26.75,24.91,"23,857"
+Pennsylvania,2022,Males,Black,124,765217,16.21,16.47,"3,310"
+Pennsylvania,2022,Males,Asian,39,258836,15.07,15.11,"1,057"
+Pennsylvania,2022,Males,HI Native / Pacific Islander,0**,6014,0.00**,0.00**,
+Pennsylvania,2022,Males,More than One Race,12**,151762,7.91**,9.21**,421
+Pennsylvania,2022,Females,White,344,5296967,6.49,6.04,"5,853"
+Pennsylvania,2022,Females,Black,30,818847,3.66,3.76,912
+Pennsylvania,2022,Females,American Indian / Alaska Native,0**,28722,0.00**,0.00**,
+Pennsylvania,2022,Females,Asian,12**,272057,4.41**,4.16**,336
+Pennsylvania,2022,Females,HI Native / Pacific Islander,0**,6175,0.00**,0.00**,
+Pennsylvania,2021,Males,White,"1,368",5215128,26.23,24.6,"24,464"
+Pennsylvania,2021,Males,Black,123,763870,16.1,16.53,"3,591"
+Pennsylvania,2021,Males,Asian,25,253765,9.85,9.79,682
+Pennsylvania,2021,Males,HI Native / Pacific Islander,0**,5798,0.00**,0.00**,
+Pennsylvania,2021,Females,White,317,5329625,5.95,5.71,"5,992"
+Pennsylvania,2021,Females,Black,32,817899,3.91,3.92,980
+Pennsylvania,2021,Females,American Indian / Alaska Native,0**,27540,0.00**,0.00**,
+Pennsylvania,2021,Females,HI Native / Pacific Islander,0**,5862,0.00**,0.00**,
+Pennsylvania,2020,Males,White,"1,232",5224167,23.58,21.79,"21,699"
+Pennsylvania,2020,Males,Black,98,760584,12.89,12.85,"2,735"
+Pennsylvania,2020,Males,Asian,22,246420,8.93,8.85,652
+Pennsylvania,2020,Males,HI Native / Pacific Islander,0**,5562,0.00**,0.00**,
+Pennsylvania,2020,Males,More than One Race,10**,142609,7.01**,12.62**,268
+Pennsylvania,2020,Females,White,290,5336761,5.43,5.28,"5,282"
+Pennsylvania,2020,Females,Black,27,813537,3.32,3.22,842
+Pennsylvania,2020,Females,Asian,10**,259301,3.86**,4.00**,183
+Pennsylvania,2020,Females,HI Native / Pacific Islander,0**,5686,0.00**,0.00**,
+Pennsylvania,2019,Males,White,"1,366",5123983,26.66,24.54,"23,455"
+Pennsylvania,2019,Males,Black,96,746154,12.87,13.35,"2,601"
+Pennsylvania,2019,Males,American Indian / Alaska Native,0**,26459,0.00**,0.00**,
+Pennsylvania,2019,Males,Asian,28,234609,11.94,12.39,613
+Pennsylvania,2019,Females,White,360,5306366,6.78,6.7,"6,878"
+Pennsylvania,2019,Females,Black,29,798928,3.63,3.68,818
+Pennsylvania,2019,Females,American Indian / Alaska Native,0**,25682,0.00**,0.00**,
+Pennsylvania,2019,Females,HI Native / Pacific Islander,0**,5583,0.00**,0.00**,
+Pennsylvania,2018,Males,White,"1,469",5142223,28.57,26.36,"25,914"
+Pennsylvania,2018,Males,Black,88,742007,11.86,11.68,"2,566"
+Pennsylvania,2018,Males,Asian,28,229216,12.22,11.55,916
+Pennsylvania,2018,Males,HI Native / Pacific Islander,0**,5163,0.00**,0.00**,
+Pennsylvania,2018,Females,White,381,5326596,7.15,7.01,"7,287"
+Pennsylvania,2018,Females,Black,27,794326,3.4,3.48,706
+Pennsylvania,2018,Females,American Indian / Alaska Native,0**,25020,0.00**,0.00**,
+Pennsylvania,2018,Females,Asian,15**,244451,6.14**,6.04**,380
+Pennsylvania,2018,Females,HI Native / Pacific Islander,0**,5382,0.00**,0.00**,
+Rhode Island,2023,Males,White,80,441859,18.11,16.49,"1,294"
+Rhode Island,2023,Males,American Indian / Alaska Native,0**,6947,0.00**,0.00**,
+Rhode Island,2023,Males,Asian,0**,19520,0.00**,0.00**,
+Rhode Island,2023,Males,HI Native / Pacific Islander,0**,1249,0.00**,0.00**,
+Rhode Island,2023,Males,More than One Race,0**,16912,0.00**,0.00**,
+Rhode Island,2023,Females,White,24,461369,5.2,4.69,311
+Rhode Island,2023,Females,Black,0**,50452,0.00**,0.00**,
+Rhode Island,2023,Females,American Indian / Alaska Native,0**,6956,0.00**,0.00**,
+Rhode Island,2023,Females,HI Native / Pacific Islander,0**,1126,0.00**,0.00**,
+Rhode Island,2023,Females,More than One Race,0**,17136,0.00**,0.00**,
+Rhode Island,2022,Males,White,82,442763,18.52,15.94,"1,244"
+Rhode Island,2022,Males,American Indian / Alaska Native,0**,6708,0.00**,0.00**,
+Rhode Island,2022,Males,HI Native / Pacific Islander,0**,1176,0.00**,0.00**,
+Rhode Island,2022,Females,White,32,462692,6.92,6.58,543
+Rhode Island,2022,Females,HI Native / Pacific Islander,0**,1113,0.00**,0.00**,
+Rhode Island,2021,Males,White,80,445466,17.96,16.96,"1,390"
+Rhode Island,2021,Males,HI Native / Pacific Islander,0**,1147,0.00**,0.00**,
+Rhode Island,2021,Females,White,26,465793,5.58,5.06,508
+Rhode Island,2021,Females,HI Native / Pacific Islander,0**,1108,0.00**,0.00**,
+Rhode Island,2021,Females,More than One Race,0**,16601,0.00**,0.00**,
+Rhode Island,2020,Males,White,71,446534,15.9,14.34,"1,297"
+Rhode Island,2020,Males,American Indian / Alaska Native,0**,6254,0.00**,0.00**,
+Rhode Island,2020,Males,Asian,0**,19522,0.00**,0.00**,
+Rhode Island,2020,Males,HI Native / Pacific Islander,0**,1119,0.00**,0.00**,
+Rhode Island,2020,Females,White,13**,466802,2.79**,2.70**,222
+Rhode Island,2020,Females,American Indian / Alaska Native,0**,6249,0.00**,0.00**,
+Rhode Island,2020,Females,HI Native / Pacific Islander,0**,1117,0.00**,0.00**,
+Rhode Island,2019,Males,White,86,429036,20.05,18.45,"1,450"
+Rhode Island,2019,Males,American Indian / Alaska Native,0**,5939,0.00**,0.00**,
+Rhode Island,2019,Males,HI Native / Pacific Islander,0**,1076,0.00**,0.00**,
+Rhode Island,2019,Males,More than One Race,0**,15163,0.00**,0.00**,
+Rhode Island,2019,Females,White,32,454743,7.04,6.17,471
+Rhode Island,2019,Females,American Indian / Alaska Native,0**,5960,0.00**,0.00**,
+Rhode Island,2019,Females,Asian,0**,20220,0.00**,0.00**,
+Rhode Island,2019,Females,HI Native / Pacific Islander,0**,1083,0.00**,0.00**,
+Rhode Island,2018,Males,White,78,430652,18.11,17.31,"1,343"
+Rhode Island,2018,Males,American Indian / Alaska Native,0**,5853,0.00**,0.00**,
+Rhode Island,2018,Females,White,22,456728,4.82,4.33,308
+Rhode Island,2018,Females,Black,0**,44812,0.00**,0.00**,
+Rhode Island,2018,Females,American Indian / Alaska Native,0**,5860,0.00**,0.00**,
+Rhode Island,2018,Females,HI Native / Pacific Islander,0**,1052,0.00**,0.00**,
+South Carolina,2023,Males,White,530,1826152,29.02,27.19,"8,961"
+South Carolina,2023,Males,Black,99,652955,15.16,15.12,"2,731"
+South Carolina,2023,Males,American Indian / Alaska Native,0**,16856,0.00**,0.00**,
+South Carolina,2023,Males,HI Native / Pacific Islander,0**,3071,0.00**,0.00**,
+South Carolina,2023,Females,White,150,1882431,7.97,7.75,"2,656"
+South Carolina,2023,Females,Black,20**,741847,2.70**,2.70**,578
+South Carolina,2023,Females,HI Native / Pacific Islander,0**,2977,0.00**,0.00**,
+South Carolina,2022,Males,White,571,1793378,31.84,29.52,"9,411"
+South Carolina,2022,Males,Black,77,648518,11.87,11.75,"2,189"
+South Carolina,2022,Females,White,168,1846237,9.1,8.65,"2,993"
+South Carolina,2022,Females,Black,17**,736415,2.31**,2.32**,620
+South Carolina,2022,Females,More than One Race,0**,59574,0.00**,0.00**,
+South Carolina,2021,Males,White,555,1761608,31.51,30.1,"10,386"
+South Carolina,2021,Males,Black,82,645154,12.71,12.92,"2,585"
+South Carolina,2021,Males,HI Native / Pacific Islander,0**,2881,0.00**,0.00**,
+South Carolina,2021,Females,White,141,1808240,7.8,7.81,"2,797"
+South Carolina,2021,Females,Black,13**,731827,1.78**,1.86**,404
+South Carolina,2021,Females,American Indian / Alaska Native,0**,14603,0.00**,0.00**,
+South Carolina,2020,Males,White,598,1739715,34.37,33,"11,983"
+South Carolina,2020,Males,Black,93,642974,14.46,15.09,"2,757"
+South Carolina,2020,Females,White,146,1782333,8.19,7.88,"2,630"
+South Carolina,2020,Females,Black,13**,728605,1.78**,1.86**,403
+South Carolina,2020,Females,American Indian / Alaska Native,0**,14280,0.00**,0.00**,
+South Carolina,2020,Females,HI Native / Pacific Islander,0**,2528,0.00**,0.00**,
+South Carolina,2019,Males,White,571,1735358,32.9,31.66,"11,282"
+South Carolina,2019,Males,Black,99,649706,15.24,15.12,"2,835"
+South Carolina,2019,Females,White,152,1799382,8.45,7.94,"2,459"
+South Carolina,2019,Females,Black,11**,741566,1.48**,1.68**,280
+South Carolina,2019,Females,HI Native / Pacific Islander,0**,2377,0.00**,0.00**,
+South Carolina,2019,Females,More than One Race,0**,52457,0.00**,0.00**,
+South Carolina,2018,Males,White,557,1713714,32.5,31.1,"10,948"
+South Carolina,2018,Males,Black,76,646031,11.76,11.58,"2,328"
+South Carolina,2018,Males,HI Native / Pacific Islander,0**,2656,0.00**,0.00**,
+South Carolina,2018,Males,More than One Race,0**,48511,0.00**,0.00**,
+South Carolina,2018,Females,White,151,1773717,8.51,7.97,"2,514"
+South Carolina,2018,Females,Black,14**,735906,1.90**,1.78**,369
+South Carolina,2018,Females,American Indian / Alaska Native,0**,13419,0.00**,0.00**,
+South Dakota,2023,Males,White,109,393343,27.71,28.06,"2,218"
+South Dakota,2023,Males,American Indian / Alaska Native,24,39031,61.49,64.69,814
+South Dakota,2023,Males,More than One Race,0**,12820,0.00**,0.00**,
+South Dakota,2023,Females,White,24,380515,6.31,6.6,542
+South Dakota,2023,Females,Black,0**,10028,0.00**,0.00**,
+South Dakota,2023,Females,American Indian / Alaska Native,18**,39325,45.77**,46.64**,642
+South Dakota,2023,Females,HI Native / Pacific Islander,0**,717,0.00**,0.00**,
+South Dakota,2022,Males,White,108,389716,27.71,26.13,"2,118"
+South Dakota,2022,Males,American Indian / Alaska Native,31,38682,80.14,74.23,"1,235"
+South Dakota,2022,Females,White,31,377430,8.21,9.09,774
+South Dakota,2022,Females,Black,0**,9731,0.00**,0.00**,
+South Dakota,2022,Females,American Indian / Alaska Native,12**,38911,30.84**,30.45**,439
+South Dakota,2022,Females,Asian,0**,8661,0.00**,0.00**,
+South Dakota,2022,Females,HI Native / Pacific Islander,0**,633,0.00**,0.00**,
+South Dakota,2022,Females,More than One Race,0**,12124,0.00**,0.00**,
+South Dakota,2021,Males,White,110,384502,28.61,27.69,"2,093"
+South Dakota,2021,Males,American Indian / Alaska Native,34,38498,88.32,80.32,"1,335"
+South Dakota,2021,Males,HI Native / Pacific Islander,0**,499,0.00**,0.00**,
+South Dakota,2021,Females,White,31,372530,8.32,9.21,708
+South Dakota,2021,Females,Black,0**,9256,0.00**,0.00**,
+South Dakota,2021,Females,American Indian / Alaska Native,17**,38835,43.78**,40.47**,673
+South Dakota,2021,Females,HI Native / Pacific Islander,0**,445,0.00**,0.00**,
+South Dakota,2021,Females,More than One Race,0**,11575,0.00**,0.00**,
+South Dakota,2020,Males,White,108,381383,28.32,26.69,"1,905"
+South Dakota,2020,Males,American Indian / Alaska Native,31,38236,81.08,75.55,"1,165"
+South Dakota,2020,Males,HI Native / Pacific Islander,0**,491,0.00**,0.00**,
+South Dakota,2020,Females,White,24,369988,6.49,7.27,559
+South Dakota,2020,Females,Black,0**,8897,0.00**,0.00**,
+South Dakota,2020,Females,American Indian / Alaska Native,12**,38554,31.13**,32.69**,412
+South Dakota,2020,Females,Asian,0**,7816,0.00**,0.00**,
+South Dakota,2020,Females,HI Native / Pacific Islander,0**,380,0.00**,0.00**,
+South Dakota,2019,Males,White,122,377375,32.33,31.93,"2,697"
+South Dakota,2019,Males,American Indian / Alaska Native,17**,39695,42.83**,43.95**,558
+South Dakota,2019,Males,HI Native / Pacific Islander,0**,451,0.00**,0.00**,
+South Dakota,2019,Females,White,18**,371590,4.84**,4.63**,348
+South Dakota,2019,Females,American Indian / Alaska Native,11**,40614,27.08**,23.70**,471
+South Dakota,2019,Females,Asian,0**,7572,0.00**,0.00**,
+South Dakota,2019,Females,HI Native / Pacific Islander,0**,348,0.00**,0.00**,
+South Dakota,2018,Males,White,101,374550,26.97,26.42,"2,221"
+South Dakota,2018,Males,American Indian / Alaska Native,18**,39644,45.40**,41.57**,703
+South Dakota,2018,Males,HI Native / Pacific Islander,0**,429,0.00**,0.00**,
+South Dakota,2018,Females,White,27,369053,7.32,7.27,608
+South Dakota,2018,Females,Black,0**,8076,0.00**,0.00**,
+South Dakota,2018,Females,American Indian / Alaska Native,16**,40697,39.32**,35.71**,700
+South Dakota,2018,Females,Asian,0**,7171,0.00**,0.00**,
+South Dakota,2018,Females,HI Native / Pacific Islander,0**,318,0.00**,0.00**,
+South Dakota,2018,Females,More than One Race,0**,10522,0.00**,0.00**,
+Tennessee,2023,Males,White,900,2759347,32.62,31.27,"16,433"
+Tennessee,2023,Males,Black,92,556440,16.53,16.52,"2,922"
+Tennessee,2023,Males,HI Native / Pacific Islander,0**,4329,0.00**,0.00**,
+Tennessee,2023,Females,White,245,2825383,8.67,8.07,"4,202"
+Tennessee,2023,Females,Black,21,621156,3.38,3.07,640
+Tennessee,2022,Males,White,905,2729643,33.16,30.99,"16,155"
+Tennessee,2022,Males,Black,93,555396,16.75,16.78,"2,578"
+Tennessee,2022,Males,HI Native / Pacific Islander,0**,4232,0.00**,0.00**,
+Tennessee,2022,Females,White,207,2794716,7.41,6.85,"3,647"
+Tennessee,2022,Females,Black,18**,618751,2.91**,3.03**,569
+Tennessee,2022,Females,American Indian / Alaska Native,0**,18456,0.00**,0.00**,
+Tennessee,2021,Males,White,878,2695583,32.57,31.32,"17,432"
+Tennessee,2021,Males,Black,87,554146,15.7,15.77,"2,606"
+Tennessee,2021,Females,White,213,2759758,7.72,7.46,"3,817"
+Tennessee,2021,Females,Black,23,616822,3.73,3.75,656
+Tennessee,2021,Females,American Indian / Alaska Native,0**,17682,0.00**,0.00**,
+Tennessee,2021,Females,HI Native / Pacific Islander,0**,3759,0.00**,0.00**,
+Tennessee,2020,Males,White,883,2683539,32.9,31.89,"16,556"
+Tennessee,2020,Males,Black,74,556885,13.29,12.35,"2,328"
+Tennessee,2020,Males,HI Native / Pacific Islander,0**,3980,0.00**,0.00**,
+Tennessee,2020,Females,White,219,2741568,7.99,7.57,"3,993"
+Tennessee,2020,Females,Black,18**,616643,2.92**,2.83**,437
+Tennessee,2020,Females,HI Native / Pacific Islander,0**,3690,0.00**,0.00**,
+Tennessee,2019,Males,White,845,2628812,32.14,30.46,"15,082"
+Tennessee,2019,Males,Black,76,550461,13.81,14.13,"1,974"
+Tennessee,2019,Males,Asian,14**,63500,22.05**,20.82**,442
+Tennessee,2019,Males,HI Native / Pacific Islander,0**,3644,0.00**,0.00**,
+Tennessee,2019,Females,White,248,2724009,9.1,8.8,"4,795"
+Tennessee,2019,Females,Black,24,614761,3.9,3.98,614
+Tennessee,2019,Females,American Indian / Alaska Native,0**,15699,0.00**,0.00**,
+Tennessee,2019,Females,HI Native / Pacific Islander,0**,3398,0.00**,0.00**,
+Tennessee,2018,Males,White,798,2611941,30.55,29.37,"14,948"
+Tennessee,2018,Males,Black,75,547390,13.7,14.27,"2,034"
+Tennessee,2018,Females,White,253,2705462,9.35,8.85,"4,645"
+Tennessee,2018,Females,Black,17**,610114,2.79**,2.65**,502
+Tennessee,2018,Females,HI Native / Pacific Islander,0**,3255,0.00**,0.00**,
+Texas,2023,Males,White,"3,037",11751984,25.84,25.69,"63,843"
+Texas,2023,Males,Black,288,2017207,14.28,14,"8,180"
+Texas,2023,Males,American Indian / Alaska Native,10**,170395,5.87**,5.73**,261
+Texas,2023,Males,Asian,106,896927,11.82,11.74,"2,508"
+Texas,2023,Males,More than One Race,16**,354173,4.52**,4.37**,580
+Texas,2023,Females,White,801,11684073,6.86,6.8,"17,210"
+Texas,2023,Females,Black,72,2140578,3.36,3.21,"2,255"
+Texas,2023,Females,Asian,36,922275,3.9,3.7,970
+Texas,2022,Males,White,"3,103",11634666,26.67,26.56,"66,037"
+Texas,2022,Males,Black,308,1968253,15.65,14.8,"9,362"
+Texas,2022,Males,Asian,80,847673,9.44,9.74,"1,854"
+Texas,2022,Males,More than One Race,13**,339001,3.84**,4.57**,398
+Texas,2022,Females,White,735,11568160,6.35,6.34,"16,222"
+Texas,2022,Females,Black,77,2085886,3.69,3.49,"2,338"
+Texas,2022,Females,Asian,30,876714,3.42,3.32,701
+Texas,2021,Males,White,"2,985",11522893,25.91,25.97,"63,953"
+Texas,2021,Males,Black,277,1919466,14.43,13.87,"8,421"
+Texas,2021,Males,Asian,78,803662,9.71,9.69,"2,256"
+Texas,2021,Males,More than One Race,19**,323208,5.88**,6.26**,638
+Texas,2021,Females,White,721,11446825,6.3,6.27,"16,376"
+Texas,2021,Females,Black,67,2028935,3.3,3.24,"2,251"
+Texas,2021,Females,Asian,25,834840,3,3.09,734
+Texas,2021,Females,HI Native / Pacific Islander,0**,23027,0.00**,0.00**,
+Texas,2020,Males,White,"2,779",11442609,24.29,24.35,"61,026"
+Texas,2020,Males,Black,247,1882426,13.12,12.68,"7,853"
+Texas,2020,Males,Asian,91,779393,11.68,11.96,"2,352"
+Texas,2020,Females,White,687,11359723,6.05,6.09,"15,940"
+Texas,2020,Females,Black,64,1987686,3.22,3.18,"1,965"
+Texas,2020,Females,Asian,29,810961,3.58,3.61,740
+Texas,2019,Males,White,"2,730",11352305,24.05,24.14,"58,285"
+Texas,2019,Males,Black,223,1821710,12.24,11.8,"6,582"
+Texas,2019,Males,Asian,65,747749,8.69,8.69,"1,781"
+Texas,2019,Males,More than One Race,12**,297853,4.03**,4.13**,452
+Texas,2019,Females,White,762,11393216,6.69,6.62,"16,297"
+Texas,2019,Females,Black,49,1942722,2.52,2.52,"1,358"
+Texas,2019,Females,Asian,31,787748,3.94,3.86,786
+Texas,2018,Males,White,"2,776",11246379,24.68,24.76,"59,384"
+Texas,2018,Males,Black,205,1786587,11.47,11.2,"5,789"
+Texas,2018,Males,American Indian / Alaska Native,11**,150104,7.33**,6.94**,287
+Texas,2018,Males,Asian,100,724127,13.81,14.08,"2,578"
+Texas,2018,Males,More than One Race,15**,287318,5.22**,6.58**,490
+Texas,2018,Females,White,737,11289527,6.53,6.46,"16,058"
+Texas,2018,Females,Black,55,1903147,2.89,2.85,"1,621"
+Texas,2018,Females,Asian,20**,763234,2.62**,2.58**,583
+Texas,2018,Females,HI Native / Pacific Islander,0**,20751,0.00**,0.00**,
+Utah,2023,Males,White,512,1554333,32.94,34.18,"11,195"
+Utah,2023,Males,Asian,11**,46009,23.91**,22.98**,273
+Utah,2023,Males,More than One Race,12**,52577,22.82**,33.68**,412
+Utah,2023,Females,White,140,1514455,9.24,9.41,"3,069"
+Utah,2022,Males,White,528,1541208,34.26,35.36,"12,126"
+Utah,2022,Males,American Indian / Alaska Native,13**,26436,49.18**,46.43**,362
+Utah,2022,Males,More than One Race,11**,50461,21.80**,26.42**,378
+Utah,2022,Females,White,142,1502578,9.45,9.91,"3,096"
+Utah,2021,Males,White,479,1524680,31.42,32.8,"11,064"
+Utah,2021,Males,More than One Race,11**,48198,22.82**,24.67**,413
+Utah,2021,Females,White,115,1488532,7.73,8.05,"2,721"
+Utah,2020,Males,White,485,1502629,32.28,33.74,"11,945"
+Utah,2020,Females,White,124,1466558,8.46,8.88,"2,974"
+Utah,2020,Females,HI Native / Pacific Islander,0**,17435,0.00**,0.00**,
+Utah,2019,Males,White,477,1460721,32.66,33.99,"12,194"
+Utah,2019,Males,American Indian / Alaska Native,11**,24771,44.41**,47.93**,317
+Utah,2019,Females,White,127,1441319,8.81,9.28,"2,844"
+Utah,2018,Males,White,485,1441188,33.65,35.32,"12,212"
+Utah,2018,Females,White,138,1422554,9.7,10.19,"3,221"
+Utah,2018,Females,Black,0**,19651,0.00**,0.00**,
+Vermont,2023,Males,White,98,300593,32.6,31.21,"1,868"
+Vermont,2023,Males,Black,0**,5980,0.00**,0.00**,
+Vermont,2023,Males,American Indian / Alaska Native,0**,1353,0.00**,0.00**,
+Vermont,2023,Males,Asian,0**,6159,0.00**,0.00**,
+Vermont,2023,Males,HI Native / Pacific Islander,0**,151,0.00**,0.00**,
+Vermont,2023,Females,White,26,305571,8.51,7.32,397
+Vermont,2023,Females,Black,0**,4465,0.00**,0.00**,
+Vermont,2023,Females,American Indian / Alaska Native,0**,1262,0.00**,0.00**,
+Vermont,2023,Females,Asian,0**,7430,0.00**,0.00**,
+Vermont,2023,Females,HI Native / Pacific Islander,0**,116,0.00**,0.00**,
+Vermont,2023,Females,More than One Race,0**,7184,0.00**,0.00**,
+Vermont,2022,Males,White,93,301229,30.87,28.36,"1,536"
+Vermont,2022,Males,American Indian / Alaska Native,0**,1342,0.00**,0.00**,
+Vermont,2022,Males,HI Native / Pacific Islander,0**,143,0.00**,0.00**,
+Vermont,2022,Females,White,31,306037,10.13,9.25,517
+Vermont,2022,Females,Black,0**,4214,0.00**,0.00**,
+Vermont,2022,Females,American Indian / Alaska Native,0**,1237,0.00**,0.00**,
+Vermont,2022,Females,HI Native / Pacific Islander,0**,116,0.00**,0.00**,
+Vermont,2022,Females,More than One Race,0**,6939,0.00**,0.00**,
+Vermont,2021,Males,White,112,302095,37.07,34.36,"1,838"
+Vermont,2021,Males,American Indian / Alaska Native,0**,1326,0.00**,0.00**,
+Vermont,2021,Males,Asian,0**,5901,0.00**,0.00**,
+Vermont,2021,Males,HI Native / Pacific Islander,0**,137,0.00**,0.00**,
+Vermont,2021,Females,White,27,306232,8.82,8.33,569
+Vermont,2021,Females,Black,0**,4019,0.00**,0.00**,
+Vermont,2021,Females,American Indian / Alaska Native,0**,1239,0.00**,0.00**,
+Vermont,2021,Females,HI Native / Pacific Islander,0**,116,0.00**,0.00**,
+Vermont,2021,Females,More than One Race,0**,6748,0.00**,0.00**,
+Vermont,2020,Males,White,93,300777,30.92,28.85,"1,831"
+Vermont,2020,Males,American Indian / Alaska Native,0**,1310,0.00**,0.00**,
+Vermont,2020,Males,HI Native / Pacific Islander,0**,129,0.00**,0.00**,
+Vermont,2020,Males,More than One Race,0**,6506,0.00**,0.00**,
+Vermont,2020,Females,White,21,304394,6.9,6.78,407
+Vermont,2020,Females,Black,0**,3863,0.00**,0.00**,
+Vermont,2020,Females,American Indian / Alaska Native,0**,1221,0.00**,0.00**,
+Vermont,2020,Females,Asian,0**,7087,0.00**,0.00**,
+Vermont,2020,Females,HI Native / Pacific Islander,0**,116,0.00**,0.00**,
+Vermont,2019,Males,White,85,290175,29.29,26.27,"1,443"
+Vermont,2019,Males,Black,0**,5018,0.00**,0.00**,
+Vermont,2019,Males,American Indian / Alaska Native,0**,1238,0.00**,0.00**,
+Vermont,2019,Males,Asian,0**,5553,0.00**,0.00**,
+Vermont,2019,Males,HI Native / Pacific Islander,0**,132,0.00**,0.00**,
+Vermont,2019,Males,More than One Race,0**,6192,0.00**,0.00**,
+Vermont,2019,Females,White,23,297704,7.73,7.31,401
+Vermont,2019,Females,American Indian / Alaska Native,0**,1187,0.00**,0.00**,
+Vermont,2019,Females,HI Native / Pacific Islander,0**,111,0.00**,0.00**,
+Vermont,2019,Females,More than One Race,0**,6265,0.00**,0.00**,
+Vermont,2018,Males,White,97,290745,33.36,31.07,"1,797"
+Vermont,2018,Males,American Indian / Alaska Native,0**,1241,0.00**,0.00**,
+Vermont,2018,Males,HI Native / Pacific Islander,0**,142,0.00**,0.00**,
+Vermont,2018,Females,White,21,298697,7.03,6.78,330
+Vermont,2018,Females,Black,0**,3584,0.00**,0.00**,
+Vermont,2018,Females,American Indian / Alaska Native,0**,1186,0.00**,0.00**,
+Vermont,2018,Females,HI Native / Pacific Islander,0**,108,0.00**,0.00**,
+Vermont,2018,Females,More than One Race,0**,6122,0.00**,0.00**,
+Virginia,2023,Males,White,791,2971183,26.62,24.83,"14,062"
+Virginia,2023,Males,Black,131,841599,15.57,15,"3,804"
+Virginia,2023,Males,Asian,42,307041,13.68,13.09,"1,145"
+Virginia,2023,Males,More than One Race,11**,152249,7.23**,7.42**,393
+Virginia,2023,Females,White,210,2983491,7.04,6.55,"3,589"
+Virginia,2023,Females,Black,38,902774,4.21,4.3,"1,001"
+Virginia,2023,Females,American Indian / Alaska Native,0**,25503,0.00**,0.00**,
+Virginia,2023,Females,Asian,15**,337986,4.44**,4.48**,376
+Virginia,2023,Females,HI Native / Pacific Islander,0**,5745,0.00**,0.00**,
+Virginia,2022,Males,White,780,2968848,26.27,24.75,"14,732"
+Virginia,2022,Males,Black,142,838115,16.94,17.16,"4,105"
+Virginia,2022,Males,Asian,31,301342,10.29,9.79,679
+Virginia,2022,Males,HI Native / Pacific Islander,0**,5677,0.00**,0.00**,
+Virginia,2022,Males,More than One Race,15**,147769,10.15**,10.10**,567
+Virginia,2022,Females,White,195,2979605,6.54,6.11,"3,472"
+Virginia,2022,Females,Black,25,899243,2.78,2.86,808
+Virginia,2022,Females,American Indian / Alaska Native,0**,24827,0.00**,0.00**,
+Virginia,2022,Females,Asian,13**,331174,3.93**,3.49**,215
+Virginia,2021,Males,White,788,2974372,26.49,24.9,"15,126"
+Virginia,2021,Males,Black,116,835244,13.89,13.5,"3,505"
+Virginia,2021,Males,Asian,27,295513,9.14,9.05,800
+Virginia,2021,Males,More than One Race,17**,143784,11.82**,11.47**,668
+Virginia,2021,Females,White,190,2982090,6.37,6.03,"3,414"
+Virginia,2021,Females,Black,29,895147,3.24,3.39,967
+Virginia,2021,Females,Asian,14**,323904,4.32**,4.30**,312
+Virginia,2021,Females,HI Native / Pacific Islander,0**,5397,0.00**,0.00**,
+Virginia,2020,Males,White,777,2977480,26.1,24.8,"14,575"
+Virginia,2020,Males,Black,117,831559,14.07,13.73,"3,655"
+Virginia,2020,Males,American Indian / Alaska Native,0**,25871,0.00**,0.00**,
+Virginia,2020,Males,Asian,34,290618,11.7,11.79,873
+Virginia,2020,Females,White,207,2984030,6.94,6.62,"3,963"
+Virginia,2020,Females,Black,33,892462,3.7,3.55,877
+Virginia,2020,Females,Asian,14**,318694,4.39**,4.41**,405
+Virginia,2020,Females,HI Native / Pacific Islander,0**,5220,0.00**,0.00**,
+Virginia,2019,Males,White,738,2943171,25.08,23.43,"13,821"
+Virginia,2019,Males,Black,109,818621,13.32,13.47,"3,051"
+Virginia,2019,Males,Asian,22,283976,7.75,7.92,512
+Virginia,2019,Males,More than One Race,12**,135100,8.88**,11.43**,417
+Virginia,2019,Females,White,219,2980434,7.35,7.09,"4,227"
+Virginia,2019,Females,Black,21,884956,2.37,2.4,520
+Virginia,2019,Females,Asian,10**,314998,3.18**,2.82**,226
+Virginia,2019,Females,HI Native / Pacific Islander,0**,5049,0.00**,0.00**,
+Virginia,2018,Males,White,802,2937699,27.3,25.79,"15,330"
+Virginia,2018,Males,Black,113,812531,13.91,13.55,"3,061"
+Virginia,2018,Males,Asian,26,277269,9.38,9.94,651
+Virginia,2018,Females,White,254,2975568,8.54,7.9,"4,507"
+Virginia,2018,Females,Black,18**,878884,2.05**,2.29**,537
+Virginia,2018,Females,American Indian / Alaska Native,0**,22141,0.00**,0.00**,
+Virginia,2018,Females,Asian,18**,307770,5.85**,5.48**,440
+Virginia,2018,Females,HI Native / Pacific Islander,0**,4918,0.00**,0.00**,
+Washington,2023,Males,White,876,3007930,29.12,27.26,"16,739"
+Washington,2023,Males,Black,32,197558,16.2,13.78,916
+Washington,2023,Males,American Indian / Alaska Native,23,79716,28.85,30.46,642
+Washington,2023,Males,Asian,37,403352,9.17,9.25,910
+Washington,2023,Males,HI Native / Pacific Islander,13**,34353,37.84**,35.78**,402
+Washington,2023,Males,More than One Race,35,211093,16.58,18.88,"1,063"
+Washington,2023,Females,White,217,2955295,7.34,7,"4,121"
+Washington,2023,Females,Asian,26,436610,5.96,5.69,802
+Washington,2023,Females,More than One Race,11**,208486,5.28**,5.96**,361
+Washington,2022,Males,White,843,3018669,27.93,25.44,"14,223"
+Washington,2022,Males,Black,38,193605,19.63,18.1,"1,060"
+Washington,2022,Males,American Indian / Alaska Native,15**,78687,19.06**,20.95**,347
+Washington,2022,Males,Asian,49,388514,12.61,12,"1,294"
+Washington,2022,Males,HI Native / Pacific Islander,12**,33283,36.05**,31.81**,373
+Washington,2022,Males,More than One Race,31,206774,14.99,19.45,844
+Washington,2022,Females,White,201,2965238,6.78,6.06,"3,401"
+Washington,2022,Females,American Indian / Alaska Native,11**,76662,14.35**,15.56**,274
+Washington,2022,Females,Asian,23,422302,5.45,5.96,555
+Washington,2022,Females,HI Native / Pacific Islander,0**,32820,0.00**,0.00**,
+Washington,2022,Females,More than One Race,15**,204519,7.33**,7.41**,534
+Washington,2021,Males,White,815,3028836,26.91,25.21,"15,446"
+Washington,2021,Males,Black,36,189652,18.98,17.65,"1,175"
+Washington,2021,Males,American Indian / Alaska Native,15**,77576,19.34**,20.41**,436
+Washington,2021,Males,Asian,41,370241,11.07,10.64,"1,088"
+Washington,2021,Males,More than One Race,47,202031,23.26,27.83,"1,570"
+Washington,2021,Females,White,210,2970822,7.07,6.7,"4,278"
+Washington,2021,Females,Black,13**,158908,8.18**,7.48**,377
+Washington,2021,Females,American Indian / Alaska Native,15**,75279,19.93**,22.19**,422
+Washington,2021,Females,Asian,20**,404443,4.95**,4.75**,530
+Washington,2020,Males,White,807,3039290,26.55,25.2,"15,904"
+Washington,2020,Males,Black,29,186122,15.58,13.53,873
+Washington,2020,Males,American Indian / Alaska Native,20**,76842,26.03**,33.37**,471
+Washington,2020,Males,Asian,35,359788,9.73,10.02,853
+Washington,2020,Males,HI Native / Pacific Islander,10**,31325,31.92**,26.21**,318
+Washington,2020,Males,More than One Race,34,197968,17.17,19.67,"1,125"
+Washington,2020,Females,White,227,2981322,7.61,7.2,"3,985"
+Washington,2020,Females,Asian,23,394257,5.83,5.7,524
+Washington,2020,Females,More than One Race,14**,196631,7.12**,7.72**,464
+Washington,2019,Males,White,875,2991518,29.25,27.43,"15,585"
+Washington,2019,Males,Black,24,179382,13.38,12.33,763
+Washington,2019,Males,American Indian / Alaska Native,17**,74975,22.67**,24.81**,459
+Washington,2019,Males,Asian,40,345244,11.59,10.85,"1,090"
+Washington,2019,Males,HI Native / Pacific Islander,13**,30146,43.12**,36.08**,409
+Washington,2019,Males,More than One Race,28,190213,14.72,18.38,863
+Washington,2019,Females,White,230,2972708,7.74,7.29,"3,955"
+Washington,2019,Females,Black,10**,152127,6.57**,6.80**,354
+Washington,2019,Females,Asian,12**,384698,3.12**,3.04**,239
+Washington,2018,Males,White,823,2973279,27.68,26.02,"15,228"
+Washington,2018,Males,Black,27,173970,15.52,15.36,696
+Washington,2018,Males,American Indian / Alaska Native,28,74011,37.83,42.27,767
+Washington,2018,Males,Asian,29,331375,8.75,8.76,742
+Washington,2018,Males,More than One Race,21,184224,11.4,12.48,704
+Washington,2018,Females,White,259,2955944,8.76,8.2,"4,679"
+Washington,2018,Females,Black,11**,148101,7.43**,8.35**,318
+Washington,2018,Females,Asian,22,371152,5.93,5.59,586
+Washington,2018,Females,More than One Race,15**,184681,8.12**,8.86**,521
+West Virginia,2023,Males,White,275,817043,33.66,31.53,"4,479"
+West Virginia,2023,Males,American Indian / Alaska Native,0**,2744,0.00**,0.00**,
+West Virginia,2023,Males,HI Native / Pacific Islander,0**,274,0.00**,0.00**,
+West Virginia,2023,Females,White,62,825862,7.51,6.82,821
+West Virginia,2023,Females,American Indian / Alaska Native,0**,2331,0.00**,0.00**,
+West Virginia,2023,Females,HI Native / Pacific Islander,0**,269,0.00**,0.00**,
+West Virginia,2023,Females,More than One Race,0**,18797,0.00**,0.00**,
+West Virginia,2022,Males,White,278,819880,33.91,30.39,"4,371"
+West Virginia,2022,Males,American Indian / Alaska Native,0**,2631,0.00**,0.00**,
+West Virginia,2022,Males,Asian,0**,7723,0.00**,0.00**,
+West Virginia,2022,Males,HI Native / Pacific Islander,0**,262,0.00**,0.00**,
+West Virginia,2022,Females,White,63,828796,7.6,7.73,"1,393"
+West Virginia,2022,Females,American Indian / Alaska Native,0**,2296,0.00**,0.00**,
+West Virginia,2022,Females,Asian,0**,8515,0.00**,0.00**,
+West Virginia,2022,Females,HI Native / Pacific Islander,0**,269,0.00**,0.00**,
+West Virginia,2022,Females,More than One Race,0**,18277,0.00**,0.00**,
+West Virginia,2021,Males,White,301,826754,36.41,35.61,"5,538"
+West Virginia,2021,Males,American Indian / Alaska Native,0**,2514,0.00**,0.00**,
+West Virginia,2021,Males,HI Native / Pacific Islander,0**,264,0.00**,0.00**,
+West Virginia,2021,Females,White,67,835063,8.02,8.28,"1,504"
+West Virginia,2021,Females,American Indian / Alaska Native,0**,2244,0.00**,0.00**,
+West Virginia,2021,Females,Asian,0**,8234,0.00**,0.00**,
+West Virginia,2021,Females,HI Native / Pacific Islander,0**,257,0.00**,0.00**,
+West Virginia,2021,Females,More than One Race,0**,17718,0.00**,0.00**,
+West Virginia,2020,Males,White,278,831037,33.45,32.71,"5,459"
+West Virginia,2020,Males,Black,11**,36408,30.21**,26.74**,271
+West Virginia,2020,Males,American Indian / Alaska Native,0**,2483,0.00**,0.00**,
+West Virginia,2020,Males,HI Native / Pacific Islander,0**,259,0.00**,0.00**,
+West Virginia,2020,Males,More than One Race,0**,17295,0.00**,0.00**,
+West Virginia,2020,Females,White,58,839330,6.91,6.71,"1,099"
+West Virginia,2020,Females,American Indian / Alaska Native,0**,2153,0.00**,0.00**,
+West Virginia,2020,Females,Asian,0**,8036,0.00**,0.00**,
+West Virginia,2019,Males,White,250,827478,30.21,30.07,"5,052"
+West Virginia,2019,Males,Asian,0**,7269,0.00**,0.00**,
+West Virginia,2019,Males,HI Native / Pacific Islander,0**,263,0.00**,0.00**,
+West Virginia,2019,Females,White,73,849676,8.59,8.95,"1,510"
+West Virginia,2019,Females,American Indian / Alaska Native,0**,2142,0.00**,0.00**,
+West Virginia,2019,Females,Asian,0**,8056,0.00**,0.00**,
+West Virginia,2019,Females,HI Native / Pacific Islander,0**,275,0.00**,0.00**,
+West Virginia,2019,Females,More than One Race,0**,16372,0.00**,0.00**,
+West Virginia,2018,Males,White,308,832939,36.98,35.35,"5,887"
+West Virginia,2018,Males,American Indian / Alaska Native,0**,2382,0.00**,0.00**,
+West Virginia,2018,Males,HI Native / Pacific Islander,0**,261,0.00**,0.00**,
+West Virginia,2018,Males,More than One Race,0**,16236,0.00**,0.00**,
+West Virginia,2018,Females,White,74,855866,8.65,8.51,"1,294"
+West Virginia,2018,Females,American Indian / Alaska Native,0**,2096,0.00**,0.00**,
+West Virginia,2018,Females,HI Native / Pacific Islander,0**,263,0.00**,0.00**,
+West Virginia,2018,Females,More than One Race,0**,16147,0.00**,0.00**,
+Wisconsin,2023,Males,White,659,2563677,25.71,24.25,"12,209"
+Wisconsin,2023,Males,Black,37,193200,19.15,18.88,"1,198"
+Wisconsin,2023,Males,American Indian / Alaska Native,17**,36687,46.34**,51.70**,436
+Wisconsin,2023,Females,White,181,2546160,7.11,6.87,"3,339"
+Wisconsin,2023,Females,HI Native / Pacific Islander,0**,1742,0.00**,0.00**,
+Wisconsin,2022,Males,White,651,2559871,25.43,24.14,"11,589"
+Wisconsin,2022,Males,Black,50,192141,26.02,24.51,"1,603"
+Wisconsin,2022,Males,American Indian / Alaska Native,13**,36315,35.80**,35.46**,443
+Wisconsin,2022,Males,Asian,12**,93066,12.89**,11.46**,380
+Wisconsin,2022,Males,HI Native / Pacific Islander,0**,1896,0.00**,0.00**,
+Wisconsin,2022,Males,More than One Race,10**,65939,15.17**,16.06**,367
+Wisconsin,2022,Females,White,172,2542891,6.76,6.61,"3,607"
+Wisconsin,2022,Females,HI Native / Pacific Islander,0**,1709,0.00**,0.00**,
+Wisconsin,2022,Females,More than One Race,0**,66173,0.00**,0.00**,
+Wisconsin,2021,Males,White,631,2559140,24.66,23.88,"12,684"
+Wisconsin,2021,Males,Black,35,191829,18.25,18.68,"1,080"
+Wisconsin,2021,Males,American Indian / Alaska Native,12**,35896,33.43**,34.96**,400
+Wisconsin,2021,Males,Asian,20**,91428,21.88**,18.27**,701
+Wisconsin,2021,Females,White,181,2541196,7.12,6.88,"3,472"
+Wisconsin,2020,Males,White,655,2569333,25.49,24.69,"12,594"
+Wisconsin,2020,Males,Black,34,193777,17.55,16.78,"1,169"
+Wisconsin,2020,Males,HI Native / Pacific Islander,0**,1872,0.00**,0.00**,
+Wisconsin,2020,Females,White,147,2551005,5.76,5.59,"2,941"
+Wisconsin,2020,Females,HI Native / Pacific Islander,0**,1655,0.00**,0.00**,
+Wisconsin,2019,Males,White,628,2520445,24.92,23.33,"11,565"
+Wisconsin,2019,Males,Black,19**,193424,9.82**,11.84**,596
+Wisconsin,2019,Males,HI Native / Pacific Islander,0**,1838,0.00**,0.00**,
+Wisconsin,2019,Females,White,159,2537625,6.27,6.24,"3,168"
+Wisconsin,2019,Females,HI Native / Pacific Islander,0**,1626,0.00**,0.00**,
+Wisconsin,2019,Females,More than One Race,0**,60940,0.00**,0.00**,
+Wisconsin,2018,Males,White,670,2517628,26.61,25.31,"13,021"
+Wisconsin,2018,Males,Black,28,192531,14.54,13.27,941
+Wisconsin,2018,Males,American Indian / Alaska Native,10**,34370,29.10**,34.53**,244
+Wisconsin,2018,Females,White,149,2535723,5.88,5.66,"3,012"
+Wisconsin,2018,Females,HI Native / Pacific Islander,0**,1563,0.00**,0.00**,
+Wyoming,2023,Males,White,125,275780,45.33,44.36,"2,748"
+Wyoming,2023,Males,HI Native / Pacific Islander,0**,340,0.00**,0.00**,
+Wyoming,2023,Females,White,25,263208,9.5,9.75,434
+Wyoming,2023,Females,Black,0**,2916,0.00**,0.00**,
+Wyoming,2023,Females,American Indian / Alaska Native,0**,8051,0.00**,0.00**,
+Wyoming,2023,Females,Asian,0**,3528,0.00**,0.00**,
+Wyoming,2023,Females,HI Native / Pacific Islander,0**,321,0.00**,0.00**,
+Wyoming,2023,Females,More than One Race,0**,7008,0.00**,0.00**,
+Wyoming,2022,Males,White,133,274880,48.39,46.34,"2,698"
+Wyoming,2022,Males,Black,0**,4162,0.00**,0.00**,
+Wyoming,2022,Males,Asian,0**,3071,0.00**,0.00**,
+Wyoming,2022,Males,HI Native / Pacific Islander,0**,319,0.00**,0.00**,
+Wyoming,2022,Males,More than One Race,0**,7113,0.00**,0.00**,
+Wyoming,2022,Females,White,17**,262303,6.48**,6.07**,278
+Wyoming,2022,Females,Black,0**,2937,0.00**,0.00**,
+Wyoming,2022,Females,Asian,0**,3412,0.00**,0.00**,
+Wyoming,2022,Females,HI Native / Pacific Islander,0**,297,0.00**,0.00**,
+Wyoming,2022,Females,More than One Race,0**,6900,0.00**,0.00**,
+Wyoming,2021,Males,White,146,273846,53.32,53.12,"3,019"
+Wyoming,2021,Males,Asian,0**,3004,0.00**,0.00**,
+Wyoming,2021,Males,HI Native / Pacific Islander,0**,308,0.00**,0.00**,
+Wyoming,2021,Females,White,34,261863,12.98,12.75,781
+Wyoming,2021,Females,Black,0**,2890,0.00**,0.00**,
+Wyoming,2021,Females,Asian,0**,3305,0.00**,0.00**,
+Wyoming,2021,Females,HI Native / Pacific Islander,0**,275,0.00**,0.00**,
+Wyoming,2021,Females,More than One Race,0**,6795,0.00**,0.00**,
+Wyoming,2020,Males,White,148,273372,54.14,53.94,"2,932"
+Wyoming,2020,Males,Asian,0**,2993,0.00**,0.00**,
+Wyoming,2020,Males,HI Native / Pacific Islander,0**,319,0.00**,0.00**,
+Wyoming,2020,Females,White,28,260928,10.73,9.97,506
+Wyoming,2020,Females,American Indian / Alaska Native,0**,7903,0.00**,0.00**,
+Wyoming,2020,Females,Asian,0**,3304,0.00**,0.00**,
+Wyoming,2020,Females,HI Native / Pacific Islander,0**,277,0.00**,0.00**,
+Wyoming,2020,Females,More than One Race,0**,6529,0.00**,0.00**,
+Wyoming,2019,Males,White,135,273336,49.39,49.8,"2,654"
+Wyoming,2019,Males,Asian,0**,3050,0.00**,0.00**,
+Wyoming,2019,Males,HI Native / Pacific Islander,0**,325,0.00**,0.00**,
+Wyoming,2019,Females,White,22,263516,8.35,7.66,356
+Wyoming,2019,Females,Black,0**,2890,0.00**,0.00**,
+Wyoming,2019,Females,Asian,0**,3371,0.00**,0.00**,
+Wyoming,2019,Females,HI Native / Pacific Islander,0**,273,0.00**,0.00**,
+Wyoming,2019,Females,More than One Race,0**,6363,0.00**,0.00**,
+Wyoming,2018,Males,White,104,272977,38.1,36.62,"2,277"
+Wyoming,2018,Males,Asian,0**,3064,0.00**,0.00**,
+Wyoming,2018,Males,HI Native / Pacific Islander,0**,311,0.00**,0.00**,
+Wyoming,2018,Females,White,38,263225,14.44,14.26,673
+Wyoming,2018,Females,Black,0**,2864,0.00**,0.00**,
+Wyoming,2018,Females,American Indian / Alaska Native,0**,8034,0.00**,0.00**,
+Wyoming,2018,Females,Asian,0**,3407,0.00**,0.00**,
+Wyoming,2018,Females,HI Native / Pacific Islander,0**,264,0.00**,0.00**,

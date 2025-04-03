@@ -43,13 +43,13 @@ py -3.11 -m venv .venv
 **4. Install the required dependencies:**
 Mac/Linux:
 ```zsh
-pip install jupyterlab pandas matplotlib scikit-learn numpy
+pip install jupyterlab pandas matplotlib scikit-learn numpy seaborn
 python3 -m pip install -U scikit-learn
 ```
 
 Windows: 
 ```shell
-py -m pip install jupyterlab pandas matplotlib scikit-learn numpy
+py -m pip install jupyterlab pandas matplotlib scikit-learn numpy seaborn
 py -m pip install --upgrade scikit-learn
 ```
 
@@ -101,6 +101,8 @@ The following markdown cells should be included, with code cells in between:
 - Initial Data Distribution for Categorical Columns 
 - Initial Data Transformation and Feature Engineering, if needed
 - Initial Visualizations
+
+Verify your dataset is save in your project folder if loading in from a static file. 
 
 **Final Project Commit** 
 Insure all final changes are committed to GitHub.
