@@ -83,9 +83,24 @@ git push origin main
 ```
 ---
 ## Actual project
+**Create a Jupyter Notebooks file to begin project:**
+```zsh
+touch your_project.ipynb
+```
+To run Jupyter within VS Code, use the Jupyter extension. Go to the Extensions pane on the left sidebar (the icon looks like four squares), search for "Jupyter," and install the "Jupyter" extension provided by Microsoft. If already installed, check for available updates for this extension. 
 
+Open the newly create notebook and ceate/select the notebook kernel.
 
-
+**Outline Notebook with Markdown and Code Cells:**
+The following markdown cells should be included, with code cells in between:
+- Import Dependencies 
+- Data Acquisition
+- Initial Data Inspection
+- Initial Descriptive Statistics 
+- Initial Data Distribution for Numerical Columns 
+- Initial Data Distribution for Categorical Columns 
+- Initial Data Transformation and Feature Engineering, if needed
+- Initial Visualizations
 
 **Final Project Commit** 
 Insure all final changes are committed to GitHub.
