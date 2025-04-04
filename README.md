@@ -97,8 +97,7 @@ The following markdown cells should be included, with code cells in between:
 - Data Acquisition
 - Initial Data Inspection
 - Initial Descriptive Statistics 
-- Initial Data Distribution for Numerical Columns 
-- Initial Data Distribution for Categorical Columns 
+- Initial Data Distributions
 - Initial Data Transformation and Feature Engineering, if needed
 - Initial Visualizations
 
