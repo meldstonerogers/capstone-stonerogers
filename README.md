@@ -5,8 +5,8 @@ Melissa Stone Rogers, [GitHub](https://github.com/meldstonerogers/capstone-stone
 
 ## Introduction
 
-This is a professional project exaiming trends in suicide rates over time. Data has been gathered from Center for Disease Control using
-the Web-based Injury Statistics Query and Reporting System [(WISQARS)](https://wisqars.cdc.gov/about/fatal-injury-data/). 
+This is a professional project exaiming trends in suicide over time. Data has been gathered from Center for Disease Control using
+the Wide-ranging ONline Data for Epidemiologic Research[(WONDER)](https://wonder.cdc.gov) system. 
 
 ---
 ## How to Install and Run the Project
