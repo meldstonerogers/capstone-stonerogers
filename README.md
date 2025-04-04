@@ -92,7 +92,7 @@ To run Jupyter within VS Code, use the Jupyter extension. Go to the Extensions p
 Open the newly create notebook and ceate/select the notebook kernel.
 
 **Outline Notebook with Markdown and Code Cells:**
-The following markdown cells should be included, with code cells in between:
+The following markdown cells should be included, with code cells in between.
 - Import Dependencies 
 - Data Acquisition
 - Initial Data Inspection
@@ -123,11 +123,11 @@ touch your_project.ipynb
 Open the newly create notebook and ceate/select the notebook kernel.
 
 **Outline Notebook with Markdown and Code Cells:**
-Outline your project with markdown cells with code cells in between:
+Outline your project with markdown cells with code cells in between. 
 - Train/Test Data Split 
 - Train and Evaluate Linear Regression Model 
 - Train and Evaluate Random Forest Regressor
-- Train and Ealuate Decision Tree Model
+- Train and Evaluate Decision Tree Model
 - Train and Evaluate Random Forest Model 
 - Results
 
