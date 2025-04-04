@@ -82,8 +82,8 @@ git commit -m "initial project set up"
 git push origin main
 ```
 ---
-## Actual project
-**Create a Jupyter Notebooks file to begin project:**
+## Exploratory Data Analysis
+**Create a Jupyter Notebooks file to begin EDA:**
 ```zsh
 touch your_project.ipynb
 ```
@@ -101,18 +101,44 @@ The following markdown cells should be included, with code cells in between:
 - Initial Data Distributions
 - Initial Visualizations
 
-Verify your dataset is save in your project folder if loading in from a static file. 
+Verify your dataset is saved in your project folder if loading in from a static file. 
 
-**Final Project Commit** 
+Complete the structured data exploration using the code structures noted within the eda.ipynb file. 
+
+Make notes as needed within your REAMME.md for furture reference.
+
+**Final EDA Commit** 
 Insure all final changes are committed to GitHub.
 ```zsh
 git add .
-git commit -m "final"                         
+git commit -m "final eda"                         
 git push origin main
 ```
 ---
+## Predictive Modeling
+**Create another Jupyter Notebooks file to begin predictive modeling:**
+```zsh
+touch your_project.ipynb
+```
+Open the newly create notebook and ceate/select the notebook kernel.
+
+**Outline Notebook with Markdown and Code Cells:**
+Outline your project with markdown cells with code cells in between:
+- Train/Test Data Split 
+- Train and Evaluate Linear Regression Model 
+- Train and Evaluate Random Forest Regressor
+- Train and Ealuate Decision Tree Model
+- Train and Evaluate Random Forest Model 
+- Results
+
 ## Discussion
 
+**Final Modeling Commit** 
+Insure all final changes are committed to GitHub.
+```zsh
+git add .
+git commit -m "final modeling"                         
+git push origin main
 ---
 
 
