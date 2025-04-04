@@ -96,9 +96,9 @@ The following markdown cells should be included, with code cells in between:
 - Import Dependencies 
 - Data Acquisition
 - Initial Data Inspection
+- Initial Data Transformation and Feature Engineering, if needed
 - Initial Descriptive Statistics 
 - Initial Data Distributions
-- Initial Data Transformation and Feature Engineering, if needed
 - Initial Visualizations
 
 Verify your dataset is save in your project folder if loading in from a static file. 
