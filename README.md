@@ -143,7 +143,3 @@ git push origin main
 ---
 
 
-## Save Space
-To save disk space, you can delete the .venv folder when not actively working on this project.
-You can always recreate it, activate it, and reinstall the necessary packages later. 
-Managing Python virtual environments is a valuable skill. 
