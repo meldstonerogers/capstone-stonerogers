@@ -131,7 +131,8 @@ Outline your project with markdown cells with code cells in between.
 - Train and Evaluate Random Forest Model 
 - Results
 
-## Discussion
+**Model Execution and Review**
+Execute and evaluate each model. A robust discussion of results can be found at the end of the modeling.ipynb file. 
 
 **Final Modeling Commit** 
 Insure all final changes are committed to GitHub.
