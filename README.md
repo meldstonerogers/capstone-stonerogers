@@ -115,19 +115,20 @@ git commit -m "final eda"
 git push origin main
 ```
 ---
-## Predictive Modeling
-**Create another Jupyter Notebooks file to begin predictive modeling:**
+## Model Building and Testing
+**Create another Jupyter Notebooks file to begin model buildling:**
 ```zsh
 touch your_project.ipynb
 ```
 Open the newly create notebook and ceate/select the notebook kernel.
 
 **Outline Notebook with Markdown and Code Cells:**
-Outline your project with markdown cells with code cells in between. 
+Outline your project with markdown cells with code cells in between. Note what algorithms you plan to use. 
+- Import and Read Data
 - Train/Test Data Split 
 - Train and Evaluate Linear Regression Model 
 - Train and Evaluate Random Forest Regressor
-- Train and Evaluate Decision Tree Model
+- Train and Evaluate Decision Tree Classifier Model
 - Train and Evaluate Random Forest Model 
 - Results
 
@@ -140,6 +141,29 @@ Insure all final changes are committed to GitHub.
 git add .
 git commit -m "final modeling"                         
 git push origin main
+```
 ---
+## Predictive Modeling and Analysis 
+**Create another Jupyter Notebooks file to begin predictive modeling and anlysis:**
+```zsh
+touch your_project.ipynb
+```
+Open the newly create notebook and ceate/select the notebook kernel.
 
+**Outline Notebook with Markdown and Code Cells:**
+Outline your project with markdown cells with code cells in between.  
+- Load Saved Model(s)
+- Make predictions
+- Interpretation of Results
 
+**Predictive Model Execution and Review**
+Execute and evaluate each model. A robust discussion of results can be found at the end of the predictive_analysis.ipynb file. 
+
+**Final Preditive Commit** 
+Insure all final changes are committed to GitHub.
+```zsh
+git add .
+git commit -m "final predictive"                         
+git push origin main
+```
+---
