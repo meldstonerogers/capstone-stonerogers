@@ -152,8 +152,7 @@ Open the newly create notebook and ceate/select the notebook kernel.
 
 **Outline Notebook with Markdown and Code Cells:**
 Outline your project with markdown cells with code cells in between.  
-- Load Saved Model(s)
-- Make predictions
+- Make Prediction 
 - Interpretation of Results
 
 **Predictive Model Execution and Review**
