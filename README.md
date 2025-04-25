@@ -1,4 +1,4 @@
-# capstone-stonerogers
+# Analyzing Suicide Mortality Trends: A Data-Driven Approach to Suicide Prevention
 Capstone Project for M.S. Data Analytics Program
 
 Melissa Stone Rogers, [GitHub](https://github.com/meldstonerogers/capstone-stonerogers)
